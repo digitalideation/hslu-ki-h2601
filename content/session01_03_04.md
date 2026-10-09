@@ -1,4 +1,4 @@
-# 3.4 🔍 Discussion and Reflection - Thinking Like a Philosopher
+# 3.4 Discussion and Reflection - Thinking Like a Philosopher
 
 Explore how _perception_ differs between humans and AI systems - not through theory alone, but through short, practical and creative exercises.
 Each activity helps translate abstract ideas from **George Berkeley** and **Maurice Merleau-Ponty** into experiences or examples relevant to computing, robotics, and interaction design.
@@ -116,7 +116,7 @@ Choose one of the following formats depending on your space and time.
 
 - “Would this robot _see_ the cup, or would it _feel_ its way to it?”
 
-## 💬 Activity 4 - AI as a Philosopher (LLM Integration)
+## Activity 4 - AI as a Philosopher (LLM Integration)
 
 ![AI as a Philosopher](../assets/ai_%20as_%20a_philosopher.png)
 
@@ -151,7 +151,7 @@ Then ask:
 
 → **Does AI perceive, or does it merely process?**
 
-## 🪜 Recommended Flow (30–35 minutes total)
+## Recommended Flow (30–35 minutes total)
 
 | Time    | Activity                  | Focus                  |
 | ------- | ------------------------- | ---------------------- |
