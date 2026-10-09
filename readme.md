@@ -86,41 +86,7 @@
 
 ## Session 02
 
-![Session 01 image](./assets/session02_02.png)
-
-### Part 1: In the news
-
-1. [Iran wedding scandal][alinejad-x]
-2. GPTs in shopping
-   - [Official post][openai-shopping]
-   - "LLMs are slot‑machines" (16 Aug 2025 on Pluralistic) ([pluralistic.net][pluralistic-jackpot])
-   - "Elon Musk to introduce ads to X’s AI chatbot" (7 Aug 2025 on FT) ([FT][ft-ads-x])
-
-3. [AI Kill internet doc][arte-ki-doc]
-   - Satire distinction
-   - Eliza bot
-   - Stocastic parrot
-
-### Part 2: Trial and Error - A Common Ground ?
-
-1. The "shared" theme of learning through trial and error in both humans and AI.
-2. Implications of error-making as a learning process.
-
-### [Part 3: Learning to learn](./content/session02_03.md)
-
-1. Attention mechanisms
-2. Memory
-3. Inhinbition and flexibility
-4. Metacognition
-5. Motivation and spirit for changes
-6. Emotions!
-
-### Part 4: Practice
-
-1. The declaration of independance
-   - [Fullt text][declaration-text]
-   - [Full video][declaration-video]
-   - [Tracks on cyberspace (Arte)][declaration-tracks]
+TBA
 
 ## Resources
 
