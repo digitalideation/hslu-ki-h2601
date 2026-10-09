@@ -57,11 +57,9 @@ Consider this scenario:
 ### Steps
 
 1. In group write a **two-sentence response**:
-
    - “Yes, because…” or “No, because…”
 
 2. Use technical reasoning if possible (data storage, model memory, computation).
-
    - Example: “Yes, its parameters still encode a version of the world.”
    - Example: “No, without active perception, there is no world at all.”
 
@@ -107,7 +105,6 @@ Choose one of the following formats depending on your space and time.
 1. Pose the challenge: “Design a robot that must find and pick up a coffee cup in a real room.”
 
 2. Outline (verbally or on paper):
-
    - What sensors it needs
    - How it would move
    - How it would know it succeeded
@@ -129,7 +126,6 @@ Choose one of the following formats depending on your space and time.
 1. Open an AI chatbot.
 
 2. Give it one of these prompts:
-
    - “You are **George Berkeley**. Explain AI perception in your own words.”
    - “You are **Maurice Merleau-Ponty**. What do you think of robots that can feel touch?”
    - “You are an AI philosopher combining both ideas - define _perception_ in one sentence.”
@@ -137,7 +133,6 @@ Choose one of the following formats depending on your space and time.
 3. Copy or paraphrase 2–3 interesting responses.
 
 4. Then answer these short questions:
-
    - What does the AI assume about perception?
    - Does it _understand_ or just _recombine_ ideas?
    - Which answer sounds most “human”?

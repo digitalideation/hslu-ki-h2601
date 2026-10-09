@@ -12,7 +12,6 @@
 - ✏️ Board:
   - [Public Miro board][miro-board]
 
-
 ## 2.1 Conceptual Introduction - _Unnatural Animals_
 
 Humans differ from other animals through their **lack of instinct** and **dependence on learning**.
@@ -78,12 +77,10 @@ Reflect: If AI’s goals and functions are fixed, can it experience human-like f
 > Humans learn _because_ they fail; AI learns _to avoid_ failure.  
 > Our weakness is the source of our adaptability, creativity, and freedom.
 
-[notebooklm-video]: https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484?artifactId=395cfd6c-68d5-454d-a70b-ff384e4e3cd8 'NotebookLM - video overview'
-[notebooklm-notebook]: https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484 'NotebookLM - interactive notebook'
-[pepin-podcast]: https://www.radiofrance.fr/franceinter/podcasts/la-chronique-de-charles-pepin/reveil-philo-du-samedi-23-septembre-2023-6800909 'Charles Pépin - The Virtues of Failure (official page)'
-[philo-fr]: ../slides/static/vids/philo_fr.mp4 'Audio (French) - Charles Pépin'
-[philo-en]: ../slides/static/vids/philo_en.mp4 'Audio (English) - Charles Pépin'
-[philo-en-transcript]: ../slides/static/vids/philo_en.md 'English transcript - Charles Pépin'
-[miro-board]: https://miro.com/app/board/uXjVGtZoflg=/ 'Miro Board'
-
-
+[notebooklm-video]: https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484?artifactId=395cfd6c-68d5-454d-a70b-ff384e4e3cd8 "NotebookLM - video overview"
+[notebooklm-notebook]: https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484 "NotebookLM - interactive notebook"
+[pepin-podcast]: https://www.radiofrance.fr/franceinter/podcasts/la-chronique-de-charles-pepin/reveil-philo-du-samedi-23-septembre-2023-6800909 "Charles Pépin - The Virtues of Failure (official page)"
+[philo-fr]: ../slides/static/vids/philo_fr.mp4 "Audio (French) - Charles Pépin"
+[philo-en]: ../slides/static/vids/philo_en.mp4 "Audio (English) - Charles Pépin"
+[philo-en-transcript]: ../slides/static/vids/philo_en.md "English transcript - Charles Pépin"
+[miro-board]: https://miro.com/app/board/uXjVGtZoflg=/ "Miro Board"

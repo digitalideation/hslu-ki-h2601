@@ -27,7 +27,6 @@
 
 - **Key idea:** Memory structures learning over time; it can be trained and optimized.
 - **Concepts:**
-
   - **Working memory:** active manipulation of information.
   - **Long-term memory:** durable knowledge formed through deep encoding.
 
@@ -56,7 +55,6 @@
 
 - **Key idea:** Motivation fuels all learning.
 - **Concepts:**
-
   - **Extrinsic motivation:** driven by reward or recognition.
   - **Intrinsic motivation:** driven by curiosity and growth.
   - **Growth mindset:** belief that intelligence can evolve.
