@@ -1,9 +1,9 @@
-# 3.4 🔍 Discussion and Reflection — Thinking Like a Philosopher
+# 3.4 🔍 Discussion and Reflection - Thinking Like a Philosopher
 
-Explore how _perception_ differs between humans and AI systems — not through theory alone, but through short, practical and creative exercises.
+Explore how _perception_ differs between humans and AI systems - not through theory alone, but through short, practical and creative exercises.
 Each activity helps translate abstract ideas from **George Berkeley** and **Maurice Merleau-Ponty** into experiences or examples relevant to computing, robotics, and interaction design.
 
-## Activity 1 — Data or Experience?
+## Activity 1 - Data or Experience?
 
 ![Data or experience](../assets/data_or_experience.png)
 
@@ -38,7 +38,7 @@ Then on to:
 - **Berkeley’s view:** perception _creates_ the world.
 - **Merleau-Ponty’s view:** perception _happens through the body._
 
-## Activity 2 — If the Sensors Go Dark
+## Activity 2 - If the Sensors Go Dark
 
 ![A sensor goes dark](../assets/a_sensor_goes_dark.png)
 
@@ -51,7 +51,7 @@ Then on to:
 Consider this scenario:
 
 > “Imagine an AI vision system trained on millions of images.  
-> One day, it’s turned off — all sensors disconnected, no data coming in.  
+> One day, it’s turned off - all sensors disconnected, no data coming in.  
 > Does its world still exist?”
 
 ### Steps
@@ -70,9 +70,9 @@ Consider this scenario:
 Discuss a few answers. Then connect to **Berkeley**:
 
 > “He believed that when perception stops, the world disappears.
-> For AI — does data storage count as ongoing perception?”
+> For AI - does data storage count as ongoing perception?”
 
-## Activity 3 — Embodied or Disembodied?
+## Activity 3 - Embodied or Disembodied?
 
 ![Embodied or disembodied](../assets/embodied_or_disembodied.png)
 
@@ -116,7 +116,7 @@ Choose one of the following formats depending on your space and time.
 
 - “Would this robot _see_ the cup, or would it _feel_ its way to it?”
 
-## 💬 Activity 4 — AI as a Philosopher (LLM Integration)
+## 💬 Activity 4 - AI as a Philosopher (LLM Integration)
 
 ![AI as a Philosopher](../assets/ai_%20as_%20a_philosopher.png)
 
@@ -132,7 +132,7 @@ Choose one of the following formats depending on your space and time.
 
    - “You are **George Berkeley**. Explain AI perception in your own words.”
    - “You are **Maurice Merleau-Ponty**. What do you think of robots that can feel touch?”
-   - “You are an AI philosopher combining both ideas — define _perception_ in one sentence.”
+   - “You are an AI philosopher combining both ideas - define _perception_ in one sentence.”
 
 3. Copy or paraphrase 2–3 interesting responses.
 

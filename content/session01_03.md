@@ -1,4 +1,4 @@
-# Part 3 — Perception: From Data to Experience
+# Part 3 - Perception: From Data to Experience
 
 ## Learning materials
 
@@ -10,9 +10,9 @@
 - ✏️ Board:
   - [Public Miro board][miro-board]
 
-## 3.1 Conceptual Introduction — _Perceiving Machines?_
+## 3.1 Conceptual Introduction - _Perceiving Machines?_
 
-Artificial Intelligence “perceives” the world through sensors and data inputs — it processes information, recognizes patterns, and makes predictions.
+Artificial Intelligence “perceives” the world through sensors and data inputs - it processes information, recognizes patterns, and makes predictions.
 But can it truly **experience** what it perceives?
 
 Philosophers have long debated whether perception creates reality, or merely interprets it.
@@ -24,7 +24,7 @@ Two thinkers, **George Berkeley** and **Maurice Merleau-Ponty**, offer powerful 
 > **Guiding question:**
 > Does AI _perceive_ the world, or does it merely _compute_ it?
 
-## 3.2 Application Topics — Connecting Philosophy and AI
+## 3.2 Application Topics - Connecting Philosophy and AI
 
 ### 1. AI Perception vs. Human Perception
 
@@ -35,7 +35,7 @@ Two thinkers, **George Berkeley** and **Maurice Merleau-Ponty**, offer powerful 
 ### 2. Virtual Reality and Simulation
 
 - **Idea:** Explore digital “worlds” and how they parallel philosophical idealism.
-- **Berkeley’s link:** Objects exist only when perceived — so what happens in a simulated world?
+- **Berkeley’s link:** Objects exist only when perceived - so what happens in a simulated world?
 - **Application:**
   Discuss how AI perceives “objects” in virtual environments that only exist when rendered or computed.
 
@@ -51,9 +51,9 @@ Two thinkers, **George Berkeley** and **Maurice Merleau-Ponty**, offer powerful 
 - **Idea:** Human–AI feedback loops blur the line between perceiver and perceived.
 - **Merleau-Ponty’s link:** Our perception arises through interaction with the world.
 - **Application:**
-  Explore how AI learns from human input — gestures, speech, emotions — and what this means for “shared perception.”
+  Explore how AI learns from human input - gestures, speech, emotions - and what this means for “shared perception.”
 
-## 3.3 Philosophical Lenses — Berkeley and Merleau-Ponty
+## 3.3 Philosophical Lenses - Berkeley and Merleau-Ponty
 
 ### George Berkeley – Idealism and AI Perception
 
@@ -80,7 +80,7 @@ Two thinkers, **George Berkeley** and **Maurice Merleau-Ponty**, offer powerful 
 **Key Idea:**
 
 > The perceiver and the perceived world cannot be disentangled.
-> Perception is _embodied_ — rooted in physical, lived experience.
+> Perception is _embodied_ - rooted in physical, lived experience.
 
 **Applications:**
 
@@ -89,28 +89,28 @@ Two thinkers, **George Berkeley** and **Maurice Merleau-Ponty**, offer powerful 
    How does a robot’s body shape its understanding of space, form, and movement?
 
 2. **AI and Human Interaction:**
-   Perception happens _between_ perceivers — not just inside one.
+   Perception happens _between_ perceivers - not just inside one.
    Examine AI systems that adapt through interaction with humans (voice assistants, adaptive robots).
 
 **Discussion Cue:**
 
 > Can AI achieve a kind of “embodied perception” through interaction, even without human-like consciousness?
 
-## [3.4 Discussion and Reflection — _Thinking Like a Philosopher_](./session01_03_04.md)
+## [3.4 Discussion and Reflection - _Thinking Like a Philosopher_](./session01_03_04.md)
 
 Before moving to the practical activities reflect and debate these questions:
 
 1. Can an AI have an _experience_ of the world, or only data about it?
-2. If an AI stops receiving input, does its “world” disappear — like Berkeley’s unperceived object?
+2. If an AI stops receiving input, does its “world” disappear - like Berkeley’s unperceived object?
 3. Would giving AI a body (robotic, sensory) make it closer to Merleau-Ponty’s embodied subject?
 4. What does this comparison reveal about human consciousness and perception?
 
-## 3.5 Synthesis — _AI, Perception, and Reality_
+## 3.5 Synthesis - _AI, Perception, and Reality_
 
 | Aspect                | Human Perception                  | AI Perception                         |
 | --------------------- | --------------------------------- | ------------------------------------- |
 | **Nature**            | Embodied, sensory, subjective     | Data-driven, computational            |
-| **Relation to World** | Interdependent — shaped by action | One-directional — world as data input |
+| **Relation to World** | Interdependent - shaped by action | One-directional - world as data input |
 | **Continuity**        | Continuous and experiential       | Discrete and episodic                 |
 | **Awareness**         | Conscious and interpretive        | Non-conscious and procedural          |
 
@@ -118,7 +118,7 @@ Before moving to the practical activities reflect and debate these questions:
 > AI can simulate perception, but it does not _live_ perception.  
 > Berkeley and Merleau-Ponty invite us to question whether “perception” without experience is perception at all.
 
-🧠 _Mini-activity idea:_ Map out “what AI perceives” vs. “what humans perceive” in a diagram — and discuss what’s missing in each.
+🧠 _Mini-activity idea:_ Map out “what AI perceives” vs. “what humans perceive” in a diagram - and discuss what’s missing in each.
 
 ## 3.6 Transition to Practice
 
@@ -142,20 +142,20 @@ Before moving to the practical activities reflect and debate these questions:
 - [The mind‑expanding ideas of Andy Clark][newyorker-andy-clark]
 - [The history of open‑source LLMs][history-open-source-llms]
 
-[notebooklm-notebook]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74 'NotebookLM — notebook'
-[notebooklm-podcast]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74?artifactId=4f0253fe-b5c6-4697-8177-92c4323405b0 'NotebookLM — podcast excerpt'
-[miro-board]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904 'Miro board — Maurice vs George'
-[google-how-to-make-ai-good-for-people]: https://blog.google/technology/ai/how-make-ai-good-for-people/ "How to make AI that's good for people — Google"
-[wikipedia-george-berkeley]: https://en.m.wikipedia.org/wiki/George_Berkeley 'George Berkeley — Wikipedia'
-[three-dialogues]: https://en.wikisource.org/wiki/Three_Dialogues_Between_Hylas_and_Philonous 'Three Dialogues Between Hylas and Philonous — full text'
-[wikipedia-merleau-ponty]: https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty 'Maurice Merleau-Ponty — Wikipedia'
-[physiognomys-new-clothes]: https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a "Physiognomy's New Clothes — Medium"
-[wired-machines-knowledge]: https://www.wired.com/story/our-machines-now-have-knowledge-well-never-understand/ "Our machines now have knowledge we'll never understand — Wired"
-[conversation-can-you-trust-ai]: https://theconversation.com/can-you-trust-ai-heres-why-you-shouldnt-209283 'Can you trust AI? — The Conversation'
-[rodneybrooks-seven-deadly-sins]: https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/ 'The seven deadly sins of predicting the future of AI — Rodney Brooks'
-[nbcnews-facial-recognition]: https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921 'Facial recognition’s dirty little secret — NBC News'
-[nytimes-harari-ai-chatgpt]: https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html 'Yuval Harari on ChatGPT — NYTimes opinion'
-[criticalai-blue-pill]: https://criticalai.org/2023/04/06/noah-giansiracusa-on-you-can-have-the-blue-pill-or-the-red-pill-and-were-out-of-blue-pills-in-the-new-york-times-3-24-2023/ 'Blue pill / red pill — Critical AI'
-[newyorker-andy-clark]: https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark 'The mind‑expanding ideas of Andy Clark — The New Yorker'
-[history-open-source-llms]: https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-better 'The history of open‑source LLMs — Substack'
+[notebooklm-notebook]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74 'NotebookLM - notebook'
+[notebooklm-podcast]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74?artifactId=4f0253fe-b5c6-4697-8177-92c4323405b0 'NotebookLM - podcast excerpt'
+[miro-board]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904 'Miro board - Maurice vs George'
+[google-how-to-make-ai-good-for-people]: https://blog.google/technology/ai/how-make-ai-good-for-people/ "How to make AI that's good for people - Google"
+[wikipedia-george-berkeley]: https://en.m.wikipedia.org/wiki/George_Berkeley 'George Berkeley - Wikipedia'
+[three-dialogues]: https://en.wikisource.org/wiki/Three_Dialogues_Between_Hylas_and_Philonous 'Three Dialogues Between Hylas and Philonous - full text'
+[wikipedia-merleau-ponty]: https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty 'Maurice Merleau-Ponty - Wikipedia'
+[physiognomys-new-clothes]: https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a "Physiognomy's New Clothes - Medium"
+[wired-machines-knowledge]: https://www.wired.com/story/our-machines-now-have-knowledge-well-never-understand/ "Our machines now have knowledge we'll never understand - Wired"
+[conversation-can-you-trust-ai]: https://theconversation.com/can-you-trust-ai-heres-why-you-shouldnt-209283 'Can you trust AI? - The Conversation'
+[rodneybrooks-seven-deadly-sins]: https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/ 'The seven deadly sins of predicting the future of AI - Rodney Brooks'
+[nbcnews-facial-recognition]: https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921 'Facial recognition’s dirty little secret - NBC News'
+[nytimes-harari-ai-chatgpt]: https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html 'Yuval Harari on ChatGPT - NYTimes opinion'
+[criticalai-blue-pill]: https://criticalai.org/2023/04/06/noah-giansiracusa-on-you-can-have-the-blue-pill-or-the-red-pill-and-were-out-of-blue-pills-in-the-new-york-times-3-24-2023/ 'Blue pill / red pill - Critical AI'
+[newyorker-andy-clark]: https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark 'The mind‑expanding ideas of Andy Clark - The New Yorker'
+[history-open-source-llms]: https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-better 'The history of open‑source LLMs - Substack'
 [miro-board]: https://miro.com/app/board/uXjVGtZoflg=/ 'Miro Board'

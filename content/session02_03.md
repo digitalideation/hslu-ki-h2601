@@ -1,4 +1,4 @@
-# Part 3 — Learning to Learn
+# Part 3 - Learning to Learn
 
 ## Learning materials
 
@@ -17,7 +17,7 @@
 
 ## 3.1 Attention Mechanisms
 
-- **Key idea:** Learning begins with selective attention — focusing on relevant information and ignoring distractions.
+- **Key idea:** Learning begins with selective attention - focusing on relevant information and ignoring distractions.
 - **Concept:** The brain filters reality like a spotlight; attention depends on motivation.
 - **Application:** The more meaning and curiosity we attach to a task, the stronger the attention signal.
 
@@ -73,7 +73,7 @@
 
 ---
 
-## Synthesis — The Self-Regulating Learner
+## Synthesis - The Self-Regulating Learner
 
 | Function                   | Cognitive Role                 | Educational Relevance                   |
 | -------------------------- | ------------------------------ | --------------------------------------- |
@@ -87,12 +87,12 @@
 > **Takeaway:** Learning to learn means understanding and coordinating these mechanisms.  
 > Attention guides memory, inhibition shapes reasoning, metacognition directs effort, motivation sustains it, and emotion gives it meaning.
 
-[notebooklm-video]: https://notebooklm.google.com/notebook/d58da1e1-c8f8-4033-b747-ff49d592343e?artifactId=b23678b7-0381-42cf-8a11-d9089cba3fa1 "NotebookLM — video overview"
-[notebooklm-notebook]: https://notebooklm.google.com/notebook/d58da1e1-c8f8-4033-b747-ff49d592343e "NotebookLM — interactive notebook"
+[notebooklm-video]: https://notebooklm.google.com/notebook/d58da1e1-c8f8-4033-b747-ff49d592343e?artifactId=b23678b7-0381-42cf-8a11-d9089cba3fa1 "NotebookLM - video overview"
+[notebooklm-notebook]: https://notebooklm.google.com/notebook/d58da1e1-c8f8-4033-b747-ff49d592343e "NotebookLM - interactive notebook"
 [franceculture-series]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau?p=2 "France Culture – Votre cerveau (series page)"
-[pod-attention]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/l-attention-une-ressource-rare-mais-precieuse-7854920 "L'attention, une ressource rare mais précieuse — France Culture"
-[pod-memory]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/la-memoire-ca-se-travaille-7710263 "La mémoire, ça se travaille ! — France Culture"
-[pod-inhibition]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/inhibition-flexibilite-comment-s-adapter-a-un-monde-changeant-9728127 "Inhibition, flexibilité : comment s'adapter à un monde changeant ? — France Culture"
-[pod-metacognition]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/metacognition-apprendre-a-apprendre-9926428 "Métacognition : apprendre à apprendre — France Culture"
-[pod-motivation]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/motivation-pourquoi-on-apprend-6469337 "Motivation : pourquoi on apprend ? — France Culture"
-[pod-emotions]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/les-emotions-moteur-de-l-apprentissage-2838168 "Les émotions : moteur de l'apprentissage — France Culture"
+[pod-attention]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/l-attention-une-ressource-rare-mais-precieuse-7854920 "L'attention, une ressource rare mais précieuse - France Culture"
+[pod-memory]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/la-memoire-ca-se-travaille-7710263 "La mémoire, ça se travaille ! - France Culture"
+[pod-inhibition]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/inhibition-flexibilite-comment-s-adapter-a-un-monde-changeant-9728127 "Inhibition, flexibilité : comment s'adapter à un monde changeant ? - France Culture"
+[pod-metacognition]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/metacognition-apprendre-a-apprendre-9926428 "Métacognition : apprendre à apprendre - France Culture"
+[pod-motivation]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/motivation-pourquoi-on-apprend-6469337 "Motivation : pourquoi on apprend ? - France Culture"
+[pod-emotions]: https://www.radiofrance.fr/franceculture/podcasts/votre-cerveau/les-emotions-moteur-de-l-apprentissage-2838168 "Les émotions : moteur de l'apprentissage - France Culture"

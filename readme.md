@@ -9,16 +9,16 @@
 
 ![Session 01 image](./assets/session01_01.png)
 
-### Part 1: AI Learning — Algorithms and Experiences ([slides](/slides/session01.html))
+### Part 1: AI Learning - Algorithms and Experiences ([slides](/slides/session01.html))
 
 1. Brief overview of AI and its learning mechanisms.
 2. Brief introduction to machine learning algorithms.
 3. How AI learns through data, patterns, and repetition.
 4. Differences between AI learning and human experiential learning.
 
-> “AI learns from data — but does it actually **experience** the world?”
+> “AI learns from data - but does it actually **experience** the world?”
 
-### [Part 2: Human Learning — A Philosophical View](./content/session01_02.md)
+### [Part 2: Human Learning - A Philosophical View](./content/session01_02.md)
 
 1. Conceptual Introduction – _Unnatural Animals_
 
@@ -30,34 +30,34 @@
 
    - Humans are “denatured animals” (Charles Pépin): instinct too weak to guide action.
    - A foal walks in minutes; a baby fails about 2,000 times before succeeding.
-   - _Activity link:_ “The Foal vs. the Baby” — compare instinctive success and human trial-and-error.
+   - _Activity link:_ “The Foal vs. the Baby” - compare instinctive success and human trial-and-error.
 
 3. The Methodology of Failure – Learning by Inefficiency
 
    - Humans progress through trial, error, and adaptation.
    - AI minimizes error; humans learn meaning from it.
-   - _Activity link:_ “Virtues in Failure” — identify what humans learn only through mistakes.
+   - _Activity link:_ “Virtues in Failure” - identify what humans learn only through mistakes.
 
 4. Compensation and Culture – Learning from Others
 
    - Weak instinct drives reliance on culture, education, and empathy.
    - AI processes data but lacks relational and emotional context.
-   - _Activity link:_ “The Compensation Audit” — compare informational vs. social learning.
+   - _Activity link:_ “The Compensation Audit” - compare informational vs. social learning.
 
 5. Freedom and Invention – The Outcome of Failure
 
    - Human deficiency enables freedom: _existence precedes essence_.
    - Unlike AI, humans can redefine themselves and their goals.
-   - _Activity link:_ “Freedom Inventory” — reflect on freedom as a product of imperfection.
+   - _Activity link:_ “Freedom Inventory” - reflect on freedom as a product of imperfection.
 
 6. Synthesis – _AI vs. Human Learning_
 
    - Humans learn _because_ they fail; AI learns _to avoid_ failure.
    - Weakness creates adaptability and freedom.
 
-> “If humans learn through embodied experience and error, how does **perception** shape that learning — and how does AI compare?”
+> “If humans learn through embodied experience and error, how does **perception** shape that learning - and how does AI compare?”
 
-### [Part 3: Perception — From Data to Experience](./content/session01_03.md)
+### [Part 3: Perception - From Data to Experience](./content/session01_03.md)
 
 1. Conceptual Introduction – _Perceiving Machines?_
 
@@ -82,7 +82,7 @@
    - **Merleau-Ponty:** perception is embodied; links to robotics and interactive AI systems.
 
      - _Key idea:_ The perceiver and the perceived world are intertwined.
-     - _Connection to AI:_ AI without a body may “see” but not _feel_ the world — can it ever achieve phenomenological perception?
+     - _Connection to AI:_ AI without a body may “see” but not _feel_ the world - can it ever achieve phenomenological perception?
 
 4. Discussion and Reflection – _Thinking Like a Philosopher_
 

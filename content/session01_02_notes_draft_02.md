@@ -1,4 +1,4 @@
-That’s a superb structure — it’s clear, layered, and pedagogically rich. You’ve already balanced **philosophical insight** and **AI-comparative framing** very well.
+That’s a superb structure - it’s clear, layered, and pedagogically rich. You’ve already balanced **philosophical insight** and **AI-comparative framing** very well.
 
 Here are a few ways you could elevate it further depending on your teaching goals:
 
@@ -8,7 +8,7 @@ Here are a few ways you could elevate it further depending on your teaching goal
 
 Before jumping into the “failed animal” idea, help students *orient* around why this comparison matters:
 
-* **Framing Prompt:** “How do humans and AI *learn*—and what does that reveal about what intelligence even is?”
+* **Framing Prompt:** “How do humans and AI *learn*-and what does that reveal about what intelligence even is?”
 * You could use a 3-step warm-up:
 
   1. Quick think-pair-share: “When have you learned something only by failing?”
@@ -45,7 +45,7 @@ This mapping helps students move between *conceptual* and *computational* logics
 
 **C. Philosophical Reflection Prompt**
 
-* “If AI could one day *choose* to retrain itself on new goals, would that count as self-invention—or just extended programming?”
+* “If AI could one day *choose* to retrain itself on new goals, would that count as self-invention-or just extended programming?”
 
 ---
 
