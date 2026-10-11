@@ -6,7 +6,7 @@
 
 The [student classroom page](./session01.md) tells you exactly what to do and produce. This guide gives you the short background for the Pépin investigation and easy access to its sources.
 
-## Pépin's "failed animal"
+## Why failure matters
 
 Pépin contrasts a young foal's early ability to walk with a child learning gradually through practice. He uses the idea of the human as a "failed" or "denatured" animal to suggest that our dependence opens opportunities for learning, culture, and freedom.
 
