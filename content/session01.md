@@ -1,140 +1,153 @@
-# Session 01: Learning, Failure, and Perception
+# Session 01: Human Learning and Creativity
 
-**Big question:** When humans and AI "learn" or "perceive," do we mean the same thing?
+**Central question:** When AI can produce creative work, what changes about human intention, creativity, and responsibility?
 
-Today we explore this through three investigations. **No advance reading or special materials needed.** Work with the same partner, use AI when prompted, and join three short whole-class discussions. You do not have to present a project or submit a report.
+Today we will try one creative AI experiment, examine who benefits and who is affected, and leave with a question worth exploring further.
 
-**Duration:** 140 minutes, including a 10-minute break.
+**Duration:** 140 minutes, including a 10-minute break. No advance reading required. You will work in pairs and small groups, with three short whole-class discussions. You do not need to submit anything from this session.
 
-| Duration | What we'll do | Format |
+## Our session
+
+| Duration | Activity | Format |
 | --- | --- | --- |
-| 10 min | Opening: a learning mistake and a cat-recognition challenge | Pairs |
-| 15 min | How machine learning uses examples and feedback | Short introduction + pairs |
-| 12 min | Pépin: does failure help humans learn? | NotebookLM + pairs |
-| **8 min** | **Discussion 1: What does it mean to learn?** | **Whole class** |
+| 10 min | Who is the creator? | Pairs + short class opening |
+| 15 min | Human learning, machine prediction, creative intention | Short introduction + pairs |
+| 20 min | Black-box experiment: change a creative brief | Pairs + an LLM |
+| **10 min** | **Discussion 1: Is generating the same as creating?** | **Whole class** |
 | **10 min** | **Break** | |
-| 15 min | Berkeley: if the sensors go dark | Thought experiment + pairs |
-| 20 min | Touch recognition and Merleau-Ponty | Physical experiment + pairs |
-| **15 min** | **Discussion 2: What does it mean to perceive?** | **Whole class** |
-| 15 min | Check one AI interpretation of philosophy | LLM + original source |
-| 10 min | Turn a question into a creative idea | Pairs |
-| **10 min** | **Discussion 3: What have we learned?** | **Whole class** |
+| 15 min | Six questions that AI raises for creative practice | Short introduction |
+| 25 min | Creative industry stakeholder investigation | Small groups |
+| **10 min** | **Discussion 2: What changes for creators and others?** | **Whole class** |
+| 15 min | Find a question worth exploring | Individually + pairs |
+| **10 min** | **Discussion 3: What is worth investigating next?** | **Whole class** |
 
-Need more context? The optional [Session 01 resource library](./session01_resources.md) has the notebooks, podcasts, texts, and further readings. **You only need the links mentioned in the activities below.**
+This page contains the classroom instructions. For additional context, see [Human Learning and Failure](./session01_02.md) or [Creativity, AI, and Society](./session01_creativity.md). Both guides are **optional**, not extra tasks.
 
-## Investigation 1: How do we learn? (45 min)
+## Investigation 1: Learning, prediction, and intention (55 min)
 
-### 1. Start with a mistake and a cat (10 min)
+### 1. Who is the creator? (10 min)
 
-Think of one thing you learned through trial and error. Tell your partner what actually helped you improve.
+Imagine a designer making a poster for a neighbourhood arts festival. The designer chooses the message, asks an AI to suggest visual and written ideas, edits the results, and presents the finished poster to a client.
 
-Now imagine programming a system to identify **real cats** in photos, not plush toys.
+**Discuss with your partner:** Who made the creative decisions? What did the AI contribute? What did the designer contribute? Would your answer change if the designer used the first output unchanged?
 
-| Real cat | Plush cat |
-| :---: | :---: |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tabby_cat_on_a_chair_%28Unsplash%29.jpg?width=480" width="230" alt="Real tabby cat"> | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/TCMI_Cheshire_Cat_2.jpg?width=480" width="230" alt="Plush Cheshire cat toy"> |
+There is no single answer to settle now. Keep your initial position for the end of class.
 
-*Images: [Sarah Dorweiler (CC0)](https://commons.wikimedia.org/wiki/File:Tabby_cat_on_a_chair_%28Unsplash%29.jpg) and [Daniel Schwen (CC BY-SA 3.0)](https://commons.wikimedia.org/wiki/File:TCMI_Cheshire_Cat_2.jpg). These are examples, not outputs from a classifier.*
+### 2. Human learning and machine prediction (15 min)
 
-**In pairs:** What rules would you write? Where might those rules fail?
+Follow a brief introduction using selected [AI Learning slides](../slides/session01.html) and an idea from philosopher Charles Pépin.
 
-### 2. Learning from examples (15 min)
+Three things to distinguish:
 
-Follow a short selection from the [AI Learning slides](../slides/session01.html). Compare two approaches:
+- **Human learning:** We develop knowledge and skills through experiences, experiments, feedback, culture, and relationships. Pépin argues that failure can create opportunities for learning, but failure alone does not guarantee it.
+- **Machine prediction:** A generative model uses patterns learned during training to produce an output in response to an input. A prompt shapes its response, but a response does not necessarily change the model's learned parameters.
+- **Creative intention:** A person can decide what they are trying to express, whom to address, which compromises to accept, and what meaning to give the work. AI-assisted work can involve many different people making decisions.
 
-- **Explicit programming:** people write rules to recognize a cat.
-- **Machine learning:** a model is trained on examples and feedback.
+**In pairs:** For the festival poster, identify one *prediction* the system might make and one *creative decision* a person must make. Are they always easy to distinguish?
 
-Return to your cat rules. What examples would help a model improve? **If a model makes a mistake, does that automatically mean it learns from it?**
+### 3. Black-box experiment: change the brief (20 min)
 
-### 3. Human learning: Pépin (12 min)
+Stay with the same festival example. You will compare two responses from an LLM. **Change only one part of your request.**
 
-Open the [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) with your partner and ask:
+**Prompt A — welcoming newcomers**
 
-> Why does Charles Pépin think failure can be useful for learning? Give one example from the provided sources.
+> Suggest a tagline and a two-sentence creative concept for a neighbourhood arts festival. Audience: people who rarely attend art events. The goal is to make newcomers feel welcome. Use fewer than 60 words.
 
-Compare his argument with your own learning experience. What role did feedback, other people, or repeated attempts play? Do you agree that failure is useful?
+**Prompt B — attracting sponsors**
 
-If NotebookLM is unavailable, use the [short transcript section on culture and failure](../slides/static/vids/philo_en.md#learning-through-culture-and-failure).
+> Suggest a tagline and a two-sentence creative concept for a neighbourhood arts festival. Audience: people who rarely attend art events. The goal is to appeal to wealthy sponsors. Use fewer than 60 words.
 
-### Discussion 1: What does it mean to learn? (8 min)
+*If you cannot access an LLM, the teacher can share two sample responses.*
 
-**Is making a mistake enough to learn something, for a human or for a machine?**
+With your partner:
 
-We'll hear a few different answers and connect them to examples, feedback, and context. No pair presentations.
+1. **Compare:** What changed in the language, assumptions, and implied audience? What stayed similar?
+2. **Decide:** Which response, if either, fits your intentions? What would you edit or refuse to use?
+3. **Question:** What can you infer about the system from its output? What *can't* you know just by reading it?
+
+You may ask the model to explain its choices. Treat that explanation as **another generated answer**, not a transparent view inside the model. The term **black box** points to limits on our ability to inspect and explain how particular outputs were produced. It does not mean we know nothing about how AI systems are built or trained.
+
+### Discussion 1: Is generating the same as creating? (10 min)
+
+**Where was the creative intention in your experiment: in the prompt, the output, the selection, the editing, or somewhere else?**
+
+We'll hear a few contrasting interpretations. Bring one example from your experiment and one uncertainty you still have.
 
 **Break (10 min)**
 
-## Investigation 2: What does it mean to perceive? (50 min)
+## Investigation 2: Creativity, agency, and consequences (50 min)
 
-### 4. Berkeley: If the sensors go dark (15 min)
+### 4. Six questions for creative practice (15 min)
 
-Imagine a robot with a camera and a saved map of a room. Its camera is disconnected, but its computer still runs.
+Imagine the festival poster is used in a paid campaign. The client approves it, the designer delivers it, the AI provider supplies the tool, and the public sees the result.
 
-**Does its world still exist?** Distinguish the physical room, the map in memory, and the robot's current access to the room. Does your answer change if the computer is switched off but the map remains stored?
+These six lenses help us ask more precise questions. They don't all have simple answers.
 
-Discuss your initial answer before opening [Berkeley's *Principles*, section 6](https://celt.ucc.ie/published/E710001-001/text005.html). Berkeley questions whether sensible objects exist independently of perceiving minds, but he does **not** say that a room disappears when one person leaves it; his account also invokes an eternal spirit.
+| Lens | A useful question |
+| --- | --- |
+| **Agency** | Who can make or change decisions? |
+| **Creativity** | Who contributes ideas, interpretation, and form? |
+| **Value** | Who is paid, recognized, or made replaceable? |
+| **Risk** | Who might be harmed by errors, bias, or unexpected uses? |
+| **Ownership** | Who can claim rights or control reuse, and what is uncertain? |
+| **Success** | Who decides whether the result is good, and by which criteria? |
 
-**Reconsider:** Does the stored map count as perception? Which part of your answer is a technical claim, and which is a philosophical interpretation?
+These questions matter differently for designers, illustrators, musicians, writers, clients, platforms, audiences, and people whose work or data may have been used to build AI systems.
 
-### 5. Touch recognition: experience vs. description (20 min)
+### 5. Stakeholder investigation (25 min)
 
-First, ask an LLM:
+Join another pair to form a group of approximately four. Use the **same festival campaign** so we can compare different viewpoints.
 
-> How might someone identify a familiar object using only touch? Describe the hand movements and clues in under 100 words.
+**First (5 min):** Identify at least four affected stakeholders. Include someone who makes the work, someone who commissions or distributes it, and someone who encounters or is affected by it.
 
-Then **try it yourselves**. Use safe, everyday objects you already have (for example, a pen, eraser, keyring, or charging cable). One partner selects an object and keeps it out of sight; the other closes their eyes, explores it by touch, and guesses. Swap roles using another object. Only share or touch objects you're comfortable with.
+**Then (12 min):** Choose **three** of the six lenses above and discuss the same campaign from different stakeholders' perspectives:
 
-Each partner notes **one observation** before comparing: What did moving your hand reveal? What did you recognize before you could describe it?
+- Who gains control, opportunity, money, or visibility?
+- Who might lose something or carry a risk?
+- Where might stakeholders disagree about what counts as success?
 
-Compare these observations with the LLM's description. What did it capture, miss, or make you notice?
+**Finally (8 min):** Pick **one real tension** that you cannot resolve simply by saying AI is good or bad. Write one sentence describing it, including the people involved. For example: *A client may want cheaper campaign concepts while a freelance illustrator worries about fewer paid commissions.*
 
-**Merleau-Ponty's idea:** Perception is shaped by our lived bodily involvement in the world, not simply by receiving measurements. Does your experiment help explain that idea? Would a robot reproducing your movements necessarily have your experience?
+You do not need to create slides or give a group presentation. A few notes on paper are enough.
 
-If the touch exercise is not suitable, sketch how a robot would find and pick up a cup; then remove its ability to move and reconsider the design.
+### Discussion 2: What changes for creators and others? (10 min)
 
-### Discussion 2: What does it mean to perceive? (15 min)
+**When AI is used in creative work, whose choices matter most, and who bears the consequences?**
 
-**What did the experiment reveal that a description or a stored map cannot necessarily capture?**
+We'll compare two or three tensions across groups, and consider how the answers may differ between creative industries. The aim is not a unanimous position.
 
-We'll compare a few observations and connect them to Berkeley and Merleau-Ponty. Can a machine reproduce perceptual behavior without sharing human experience? What evidence would we need to make a stronger claim?
+## Investigation 3: A question to take further (25 min)
 
-## Investigation 3: How does AI shape our understanding? (35 min)
+### 6. Find a starting point (15 min)
 
-### 6. AI as an interpreter (15 min)
+This is a short bridge to **Assignment 1: Digital Project on AI and Society**. It is **not** the assignment workshop, and you are not expected to choose a final project or format today. Follow the official brief for all assessment requirements.
 
-Ask an LLM:
+Individually, choose an AI-related situation that interests you. It can come from today's festival example or a different context: design, music, film, games, writing, education, recruitment, companionship, or elsewhere.
 
-> Explain how Berkeley's account of perception might help us question the robot with its camera disconnected. Keep it under 120 words. Separate Berkeley's own claims from your interpretation about AI.
+Complete these three prompts:
 
-Choose **one claim** from its answer. Look for support or a limitation in [Berkeley's *Principles*, section 6](https://celt.ucc.ie/published/E710001-001/text005.html). If you need help locating the passage, use the [Perception NotebookLM](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74), but check the original text yourself.
+- **Specific situation:** An AI system or use case affects...
+- **People involved:** One group experiencing this is...
+- **Human question or tension:** What changes for them is... / I wonder whether...
 
-With your partner, finish these sentences:
+Now tell your partner your idea. Ask each other: **What could a non-specialist audience find surprising or worth questioning about this?**
 
-- "The AI claimed..."
-- "The source supports / complicates / does not settle this because..."
-- "We would say it more carefully as..."
+If it helps, imagine an experience, story, image, sound, or interaction through which someone might encounter the question. You do **not** need to develop the project today. Remember that the later assignment calls for both an AI-assisted element and a meaningful contribution made without AI; your creative choices are part of the inquiry.
 
-Agreement between two AI tools is not the same as checking a source.
+### Discussion 3: What is worth investigating next? (10 min)
 
-### 7. A creative response (10 min)
+**What is one specific question about AI and society that seems worth exploring creatively, and why?**
 
-Sketch or briefly describe an artwork, interface, or robot that lets people explore **one question** from today's investigations.
+We'll hear a few starting points, not finished proposals. Then return to our opening question: **Who is the creator?** Did your view change during the session?
 
-What does someone do? What does the system detect or respond to? What might participants discover or question? Use an observation or argument from the session to guide one design choice.
-
-A rough sketch or a few sentences is enough.
-
-### Discussion 3: What have we learned? (10 min)
-
-**Did AI help us understand the world, or did it also influence how we described and interpreted it?**
-
-We'll hear two or three ideas or disagreements. Then revisit the opening question about human and AI learning and perception.
-
-To finish, write just three short lines for yourself: **I first thought... / I now think (or still think)... / I am unsure about...**
+End with one short note for yourself: **My question is… / It matters to… / I still need to find out…**
 
 ---
 
-**Optional follow-up:** Explore the [resource library](./session01_resources.md) or add a question to the [Maurice vs George Miro board](https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904). You don't have to use Miro to complete the session.
+## Explore further (optional)
 
-[Back to the course homepage](../readme.md)
+- [Human Learning and Failure](./session01_02.md): Pépin, learning through culture, and links to NotebookLM and the transcript.
+- [Creativity, AI, and Society](./session01_creativity.md): black boxes, the six lenses, stakeholder perspectives, and further questions.
+- [Public course Miro board](https://miro.com/app/board/uXjVGtZoflg=/): a place to keep or revisit questions.
+
+[← Back to the course homepage](../readme.md)
