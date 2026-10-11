@@ -13,7 +13,7 @@ Look for students who can make a useful distinction, support it with an observat
 ## Prepare
 
 - For Part 1, show a few [Session 01 slides](../slides/session01.html) first (9 min), especially the contrast between classical programming and machine learning. Then have students use the two cat images on the [Session 01 page](./session01.md#part-1-ai-learning-20-min) to discuss three simple questions in pairs (7 min), followed by a short class comparison (4 min). Focus on the idea of **programming explicit rules vs. learning patterns from examples**, not technical vocabulary or model evaluation. There is no need for coding or a live demo; leave neural networks and deep learning as optional context.
-- For human learning, check access to the [Human Learning NotebookLM notebook](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and the focused prompt on the [Part 2 resource page](./session01_02.md). Prepare the [English Pépin transcript](../slides/static/vids/philo_en.md), especially the section on culture and failure, as a quick source check or fallback. Students are not expected to read or listen to the entire source.
+- For human learning, check access to the [Human Learning NotebookLM notebook](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and its simple question on the [Part 2 resource page](./session01_02.md). Prepare the short [English Pépin transcript section](../slides/static/vids/philo_en.md#learning-through-culture-and-failure) as a fallback. Pairs only; no whole-class discussion round or written deliverable.
 - Treat Pépin's argument as a philosophical proposal to question, not a biological account students must accept. The longer material's numerical claim about walking is not needed for this activity.
 - Open the [public course board][miro-board] for the opening work and the [Maurice vs George board][miro-perception] for perception. Provide a small area per group for initial ideas, observations or sources, revised ideas, and open questions. Paper is a fallback.
 - Prepare an opaque bag and a few safe objects per pair, or enough sets to share without a long queue. Use objects students cannot already see. Check whether the touch activity is suitable for everyone and prepare an alternative.
@@ -30,13 +30,19 @@ Times are minutes from the start and include transitions and sharing.
 | --- | --- | --- |
 | 0–5 | 1 minute individual reflection, then 4 in pairs | A concrete learning experience to return to |
 | 5–25 | 9 minutes presenting selected slides, 7 discussing three cat-recognition questions in pairs, 4 sharing with the class | Why explicit rules are difficult; how machine learning uses examples; what a mistake means |
-| 25–45 | 4 minutes selecting an example, 5 investigating with NotebookLM, 7 checking and comparing, 4 hearing contrasting positions | What failure means in a human context, and how to check a generated explanation |
+| 25–45 | 3 minutes recalling an example, 9 using NotebookLM, 6 talking in pairs, 2 teacher-led closing | Whether failure actually helps learning; no plenary reporting from 15 pairs |
 | 45–55 | Break | |
 | 55–65 | 7 minutes classifying in pairs, 3 discussing one disagreement | Different criteria for perception |
 | 65–80 | 4 minutes responding, 5 with Berkeley, 6 reconsidering and discussing | Room, representation, input, and possible experience |
 | 80–100 | 3 minutes with an AI description, 6 experimenting, 4 comparing accounts, 3 with Merleau-Ponty, 4 exchanging with another pair | How AI might influence attention and interpretation |
 | 100–120 | 4 minutes generating, 8 checking one claim, 5 revising, 3 exchanging between pairs | A source-based correction or a clearly stated limit |
 | 120–140 | 7 minutes sketching, 6 exchanging between groups, 5 in class discussion, 2 writing individually | Connect an investigation to creative practice and revisit initial positions |
+
+## Part 2: Human Learning with 30 Students
+
+Keep the **15 pairs** from Part 1 rather than forming groups of four. Display or point students to the single NotebookLM question on the [Part 2 page](./session01_02.md#in-class-a-focused-investigation-20-min). Encourage them to use the answer to question Pépin's view, not to produce a written report or formal source analysis. The short [transcript section](../slides/static/vids/philo_en.md#learning-through-culture-and-failure) is the fallback if NotebookLM is slow or inaccessible.
+
+Use a visible timer for the 9-minute NotebookLM task and 6-minute pair exchange. Avoid a whole-class round-robin. In the **final 2 minutes**, ask for a quick show of hands on whether failure is always useful, then offer one transition into perception. No need to hear from every pair.
 
 ## Part 1: Cat Recognition Discussion
 
