@@ -32,6 +32,8 @@ The economic concept is **asymmetric information**: one side knows more than the
 
 ## Stakeholders: six questions, one controversy
 
+**One book, different perspectives:** writer → publisher → readers, critics, and other creators. Each may value different things about the same work.
+
 Different people can evaluate the same novel in different ways.
 
 | Stakeholder | What might matter to them? |
