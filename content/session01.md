@@ -1,118 +1,221 @@
-# Session 01: Learning, Failure, and Perception
+# Session 01: Human Learning, Perception, and Creativity
 
-![Session 01 image](../assets/session01_01.png)
+![Session 01 introduction](../assets/session01_01.png)
 
-**Central question:** When we say that humans and AI "learn" or "perceive," are we talking about the same thing?
+**Central question:** What makes human learning and creativity different from what AI does, and why does it matter?
 
-## Guiding questions
+We will move from learning through errors to perceiving with the body, and then to a debate about AI and creative work.
 
-- How do AI systems learn from examples and errors, and how does that compare with human learning?
-- Can failure be productive rather than merely something to minimize?
-- Is recognizing patterns the same as perceiving or experiencing the world?
-- How do our bodies, contexts, and interactions shape what we know?
+**Duration:** 140 minutes, including a 10-minute break.
 
-## Session map
+**How to work:** Stay with the same partner until the short group activity. Keep **one set of brief working notes** (paper or a notes app). Each activity says what to **do** and what to **produce**. These are thinking aids, **not graded submissions**. You do not have to upload anything or make slides. In class discussions, the teacher will invite a few contributions rather than asking every pair to present. No advance reading or special objects are required.
 
-| Part | Focus | Materials |
+## Session at a glance
+
+| Duration | Activity | Format |
 | --- | --- | --- |
-| **1. AI Learning** | Training, feedback, errors, and what changes when a system learns | [Session 01 slides](../slides/session01.html) |
-| **2. Human Learning** | Charles Pépin's "failed animal": trial and error, culture, and the meaning of failure | [Human Learning resources](./session01_02.md) |
-| **3. Perception** | Berkeley, Merleau-Ponty, and the relation between sensing, representation, and experience | [Perception resource guide](./session01_03.md) |
-| **4. Practice** | Four shared experiments and a creative application | [Perception workshop](./session01_03_04.md) |
+| 10 min | Cat recognition: rules and patterns | Pairs |
+| 15 min | Machine learning, prediction, and the black box | Introduction + pairs |
+| 15 min | Charles Pépin: failure, culture, and invention | NotebookLM + pairs |
+| **10 min** | **Discussion 1: What does it mean to learn?** | **Whole class** |
+| **10 min** | **Break** | |
+| 10 min | Berkeley: If the Sensors Go Dark | Pairs |
+| 20 min | Touch recognition and Merleau-Ponty | Experiment + pairs |
+| **10 min** | **Discussion 2: What does the body contribute to creativity?** | **Whole class** |
+| 25 min | The Orélien controversy: creativity and society | Case + groups + class |
+| 15 min | A question to explore later | Individual + pairs + closing |
+| **140 min** | **Total** | |
 
-## Session schedule
+### Guides to use during class
 
-The session lasts **140 minutes, including a 10-minute break**. Times are minutes from the start.
+These three guides are **part of the classroom activities**, not extra readings. Open the relevant guide only when you reach that part. You do **not** need to read the entire guide.
 
-| Time | Activity | How we work |
+| When | Open | What to use |
 | --- | --- | --- |
-| 0–5 | Opening: learning through failure | Reflect individually, then discuss in pairs |
-| 5–25 | Part 1: AI Learning | Slides first, three opening questions in pairs, short class discussion |
-| 25–45 | Part 2: Human Learning | Individual reflection, NotebookLM in pairs, short pair exchange, teacher wrap-up |
-| 45–55 | **Break** | |
-| 55–65 | Data or Experience? | Pairs: initial choices, NotebookLM question, quick comparison |
-| 65–80 | If the Sensors Go Dark | Pairs, using Berkeley and NotebookLM |
-| 80–100 | Embodied or Disembodied? | Experiment in pairs, compare an AI account with experience |
-| 100–120 | AI as a Philosopher | Pairs, checking one LLM claim against a source |
-| 120–140 | Creative application and closing | Sketch and critique in pairs, then reflect individually |
+| **Part 1, Pépin (15 min)** | **[Human Learning guide](./human-learning.md)** | The short explanation of failure and culture, then the [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) |
+| **Part 2, Berkeley and touch (30 min)** | **[Perception guide](./perception-guide.md)** | The Berkeley and Merleau-Ponty explanations; [Perception NotebookLM](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) if useful |
+| **Part 3, literature and society (25 min)** | **[Creativity and Society guide](./creativity-and-society.md)** | **Required for the activity:** case summary, used-car analogy, and stakeholder questions |
 
-Keep the same partner throughout. Share one device for AI activities and take turns operating the tool and noting observations or checking sources. No switching groups or formal presentations; most discussions stay in pairs.
+The full [France Culture debate](https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314) is optional listening. The [extended Perception Workshop](./perception-workshop.md) is preserved for further experiments, **not** part of today's timetable.
 
-## Opening: Learning through failure (5 min)
+## 1. How do we learn? (50 min)
 
-Think of something you learned through difficulty, perhaps in a creative project or an everyday task. What changed: knowledge, behavior, confidence, or understanding? Note your example, then compare it with your partner. Share only what you are comfortable discussing.
+### Cat recognition (10 min)
 
-## Part 1: AI Learning (20 min)
+Imagine teaching a computer to distinguish a **real cat** from a **plush cat**.
 
-**Can you teach a computer to recognize a cat?**
-
-### 1. Slides and introduction (9 min)
-
-First, follow the short [Session 01 slides](../slides/session01.html) introducing the difference between traditional programming and machine learning.
-
-### 2. Discuss in pairs (7 min)
-
-Imagine you are building an application that needs to recognize **real cats** in photographs. Look at these two images:
-
-| Photo A: Real cat | Photo B: Plush cat toy |
+| Real cat | Plush cat |
 | :---: | :---: |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tabby_cat_on_a_chair_%28Unsplash%29.jpg?width=640" alt="Photograph of a real tabby cat on a chair" width="320"> | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/TCMI_Cheshire_Cat_2.jpg?width=640" alt="Photograph of a stuffed plush Cheshire cat toy" width="320"> |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tabby_cat_on_a_chair_%28Unsplash%29.jpg?width=480" width="230" alt="Real tabby cat"> | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/TCMI_Cheshire_Cat_2.jpg?width=480" width="230" alt="Plush Cheshire cat toy"> |
 
-*Images for discussion, not actual classifier outputs. Photo A: [Sarah Dorweiler, CC0](https://commons.wikimedia.org/wiki/File:Tabby_cat_on_a_chair_%28Unsplash%29.jpg). Photo B: [Daniel Schwen, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:TCMI_Cheshire_Cat_2.jpg).*
+*Images: [Sarah Dorweiler (CC0)](https://commons.wikimedia.org/wiki/File:Tabby_cat_on_a_chair_%28Unsplash%29.jpg) and [Daniel Schwen (CC BY-SA 3.0)](https://commons.wikimedia.org/wiki/File:TCMI_Cheshire_Cat_2.jpg).*
 
-Discuss with your partner:
+**Do (pairs):**
+1. Write **two rules** that might help a computer identify real cats.
+2. Imagine **one image** where a rule would fail.
+3. Decide how you would improve one of your rules.
 
-1. **How would you do it?** If you had to write a program to recognize a cat, what rules would you give it? Think about using `if/else` statements.
-2. **What could go wrong?** Could your rules mistake the plush toy for a real cat? What other images might confuse the program?
-3. **What if you used machine learning instead?** Rather than writing all the rules yourself, what examples would you show the computer? How might it improve?
+**Produce:** Two rules, one example where they fail, and one improvement. A few lines are enough.
 
-You do not need to write code or train a model. Be ready to share one idea or difficulty.
+### Machine learning and the black box (15 min)
 
-### 3. Discuss with the class (4 min)
+Follow a short introduction using the [AI Learning slides](../slides/session01.html).
 
-Hear a few approaches and compare **writing rules ourselves** with **learning patterns from examples**.
+- **Programming:** We write rules explicitly.
+- **Machine learning:** We train a model using examples and feedback. After training, it can predict or generate outputs.
+- **The black box:** We can observe an input and output without necessarily knowing exactly why the model produced that particular result.
 
-**When a computer makes a mistake, does that mean it has learned something?**
+**Do (pairs):**
+1. Return to your cat example. How might training with more examples help, compared with rewriting a rule?
+2. Discuss: **If a trained model makes a mistake while you use it, does it automatically learn from that mistake?**
+3. Consider what you still cannot tell about the model by looking only at its answer.
 
-Keep that question in mind as we move to Part 2 and explore what failure means in human learning.
+**Produce:** Complete these two lines:
 
-## Part 2: Human Learning (20 min)
+- "A programmed rule changes when..., while a trained model improves when..."
+- "One thing we cannot know from the prediction alone is..."
 
-**Does failure actually help us learn?**
+### Human learning: Charles Pépin (15 min)
 
-Keep your partner from Part 1. Open the **[Human Learning activity and resources](./session01_02.md#in-class-a-focused-investigation-20-min)**.
+Pépin suggests that human mistakes and dependence on others can open possibilities for learning, culture, and freedom. You can challenge his argument.
 
-You will use NotebookLM to find out why Charles Pépin thinks failure can be valuable, then compare his idea with your own experience. **Do you agree with him?** You don't need to reach the same conclusion as your partner.
+**Do (pairs):**
+1. Each think of something you learned by making mistakes. What actually helped you improve?
+2. Read the short **[Pépin explanation in the Human Learning guide](./human-learning.md#why-failure-matters)**.
+3. Open the [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and ask:
 
-At the end, we'll briefly return to the question together. There are no group presentations or written conclusions to submit.
+   > Why does Charles Pépin connect failure with learning, culture, and the possibility of inventing ourselves? Give one example from the sources.
 
-## Part 3: Perception
+4. Compare one part of his argument with your experience. If the notebook is unavailable, use the [short English transcript](../slides/static/vids/philo_en.md#learning-through-culture-and-failure).
 
-**What would count as perception in an AI system, and how might AI influence our own interpretations?**
+**Produce:** **One example** from your experience and **one sentence** saying whether it supports or challenges Pépin's argument, and why.
 
-During the workshop, investigate the difference between sensing, recognizing, representing, and experiencing the world. Consult the [Perception resource guide](./session01_03.md) for short introductions to Berkeley and Merleau-Ponty, original passages, and NotebookLM resources.
+### Discussion 1: What does it mean to learn? (10 min)
 
-## Part 4: Practice (85 min after the break)
+**Do:** With your partner, prepare an answer to: **Is making a mistake enough to learn something, whether you're a person or a machine?** Give one reason based on your notes. Listen to other perspectives during the class discussion.
 
-Work through the **[four perception activities and creative closing](./session01_03_04.md)**:
+**Produce:** **One position and one reason**, ready to share orally if invited. No pair presentation required.
 
-1. **Data or Experience?** (10 min): make initial choices, ask NotebookLM one question, and reconsider a distinction.
-2. **If the Sensors Go Dark** (15 min): test a thought experiment, then examine Berkeley's perspective.
-3. **Embodied or Disembodied?** (20 min): compare an AI description with what you observe during a physical experiment.
-4. **AI as a Philosopher** (20 min): check one LLM-generated philosophical claim against a source.
-5. **Creative application and closing** (20 min): sketch and critique an idea with your partner, then revisit your initial answers.
+**Break (10 min)**
 
-The workshop page contains the prompts, pair instructions, and resources for each activity. By the end, be ready to explain one useful distinction, support it with an observation or source, and identify a question worth exploring through creative practice.
+## 2. Perception, the body, and creativity (40 min)
 
-## Resources and further exploration
+### Berkeley: If the Sensors Go Dark (10 min)
 
-- [Human Learning: The Failed Animal](./session01_02.md): Pépin, full audio and transcript, NotebookLM material, and further questions.
-- [Perception: From Data to Experience](./session01_03.md): Berkeley, Merleau-Ponty, NotebookLM, sources, and further readings.
-- [Perception workshop](./session01_03_04.md): the four activities, creative application, and closing reflection.
-- [Public course Miro board][miro-board]: collect and revisit questions across the course.
-- [Maurice vs George Miro board][miro-perception]: share observations and changing interpretations during the workshop.
+![If the sensors go dark: perception and representation](../assets/a_sensor_goes_dark.png)
 
-[Back to the course homepage](../readme.md)
+Imagine a robot with a camera and a saved map of a room. Its camera is disconnected, but its map is still in memory.
 
-[miro-board]: https://miro.com/app/board/uXjVGtZoflg=/
-[miro-perception]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904
+Read the short **[Berkeley explanation in the Perception guide](./perception-guide.md#berkeley-a-map-isnt-a-world)**. He questioned the relationship between existence and perception, but did not simply claim that objects vanish when one person stops looking. The [original passage](https://celt.ucc.ie/published/E710001-001/text005.html) is available for further reading.
+
+**Do (pairs):**
+1. Answer: **Does the robot's world still exist?**
+2. Explain whether you mean the **physical room**, the **stored map**, or the robot's **current ability to sense** the room.
+3. Discuss: **Is having a map the same as perceiving or experiencing a room?**
+
+**Produce:** **Two short sentences:** your answer and the distinction that supports it. Add **one unanswered question** if you have one.
+
+### Touch recognition and Merleau-Ponty (20 min)
+
+![Embodied or disembodied perception](../assets/embodied_or_disembodied.png)
+
+Merleau-Ponty helps us ask how perception depends on our **lived bodily involvement** in the world, not simply receiving measurements.
+
+**Do (pairs):**
+
+1. **Ask AI (3 min):** Ask an LLM:
+
+   > Describe how someone recognizes a familiar object using only touch. Include hand movements and clues, in fewer than 100 words.
+
+2. **Try it (7 min):** Use safe everyday objects you already have, such as a pen, eraser, or keyring. One person keeps an object out of sight; the other closes their eyes, explores it by touch, and tries to identify it. Swap roles. Only share or touch objects you're comfortable with.
+3. **Compare (5 min):** What did you discover by moving your hand? What did the AI describe accurately or miss?
+4. **Connect (5 min):** Read **[Merleau-Ponty: perceiving by doing](./perception-guide.md#merleau-ponty-perceiving-by-doing)** in the Perception guide. How does the idea of bodily action help explain your experience? The [Perception NotebookLM](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74).
+
+**Produce:** **Two observations from the experiment** and **one comparison with the AI's description**. For example: "Moving my fingers along the edge helped me identify the object; the AI description did not mention that movement."
+
+*Alternative:* If touch recognition is unsuitable, discuss how a robot would recognize and pick up an object, then what would change if it could not move. Record one observation about movement and perception.
+
+### Discussion 2: What does the body contribute to creativity? (10 min)
+
+**Do:** Think of drawing, playing music, making a prototype, editing a video, or another creative practice you know. Talk with your partner about something you **discover while doing it**, rather than planning in advance. We'll compare a few examples as a class.
+
+**Produce:** **One concrete example** beginning: "When I make..., I discover... by doing..." Be ready to share it orally if invited.
+
+## 3. Creativity and society: a literary controversy (25 min)
+
+**Open the [Creativity and Society guide](./creativity-and-society.md) now.** You will use it for **all four activities** in this part. It contains the case facts, the complete car analogy, and perspectives to work from. You do **not** need to listen to the podcast.
+
+### The Orélien case (5 min)
+
+**Do (pairs):**
+1. **Read the [case file](./creativity-and-society.md#case-file-a-literary-controversy) (2 min).** Notice which statements are confirmed events and which are disputed allegations. Do not try to determine whether the author used AI.
+2. **Discuss (3 min):** Imagine reading and loving a novel, then hearing that AI may have helped write it. Would your opinion change? What would you want to know?
+
+**Produce:** **One sentence** explaining whether your opinion would change and why. There is no expected answer.
+
+### Trust and the "lemons" analogy (5 min)
+
+**Do (pairs):**
+1. **Read [Used cars and trust](./creativity-and-society.md#used-cars-and-trust-the-lemons-analogy) (2 min).** Follow what the seller knows, what the buyer cannot check, and how that affects trust.
+2. **Apply it to books (3 min):** What might readers not know about how a book was made? How could uncertainty affect an author who did **not** use AI?
+
+**Produce:** Complete **one sentence**: "Just as car buyers cannot easily know..., readers cannot easily know..., which could affect..."
+
+**Important:** We are comparing **uncertainty and trust**, not claiming that AI-assisted books are defective or less valuable.
+
+### Stakeholder investigation (8 min)
+
+**Do (groups of about four):**
+1. Join another pair.
+2. Open the **[stakeholder perspectives](./creativity-and-society.md#stakeholders-six-questions-one-controversy)** in the guide and pick **two** (e.g., writer and reader).
+3. Use the guide's questions about **agency, creativity, value, ownership, risk, and success** to discuss what each stakeholder might value, gain, or risk.
+4. Identify **one point of disagreement** between the two perspectives.
+
+**Produce:** **Three short lines**, together:
+
+- "From the perspective of [stakeholder 1]..."
+- "From the perspective of [stakeholder 2]..."
+- "Their main disagreement could be..."
+
+### Class discussion: What do we value in creation? (7 min)
+
+**Do:** Each group chooses **one spokesperson** who can explain its disagreement in a sentence if invited. Use the **[connecting ideas](./creativity-and-society.md#connecting-learning-perception-and-creativity)** in the guide to think back to Pépin and Merleau-Ponty. Consider: **Is the finished work all that matters, or also the experience, intention, and relationships behind it?**
+
+**Produce:** **One clear disagreement to share orally** (only a few groups will be invited). Keep one question the discussion leaves open.
+
+## 4. A starting point for Assignment 1 (15 min)
+
+This is **inspiration only**, not an assignment workshop. You are not expected to choose a final topic or create a proposal. Follow the official brief for assessment requirements.
+
+### Find a question worth exploring
+
+**Do:**
+
+1. **Individually (5 min):** Choose a specific AI use case that interests you (for example, creative work, education, relationships, or hiring). Identify who is affected and what human experience or conflict is involved.
+2. **With your partner (5 min):** Share your idea. Ask: **Is the system or situation specific? Are the people and consequences clear?** Make one improvement.
+3. **Closing (5 min):** We'll hear a few questions, not project presentations. Keep yours for possible use later.
+
+**Produce:** Your own **three-line starting point**:
+
+- **AI use case:** ...
+- **People affected and what changes for them:** ...
+- **Question I might explore:** ...
+
+This is yours to keep. It is **not submitted or assessed** in this session.
+
+### NotebookLM for further ideation (optional, after class)
+
+You can return to either notebook to explore a question rather than asking AI to design a finished project:
+
+- [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484): failure, culture, freedom, and invention.
+- [Perception NotebookLM](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74): embodiment, perception, and experience.
+
+Try:
+
+> Based on the sources in this notebook, suggest three *questions*, not finished project ideas, about how AI changes human experience or creativity. For each, identify who is affected and which source inspired the question.
+
+The [France Culture episode](https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314) is a separate resource; **do not assume it is in either notebook**.
+
+---
+
+[Human Learning guide](./human-learning.md) · [Perception guide](./perception-guide.md) · [Creativity & Society guide](./creativity-and-society.md) · [Course homepage](../readme.md)

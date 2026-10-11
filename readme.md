@@ -1,36 +1,31 @@
 # I.BA_PHKI.H2601
 
-## About this course
+How do humans learn, perceive, and create? What changes when AI participates in creative work and culture?
 
-What does it mean to learn, perceive, and create? How do these processes differ between humans and artificial intelligence, and what can experimenting with AI reveal about our own ways of thinking?
-
-We explore these questions through short technical introductions, philosophy, discussion, and hands-on experiments. The aim is not to arrive at a definitive answer to whether AI "really" learns or perceives, but to examine the assumptions behind those claims and connect them to creative practice.
-
-**How to use these materials:** The podcasts, NotebookLM notebooks, readings, and Miro boards are a resource library, **not a checklist to complete**. In class, we begin with questions and activities, then consult selected excerpts when they help us investigate an idea. Full materials are available for independent exploration.
+The course uses experiments, philosophy, conversation, and questions about society. **NotebookLM notebooks, podcasts, and readings are resources to explore, not a compulsory checklist.**
 
 ## Sessions
 
-### [Session 01: Learning, Failure, and Perception](./content/session01.md)
+### [Session 01: Human Learning, Perception, and Creativity](./content/session01.md)
 
-![Session 01 image](./assets/session01_01.png)
+![Session 01 course illustration](./assets/session01_00.png)
 
-Explore machine learning, human learning, Berkeley and Merleau-Ponty, and how AI might influence our own experience and interpretation.
+**140 minutes including a 10-minute break.** Compare human and machine learning; explore Berkeley and Merleau-Ponty through perception and touch; discuss creative value, authorship, and society through the Thélyson Orélien controversy. Finish with a possible question to investigate later.
 
-**140 minutes including a 10-minute break.** No advance reading is required. The session page contains the complete schedule, four-part outline, activities, and resource links.
+**[Open the Session 01 classroom page](./content/session01.md)**
 
-**[Open Session 01](./content/session01.md)**
+**Guides used in class** (open them when you reach each topic):
 
-### [Session 02: Trial and Error, Learning to Learn](./content/session02.md)
+| Topic | Guide |
+| --- | --- |
+| **Learning and Pépin** | [Human Learning](./content/human-learning.md) |
+| **Berkeley and touch** | [Perception and the Body](./content/perception-guide.md) |
+| **Literary controversy and stakeholders** | **[Creativity and Society](./content/creativity-and-society.md)** |
 
-Explore trial and error, attention, memory, inhibition, metacognition, motivation, and emotions. The Session 02 page links to the available slides and resources; its classroom schedule is not yet finalized.
+The [extended Perception Workshop](./content/perception-workshop.md) is preserved for optional further activities.
 
-**[Open Session 02](./content/session02.md)**
+**NotebookLM:** [Human Learning](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) · [Perception](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74)
 
-## Shared resources
+## Shared board
 
-- [Public course Miro board][miro-board]: collect and revisit questions across sessions.
-- [Maurice vs George Miro board][miro-perception]: shared investigations during Session 01.
-- Session-specific NotebookLM materials, podcasts, readings, and activities are linked from each session page.
-
-[miro-board]: https://miro.com/app/board/uXjVGtZoflg=/
-[miro-perception]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904
+[Public course Miro board](https://miro.com/app/board/uXjVGtZoflg=/) is an optional space for questions and observations.
