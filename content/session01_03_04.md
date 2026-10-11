@@ -71,7 +71,7 @@ Now change one condition: the computer is switched off, but its storage remains 
 
 ### Bring in Berkeley
 
-Read the [short Berkeley introduction](./session01_03.md#berkeley-perception-and-existence), then [section 6 of his *Principles of Human Knowledge*][berkeley-section-6]. Focus only on that section. You can use NotebookLM to help unpack the passage, but check its explanation against the text.
+Open the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) and use the focused [Activity 2 question](./session01_03.md#in-class-a-focused-investigation). Ask how Berkeley explains what happens when one person stops perceiving something. Check a key claim against [section 6 of his *Principles of Human Knowledge*][berkeley-section-6], rather than reading everything.
 
 Berkeley's account includes perception by an eternal spirit; it is not simply the claim that objects disappear when an individual stops looking.
 
@@ -119,7 +119,7 @@ Keep one observation separate from your interpretation. For example, what you ac
 
 ### 4. Bring in Merleau-Ponty (3 min)
 
-Read the [short Merleau-Ponty introduction](./session01_03.md#merleau-ponty-the-lived-body). Use it to reconsider one observation.
+Use the [short Merleau-Ponty introduction](./session01_03.md#merleau-ponty-the-lived-body) or ask the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) why bodily movement matters for perception. Use the idea to reconsider one observation. You do not need to do both.
 
 What would a robot need to reproduce the behavior you observed? Would reproducing that behavior also establish that it has a lived experience?
 
