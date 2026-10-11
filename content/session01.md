@@ -27,7 +27,7 @@ The session lasts **140 minutes, including a 10-minute break**. Times are minute
 | Time | Activity | How we work |
 | --- | --- | --- |
 | 0–5 | Opening: learning through failure | Reflect individually, then discuss in pairs |
-| 5–25 | Part 1: AI Learning | Short introduction, pair investigation, class discussion |
+| 5–25 | Part 1: AI Learning | Slides first, three opening questions in pairs, short class discussion |
 | 25–45 | Part 2: Human Learning | Groups of four, short Pépin passage, contrasting positions |
 | 45–55 | **Break** | |
 | 55–65 | Data or Experience? | Pairs, then discuss a disagreement |
@@ -44,9 +44,15 @@ Think of something you learned through difficulty, perhaps in a creative project
 
 ## Part 1: AI Learning (20 min)
 
-**Guiding question: When an AI system "learns," what actually changes?**
+**Can you teach a computer to recognize a cat?**
 
-**A shared example: Cat or not a cat?** Imagine an image classifier trained to answer **"Does this photo show a real cat?"** It has learned from photos labeled **"real cat"** or **"not a real cat"**. When shown a new photo of a **plush cat toy**, it predicts **"real cat"**. For this task, the prediction is wrong. This is an imagined example, not the result of testing a particular model.
+### 1. Slides and introduction (9 min)
+
+First, follow the short [Session 01 slides](../slides/session01.html) introducing the difference between traditional programming and machine learning.
+
+### 2. Discuss in pairs (7 min)
+
+Imagine you are building an application that needs to recognize **real cats** in photographs. Look at these two images:
 
 | Photo A: Real cat | Photo B: Plush cat toy |
 | :---: | :---: |
@@ -54,24 +60,21 @@ Think of something you learned through difficulty, perhaps in a creative project
 
 *Images for discussion, not actual classifier outputs. Photo A: [Sarah Dorweiler, CC0](https://commons.wikimedia.org/wiki/File:Tabby_cat_on_a_chair_%28Unsplash%29.jpg). Photo B: [Daniel Schwen, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:TCMI_Cheshire_Cat_2.jpg).*
 
+Discuss with your partner:
 
-### 1. Technical introduction (7 min)
+1. **How would you do it?** If you had to write a program to recognize a cat, what rules would you give it? Think about using `if/else` statements.
+2. **What could go wrong?** Could your rules mistake the plush toy for a real cat? What other images might confuse the program?
+3. **What if you used machine learning instead?** Rather than writing all the rules yourself, what examples would you show the computer? How might it improve?
 
-Use the selected [Session 01 slides](../slides/session01.html) to explore the difference between writing explicit rules and training a model using examples. Consider the roles of training images, labels, predictions, and errors.
+You do not need to write code or train a model. Be ready to share one idea or difficulty.
 
-### 2. Pair investigation (9 min)
+### 3. Discuss with the class (4 min)
 
-- What did the classifier receive during training, and what did it predict for the toy?
-- Why might it make this mistake? What examples or feedback could help it improve?
-- How would you test whether it improved on **new photos**, rather than just memorizing this example? Does one wrong prediction automatically change the model?
+Hear a few approaches and compare **writing rules ourselves** with **learning patterns from examples**.
 
-Write **one sentence distinguishing training from using a trained model**, and suggest **one way to test an improvement**. No coding or model training is required.
+**When a computer makes a mistake, does that mean it has learned something?**
 
-### 3. Collective comparison (4 min)
-
-Hear two different explanations. What can a mistake reveal about what the model learned? Compare this with the personal example you discussed at the start of the session: what seems similar about learning from errors, and what may be different?
-
-This question will lead into Part 2 on human learning and the meaning of failure.
+Keep that question in mind as we move to Part 2 and explore what failure means in human learning.
 
 ## Part 2: Human Learning (20 min)
 
