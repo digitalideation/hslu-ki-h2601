@@ -15,8 +15,8 @@ Look for students who can make a useful distinction, support it with an observat
 - For Part 1, show a few [Session 01 slides](../slides/session01.html) first (9 min), especially the contrast between classical programming and machine learning. Then have students use the two cat images on the [Session 01 page](./session01.md#part-1-ai-learning-20-min) to discuss three simple questions in pairs (7 min), followed by a short class comparison (4 min). Focus on the idea of **programming explicit rules vs. learning patterns from examples**, not technical vocabulary or model evaluation. There is no need for coding or a live demo; leave neural networks and deep learning as optional context.
 - For human learning, check access to the [Human Learning NotebookLM notebook](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and its simple question on the [Part 2 resource page](./session01_02.md). Prepare the short [English Pépin transcript section](../slides/static/vids/philo_en.md#learning-through-culture-and-failure) as a fallback. Pairs only; no whole-class discussion round or written deliverable.
 - Treat Pépin's argument as a philosophical proposal to question, not a biological account students must accept. The longer material's numerical claim about walking is not needed for this activity.
-- Open the [public course board][miro-board] for the opening work and the [Maurice vs George board][miro-perception] for perception. Provide a small area per group for initial ideas, observations or sources, revised ideas, and open questions. Paper is a fallback.
-- Prepare an opaque bag and a few safe objects per pair, or enough sets to share without a long queue. Use objects students cannot already see. Check whether the touch activity is suitable for everyone and prepare an alternative.
+- Open the [public course board][miro-board] for the opening work and the [Maurice vs George board][miro-perception] for perception. Provide one area for each of the 15 pairs for initial ideas, observations, revisions, and questions. Paper is a fallback.
+- Prepare an opaque bag or covered object for each of the 15 pairs to avoid queues. Use objects students cannot already see. Check whether the touch activity is suitable for everyone and prepare an alternative.
 - Check access to the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74). Make [Berkeley's section 6][berkeley-section-6] available on screen or as a short handout for source checks. Students should not need to read the full philosophical texts.
 - If using Merleau-Ponty for source verification, prepare the specified [French Preface paragraph][merleau-ponty-preface] or a corresponding English excerpt with edition and page. Otherwise use the short course introduction in Activity 3 and Berkeley for Activity 4.
 - If using the NotebookLM podcast, select a 2–3-minute passage beforehand. Use it within the resource time as an alternative explanation, not an additional listening task. Retain the original-source check in Activity 4.
@@ -32,11 +32,11 @@ Times are minutes from the start and include transitions and sharing.
 | 5–25 | 9 minutes presenting selected slides, 7 discussing three cat-recognition questions in pairs, 4 sharing with the class | Why explicit rules are difficult; how machine learning uses examples; what a mistake means |
 | 25–45 | 3 minutes recalling an example, 9 using NotebookLM, 6 talking in pairs, 2 teacher-led closing | Whether failure actually helps learning; no plenary reporting from 15 pairs |
 | 45–55 | Break | |
-| 55–65 | 7 minutes classifying in pairs, 3 discussing one disagreement | Different criteria for perception |
+| 55–65 | 5 minutes initial choices, 3 asking NotebookLM, 2 comparing responses within pairs | Initial intuition versus AI-assisted interpretation |
 | 65–80 | 4 minutes responding, 5 with Berkeley, 6 reconsidering and discussing | Room, representation, input, and possible experience |
-| 80–100 | 3 minutes with an AI description, 6 experimenting, 4 comparing accounts, 3 with Merleau-Ponty, 4 exchanging with another pair | How AI might influence attention and interpretation |
-| 100–120 | 4 minutes generating, 8 checking one claim, 5 revising, 3 exchanging between pairs | A source-based correction or a clearly stated limit |
-| 120–140 | 7 minutes sketching, 6 exchanging between groups, 5 in class discussion, 2 writing individually | Connect an investigation to creative practice and revisit initial positions |
+| 80–100 | 3 minutes with an AI description, 6 experimenting, 4 comparing accounts, 3 with Merleau-Ponty, 4 reflecting within the pair | How AI might influence attention and interpretation |
+| 100–120 | 4 minutes generating, 8 checking one claim, 5 revising, 3 explaining within the pair | A source-based correction or a clearly stated limit |
+| 120–140 | 7 minutes sketching in pairs, 6 critiquing and refining in pairs, 5 revisiting initial examples, 2 reflecting individually | Connect an investigation to creative practice and revisit initial positions |
 
 ## Part 2: Human Learning with 30 Students
 
@@ -54,15 +54,15 @@ During the four-minute share-out, invite one pair to share a rule and another to
 
 End with **"When a computer makes a mistake, does that mean it has learned something?"** Save the deeper comparison with human failure for Part 2.
 
-## Groups and Sharing
+## Pairs and Sharing
 
-Keep stable pairs. Two neighboring pairs form a group of four when needed; adjust to a group of three for odd numbers. In AI tasks, one person operates the tool while the other records observations or checks the source. Swap those roles between Activities 3 and 4.
+With 30 students, keep the same **15 pairs** throughout the workshop. No switching seats, combining into groups of four, or formal presentations. Partners take turns operating NotebookLM or an LLM and recording observations or checking sources.
 
-There are no formal presentations. During class discussion, invite a 30–60-second contribution that adds a disagreement, correction, or changed position. Select contrasting examples rather than hearing a report from every group.
+In Activity 1, have pairs make their own classifications for five minutes **before** they open NotebookLM. Use the three-minute NotebookLM question to introduce a possible new distinction, then allow two minutes to compare. Skip NotebookLM if access is slow.
 
-At the end, each group presents its rough idea to another group. Each gets two minutes to explain and one minute for feedback, six minutes total for the exchange. Arrange these group pairings before the closing block. If there is an odd group out, hear its pitch yourself while the others exchange. For a very small class with only one group, hear its pitch and use the remaining time for discussion.
+For touch recognition, distribute materials before the exercise so 15 pairs can work simultaneously. For the creative closing, each pair sketches, switches roles between designer and critical participant for three minutes each, and improves its own idea. A brief teacher summary replaces the former exchanges between groups.
 
-Everyone has a chance to explain work to peers; only a few examples need whole-class attention.
+Avoid hearing from all 15 pairs. A show of hands or one or two optional comments is enough. If attendance is odd, one trio can work without reorganizing everyone.
 
 ## Activity 3: AI, Attention, and Experience
 
