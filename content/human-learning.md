@@ -1,10 +1,10 @@
 # Human Learning: Failure, Culture, and Creativity
 
-**Optional guide for [Session 01: Human Learning, Perception, and Creativity](./session01.md)**
+**Use this guide in class during [Part 1: How do we learn?](./session01.md#1-how-do-we-learn-50-min), especially the 15-minute Charles Pépin activity.** Read the short explanation of his argument, then use the linked NotebookLM. The full media and further reflection are optional.
 
 **Question:** How do failure, other people, and culture contribute to what humans learn and create?
 
-The class compares human learning with machine learning through the cat-recognition exercise and Charles Pépin. This guide offers the context and resources, **not another activity to complete**.
+The [student classroom page](./session01.md) tells you exactly what to do and produce. This guide gives you the short background for the Pépin investigation and easy access to its sources.
 
 ## Pépin's "failed animal"
 
@@ -42,7 +42,7 @@ Humans also learn through examples and feedback, but their learning can be bodil
 
 Use the answer as a starting point and verify any source-specific claims.
 
-[← Classroom page](./session01.md) · [Perception guide](./session01_03.md) · [Creativity and Society guide](./session01_creativity.md)
+[← Classroom page](./session01.md) · [Perception guide](./perception-guide.md) · [Creativity and Society guide](./creativity-and-society.md)
 
 [notebook]: https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484
 [video]: https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484?artifactId=395cfd6c-68d5-454d-a70b-ff384e4e3cd8

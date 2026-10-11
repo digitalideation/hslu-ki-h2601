@@ -1,6 +1,6 @@
 # Perception Workshop: Thinking Like a Philosopher
 
-> **Earlier workshop version (optional activity variations).** The current 140-minute class follows the [simplified Session 01 classroom page](./session01.md). The timings and sequence below are **not** the current class schedule. For concepts and references, use the [Perception guide](./session01_03.md).
+> **Extended Perception Workshop (optional).** This is a preserved 85-minute set of additional activities, **not** the timetable for the current 140-minute [Session 01](./session01.md). For the short classroom experiment and its philosophical context, use the [Perception guide](./perception-guide.md).
 
 What would count as perception in an AI system? Begin with your own examples, try an experiment, and use Berkeley and Merleau-Ponty to reconsider your answers.
 
@@ -8,7 +8,7 @@ What would count as perception in an AI system? Begin with your own examples, tr
 
 ## Workshop at a glance
 
-This **85-minute workshop** starts after the break in [Session 01](./session01.md). The timings include short resource checks, pair reflection, and closing.
+This **85-minute workshop** is an alternative or extended sequence for later exploration. It is **not** scheduled during the current [Session 01](./session01.md).
 
 | Duration | Activity | Resource to use |
 | --- | --- | --- |
@@ -18,7 +18,7 @@ This **85-minute workshop** starts after the break in [Session 01](./session01.m
 | 20 min | AI as a Philosopher | An LLM and a source you can inspect |
 | 20 min | Creative application and closing | A pair sketch, critique together, and a return to opening ideas |
 
-Open the [Maurice vs George Miro board][miro-perception] and the [perception resource guide](./session01_03.md). Keep a small working area for your pair: **initial idea → observation or source → revised idea → open question**. Paper works too. Keep notes brief. Your discussion stays within your pair; the teacher may highlight a few examples, but there are no presentations.
+Open the [Maurice vs George Miro board][miro-perception] and the [perception resource guide](./perception-guide.md). Keep a small working area for your pair: **initial idea → observation or source → revised idea → open question**. Paper works too. Keep notes brief. Your discussion stays within your pair; the teacher may highlight a few examples, but there are no presentations.
 
 ## Activity 1: Data or Experience?
 
@@ -45,7 +45,7 @@ Consider these examples:
 
 ### Ask NotebookLM (3 min)
 
-Only after making your choices, open the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) and ask the [Activity 1 question](./session01_03.md#in-class-a-focused-investigation):
+Only after making your choices, open the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) and ask the [Activity 1 question](./perception-guide.md#using-ai-to-explore-not-to-decide):
 
 > What is the difference between recognizing a pattern in data and experiencing something? Explain using a cat as an example, in three simple sentences.
 
@@ -77,7 +77,7 @@ Now change one condition: the computer is switched off, but its storage remains 
 
 ### Bring in Berkeley
 
-Open the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) and use the focused [Activity 2 question](./session01_03.md#in-class-a-focused-investigation). Ask how Berkeley explains what happens when one person stops perceiving something. Check a key claim against [section 6 of his *Principles of Human Knowledge*][berkeley-section-6], rather than reading everything.
+Open the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) and use the focused [Activity 2 question](./perception-guide.md#using-ai-to-explore-not-to-decide). Ask how Berkeley explains what happens when one person stops perceiving something. Check a key claim against [section 6 of his *Principles of Human Knowledge*][berkeley-section-6], rather than reading everything.
 
 Berkeley's account includes perception by an eternal spirit; it is not simply the claim that objects disappear when an individual stops looking.
 
@@ -126,7 +126,7 @@ Keep one observation separate from your interpretation. For example, what you ac
 
 ### 4. Bring in Merleau-Ponty (3 min)
 
-Use the [short Merleau-Ponty introduction](./session01_03.md#merleau-ponty-the-lived-body) or ask the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) why bodily movement matters for perception. Use the idea to reconsider one observation. You do not need to do both.
+Use the [short Merleau-Ponty introduction](./perception-guide.md#merleau-ponty-perceiving-by-doing) or ask the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) why bodily movement matters for perception. Use the idea to reconsider one observation. You do not need to do both.
 
 What would a robot need to reproduce the behavior you observed? Would reproducing that behavior also establish that it has a lived experience?
 
@@ -162,7 +162,7 @@ You can try a philosopher role-play afterward, but treat its output as generated
 
 ### Check
 
-Choose **one claim** from the response and compare it with a source in the [verification routes](./session01_03.md#verification-routes). Berkeley's section 6 is the default short, English-language route. For Merleau-Ponty, use the specified passage or an excerpt supplied in class.
+Choose **one claim** from the response and compare it with a source in the [verification routes](./perception-guide.md#using-ai-to-explore-not-to-decide). Berkeley's section 6 is the default short, English-language route. For Merleau-Ponty, use the specified passage or an excerpt supplied in class.
 
 NotebookLM can help locate and explain a passage. Open the cited source and inspect it: agreement between two AI responses is not verification.
 
@@ -218,7 +218,7 @@ Write:
 
 Keep your note with your pair's work. The aim is a more precise question and a better-supported position.
 
-[Back to the resource guide](./session01_03.md) · [Session 01 outline](./session01.md)
+[Back to the resource guide](./perception-guide.md) · [Session 01 outline](./session01.md)
 
 [miro-perception]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904
 [berkeley-section-6]: https://celt.ucc.ie/published/E710001-001/text005.html

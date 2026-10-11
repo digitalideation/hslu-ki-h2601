@@ -12,7 +12,15 @@ The course uses experiments, philosophy, conversation, and questions about socie
 
 **[Open the Session 01 classroom page](./content/session01.md)**
 
-Optional guides: [Human Learning](./content/session01_02.md) · [Perception and the Body](./content/session01_03.md) · [Creativity and Society](./content/session01_creativity.md)
+**Guides used in class** (open them when you reach each topic):
+
+| Topic | Guide |
+| --- | --- |
+| **Learning and Pépin** | [Human Learning](./content/human-learning.md) |
+| **Berkeley and touch** | [Perception and the Body](./content/perception-guide.md) |
+| **Literary controversy and stakeholders** | **[Creativity and Society](./content/creativity-and-society.md)** |
+
+The [extended Perception Workshop](./content/perception-workshop.md) is preserved for optional further activities.
 
 **NotebookLM:** [Human Learning](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) · [Perception](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74)
 

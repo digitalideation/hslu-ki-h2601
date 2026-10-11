@@ -1,10 +1,10 @@
 # Perception: From Data to Experience
 
-**Optional guide for [Session 01: Human Learning, Perception, and Creativity](./session01.md)**
+**Use this guide in class during [Part 2: Perception, the body, and creativity](./session01.md#2-perception-the-body-and-creativity-40-min).** Read **Berkeley** for the robot question, and **Merleau-Ponty** after the touch experiment. The further resources below are optional.
 
 **Question:** What is the difference between recognizing something and experiencing it, and how might bodily experience shape creativity?
 
-This guide offers background for the *Sensors Go Dark* and *Touch Recognition* activities. **The instructions and durations are on the [classroom page](./session01.md)**. No advance reading required.
+All instructions and durations are on the [classroom page](./session01.md), while this guide supplies the philosophical ideas needed to interpret those activities. No advance reading required.
 
 ## Berkeley: a map isn't a world
 
@@ -48,9 +48,9 @@ A NotebookLM or chatbot answer is an interpretation. Check quoted historical cla
 - [Merleau-Ponty: publisher's introduction][merleau-intro]
 - [Three Dialogues Between Hylas and Philonous][dialogues]
 - [Maurice vs George Miro board][miro]
-- [Earlier workshop, optional variations](./session01_03_04.md)
+- [Earlier workshop, optional variations](./perception-workshop.md)
 
-[← Classroom page](./session01.md) · [Human Learning](./session01_02.md) · [Creativity and Society](./session01_creativity.md)
+[← Classroom page](./session01.md) · [Human Learning](./human-learning.md) · [Creativity and Society](./creativity-and-society.md)
 
 [perception-nlm]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74
 [perception-podcast]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74?artifactId=4f0253fe-b5c6-4697-8177-92c4323405b0

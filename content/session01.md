@@ -24,15 +24,21 @@ We will move from learning through errors to perceiving with the body, and then 
 | 15 min | A question to explore later | Individual + pairs + closing |
 | **140 min** | **Total** | |
 
-**Useful now:** [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) · [Perception NotebookLM](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74)
+### Guides to use during class
 
-**Optional background:** [Human Learning guide](./session01_02.md) · [Perception guide](./session01_03.md) · [Creativity & Society guide](./session01_creativity.md) · [France Culture debate](https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314)
+These three guides are **part of the classroom activities**, not extra readings. Open the relevant guide only when you reach that part. You do **not** need to read the entire guide.
 
-You do not need to go through every resource. Follow the steps below.
+| When | Open | What to use |
+| --- | --- | --- |
+| **Part 1, Pépin (15 min)** | **[Human Learning guide](./human-learning.md)** | The short explanation of failure and culture, then the [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) |
+| **Part 2, Berkeley and touch (30 min)** | **[Perception guide](./perception-guide.md)** | The Berkeley and Merleau-Ponty explanations; [Perception NotebookLM](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) if useful |
+| **Part 3, literature and society (25 min)** | **[Creativity and Society guide](./creativity-and-society.md)** | **Required for the activity:** case summary, used-car analogy, and stakeholder questions |
+
+The full [France Culture debate](https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314) is optional listening. The [extended Perception Workshop](./perception-workshop.md) is preserved for further experiments, **not** part of today's timetable.
 
 ## 1. How do we learn? (50 min)
 
-### Step 1. Cat recognition (10 min)
+### Cat recognition (10 min)
 
 Imagine teaching a computer to distinguish a **real cat** from a **plush cat**.
 
@@ -49,7 +55,7 @@ Imagine teaching a computer to distinguish a **real cat** from a **plush cat**.
 
 **Produce:** Two rules, one example where they fail, and one improvement. A few lines are enough.
 
-### Step 2. Machine learning and the black box (15 min)
+### Machine learning and the black box (15 min)
 
 Follow a short introduction using the [AI Learning slides](../slides/session01.html).
 
@@ -67,21 +73,22 @@ Follow a short introduction using the [AI Learning slides](../slides/session01.h
 - "A programmed rule changes when..., while a trained model improves when..."
 - "One thing we cannot know from the prediction alone is..."
 
-### Step 3. Human learning: Charles Pépin (15 min)
+### Human learning: Charles Pépin (15 min)
 
 Pépin suggests that human mistakes and dependence on others can open possibilities for learning, culture, and freedom. You can challenge his argument.
 
 **Do (pairs):**
 1. Each think of something you learned by making mistakes. What actually helped you improve?
-2. Open the [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and ask:
+2. Read the short **[Pépin explanation in the Human Learning guide](./human-learning.md#pepins-failed-animal)**.
+3. Open the [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and ask:
 
    > Why does Charles Pépin connect failure with learning, culture, and the possibility of inventing ourselves? Give one example from the sources.
 
-3. Compare one part of his argument with your experience. If the notebook is unavailable, use the [short English transcript](../slides/static/vids/philo_en.md#learning-through-culture-and-failure).
+4. Compare one part of his argument with your experience. If the notebook is unavailable, use the [short English transcript](../slides/static/vids/philo_en.md#learning-through-culture-and-failure).
 
 **Produce:** **One example** from your experience and **one sentence** saying whether it supports or challenges Pépin's argument, and why.
 
-### Step 4. Discussion 1: What does it mean to learn? (10 min)
+### Discussion 1: What does it mean to learn? (10 min)
 
 **Do:** With your partner, prepare an answer to: **Is making a mistake enough to learn something, whether you're a person or a machine?** Give one reason based on your notes. Listen to other perspectives during the class discussion.
 
@@ -91,11 +98,11 @@ Pépin suggests that human mistakes and dependence on others can open possibilit
 
 ## 2. Perception, the body, and creativity (40 min)
 
-### Step 5. Berkeley: If the Sensors Go Dark (10 min)
+### Berkeley: If the Sensors Go Dark (10 min)
 
 Imagine a robot with a camera and a saved map of a room. Its camera is disconnected, but its map is still in memory.
 
-Berkeley questioned the relationship between existence and perception. He did **not** simply claim that a room vanishes when one person stops looking: his philosophy also invokes an eternal spirit. An optional short source is [section 6 of his *Principles*](https://celt.ucc.ie/published/E710001-001/text005.html).
+Read the short **[Berkeley explanation in the Perception guide](./perception-guide.md#berkeley-a-map-isnt-a-world)**. He questioned the relationship between existence and perception, but did not simply claim that objects vanish when one person stops looking. The [original passage](https://celt.ucc.ie/published/E710001-001/text005.html) is available for further reading.
 
 **Do (pairs):**
 1. Answer: **Does the robot's world still exist?**
@@ -104,7 +111,7 @@ Berkeley questioned the relationship between existence and perception. He did **
 
 **Produce:** **Two short sentences:** your answer and the distinction that supports it. Add **one unanswered question** if you have one.
 
-### Step 6. Touch recognition and Merleau-Ponty (20 min)
+### Touch recognition and Merleau-Ponty (20 min)
 
 Merleau-Ponty helps us ask how perception depends on our **lived bodily involvement** in the world, not simply receiving measurements.
 
@@ -116,13 +123,13 @@ Merleau-Ponty helps us ask how perception depends on our **lived bodily involvem
 
 2. **Try it (7 min):** Use safe everyday objects you already have, such as a pen, eraser, or keyring. One person keeps an object out of sight; the other closes their eyes, explores it by touch, and tries to identify it. Swap roles. Only share or touch objects you're comfortable with.
 3. **Compare (5 min):** What did you discover by moving your hand? What did the AI describe accurately or miss?
-4. **Connect (5 min):** How does your experience relate to Merleau-Ponty's idea that perception involves bodily action? If helpful, use the [short Perception guide](./session01_03.md) or [Perception NotebookLM](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74).
+4. **Connect (5 min):** Read **[Merleau-Ponty: perceiving by doing](./perception-guide.md#merleau-ponty-perceiving-by-doing)** in the Perception guide. How does the idea of bodily action help explain your experience? The [Perception NotebookLM](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74).
 
 **Produce:** **Two observations from the experiment** and **one comparison with the AI's description**. For example: "Moving my fingers along the edge helped me identify the object; the AI description did not mention that movement."
 
 *Alternative:* If touch recognition is unsuitable, discuss how a robot would recognize and pick up an object, then what would change if it could not move. Record one observation about movement and perception.
 
-### Step 7. Discussion 2: What does the body contribute to creativity? (10 min)
+### Discussion 2: What does the body contribute to creativity? (10 min)
 
 **Do:** Think of drawing, playing music, making a prototype, editing a video, or another creative practice you know. Talk with your partner about something you **discover while doing it**, rather than planning in advance. We'll compare a few examples as a class.
 
@@ -130,35 +137,33 @@ Merleau-Ponty helps us ask how perception depends on our **lived bodily involvem
 
 ## 3. Creativity and society: a literary controversy (25 min)
 
-### Step 8. The Orélien case (5 min)
+**Open the [Creativity and Society guide](./creativity-and-society.md) now.** You will use it for **all four activities** in this part. It contains the case facts, the complete car analogy, and perspectives to work from. You do **not** need to listen to the podcast.
 
-A controversy in French-language literature involved writer **Thélyson Orélien** and his novel *C'était ça ou mourir*. Allegations of AI involvement triggered a debate, and the writer disputed those allegations. **The activity is not about deciding whether the allegation was true.**
+### The Orélien case (5 min)
 
-The [France Culture debate](https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314) is optional listening; no French is required for the classroom activity.
-
-**Do (pairs):** Imagine reading and loving a novel, then hearing that AI may have helped write it. Discuss: **Would your opinion change? What would you want to know?**
+**Do (pairs):**
+1. **Read the [case file](./creativity-and-society.md#case-file-the-orelien-controversy) (2 min).** Notice which statements are confirmed events and which are disputed allegations. Do not try to determine whether the author used AI.
+2. **Discuss (3 min):** Imagine reading and loving a novel, then hearing that AI may have helped write it. Would your opinion change? What would you want to know?
 
 **Produce:** **One sentence** explaining whether your opinion would change and why. There is no expected answer.
 
-### Step 9. Trust and the "lemons" analogy (5 min)
+### Trust and the "lemons" analogy (5 min)
 
-**First, used cars:** Two cars look equally good, but one has hidden defects (a "lemon"). The sellers know more than the buyer. Unable to distinguish them, buyers may offer less for **both** cars. Owners of good cars may stop selling at that price. **Not knowing who to trust can hurt honest sellers too.**
+**Do (pairs):**
+1. **Read [Used cars and trust](./creativity-and-society.md#used-cars-and-trust-the-lemons-analogy) (2 min).** Follow what the seller knows, what the buyer cannot check, and how that affects trust.
+2. **Apply it to books (3 min):** What might readers not know about how a book was made? How could uncertainty affect an author who did **not** use AI?
 
-**Now, books:** Writers and publishers may know more about how a novel was made than readers. Some readers care only about the text; others also value the human experience, intention, or effort behind it. Uncertainty about AI use may affect trust, even for writers who did **not** use AI.
+**Produce:** Complete **one sentence**: "Just as car buyers cannot easily know..., readers cannot easily know..., which could affect..."
 
-**Important:** This is a comparison about **missing information**, not a claim that AI-assisted books are defective or less valuable.
+**Important:** We are comparing **uncertainty and trust**, not claiming that AI-assisted books are defective or less valuable.
 
-**Do (pairs):** Explain how the uncertainty in the car example could also affect trust between authors, publishers, and readers.
-
-**Produce:** Complete **one sentence**: "Just as buyers cannot easily know..., readers cannot easily know..., which could affect..."
-
-### Step 10. Stakeholder investigation (8 min)
+### Stakeholder investigation (8 min)
 
 **Do (groups of about four):**
 1. Join another pair.
-2. Pick **two different perspectives**, such as writer and reader, writer and publisher, or publisher and critic.
-3. Discuss what each might value, gain, or risk if AI is used in writing.
-4. Identify **one point of disagreement** between the two perspectives. You can use questions about **agency, creativity, value, ownership, risk, and success**.
+2. Open the **[stakeholder perspectives](./creativity-and-society.md#stakeholders-six-questions-one-controversy)** in the guide and pick **two** (e.g., writer and reader).
+3. Use the guide's questions about **agency, creativity, value, ownership, risk, and success** to discuss what each stakeholder might value, gain, or risk.
+4. Identify **one point of disagreement** between the two perspectives.
 
 **Produce:** **Three short lines**, together:
 
@@ -166,9 +171,9 @@ The [France Culture debate](https://www.radiofrance.fr/franceculture/podcasts/qu
 - "From the perspective of [stakeholder 2]..."
 - "Their main disagreement could be..."
 
-### Step 11. Class discussion: What do we value in creation? (7 min)
+### Class discussion: What do we value in creation? (7 min)
 
-**Do:** Each group chooses **one spokesperson** who can explain its disagreement in a sentence if invited. Listen for different understandings of creativity and value. Consider: **Is the finished work all that matters, or also the experience, intention, and relationships behind it?**
+**Do:** Each group chooses **one spokesperson** who can explain its disagreement in a sentence if invited. Use the **[connecting ideas](./creativity-and-society.md#connecting-learning-perception-and-creativity)** in the guide to think back to Pépin and Merleau-Ponty. Consider: **Is the finished work all that matters, or also the experience, intention, and relationships behind it?**
 
 **Produce:** **One clear disagreement to share orally** (only a few groups will be invited). Keep one question the discussion leaves open.
 
@@ -176,7 +181,7 @@ The [France Culture debate](https://www.radiofrance.fr/franceculture/podcasts/qu
 
 This is **inspiration only**, not an assignment workshop. You are not expected to choose a final topic or create a proposal. Follow the official brief for assessment requirements.
 
-### Step 12. Find a question worth exploring
+### Find a question worth exploring
 
 **Do:**
 
@@ -207,4 +212,4 @@ The [France Culture episode](https://www.radiofrance.fr/franceculture/podcasts/q
 
 ---
 
-[Human Learning guide](./session01_02.md) · [Perception guide](./session01_03.md) · [Creativity & Society guide](./session01_creativity.md) · [Course homepage](../readme.md)
+[Human Learning guide](./human-learning.md) · [Perception guide](./perception-guide.md) · [Creativity & Society guide](./creativity-and-society.md) · [Course homepage](../readme.md)
