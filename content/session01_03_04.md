@@ -6,7 +6,7 @@ What would count as perception in an AI system? Begin with your own examples, tr
 
 ## Workshop at a glance
 
-This **85-minute workshop** starts after the break in [Session 01](../readme.md#session-01-learning-and-perception). The timings include resource use, peer exchanges, and class discussion.
+This **85-minute workshop** starts after the break in [Session 01](./session01.md). The timings include resource use, peer exchanges, and class discussion.
 
 | Time | Activity | Resource to use |
 | --- | --- | --- |
@@ -213,7 +213,7 @@ Write:
 
 Keep your note with your group's work. The aim is a more precise question and a better-supported position.
 
-[Back to the resource guide](./session01_03.md) · [Course overview](../readme.md)
+[Back to the resource guide](./session01_03.md) · [Session 01 outline](./session01.md)
 
 [miro-perception]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904
 [berkeley-section-6]: https://celt.ucc.ie/published/E710001-001/text005.html
