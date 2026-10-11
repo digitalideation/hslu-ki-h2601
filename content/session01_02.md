@@ -1,62 +1,50 @@
-# Human Learning: Failure, Feedback, and Culture
+# Human Learning: Failure, Culture, and Creativity
 
-**Optional guide for [Session 01: Human Learning and Creativity](./session01.md)**
+**Optional guide for [Session 01: Human Learning, Perception, and Creativity](./session01.md)**
 
-**Guiding question:** What is different about human learning, machine prediction, and creative intention?
+**Question:** How do failure, other people, and culture contribute to what humans learn and create?
 
-In class we compare these ideas through a creative brief and an AI experiment. This page offers background for anyone who wants to understand Charles Pépin's argument more deeply. **It is not a separate classroom task.**
+The class compares human learning with machine learning through the cat-recognition exercise and Charles Pépin. This guide offers the context and resources, **not another activity to complete**.
 
 ## Pépin's "failed animal"
 
-Philosopher Charles Pépin contrasts a foal walking shortly after birth with a human child who learns through extended development and practice. He argues that our dependence and repeated attempts help open up possibilities for culture and freedom.
+Pépin contrasts a young foal's early ability to walk with a child learning gradually through practice. He uses the idea of the human as a "failed" or "denatured" animal to suggest that our dependence opens opportunities for learning, culture, and freedom.
 
-Pépin calls humans "denatured" or "failed" animals as a provocation, not a scientific label. His numerical claims about childhood development in the transcript have not been independently established here.
+This is a **philosophical argument**, not an independently verified set of developmental statistics. You can disagree with the comparison.
 
-**A question:** What makes an unsuccessful attempt useful for learning: the error itself, feedback, practice, help from others, or something else?
+**Ask yourself:** Does failure teach us, or do repetition, feedback, guidance, and changes of approach do the teaching?
 
-## Culture and creativity
+## Culture, freedom, invention
 
-Pépin argues that human dependence leads us to rely on **culture**: language, teaching, shared knowledge, relationships, and creative practices. These connections do more than give us information. They influence what we value, attempt, and imagine.
+Pépin describes how humans rely on other people, education, language, books, tutorials, and relationships. Learning is not just correcting a mistake; it can change what we imagine ourselves able to become. He links this to the possibility of inventing ourselves.
 
-He also links the possibility of learning and changing to **freedom and self-invention**, drawing on the phrase *"existence precedes essence."* You can question whether freedom and self-invention are equally available to everyone.
+This brings us toward creativity: **how are your experiences, encounters, and attempts involved in what you make?** How might an AI tool influence these choices, positively or negatively?
 
-**A question:** How does learning from a community change what we can create, compared with working entirely alone?
+## Comparing human and machine learning
 
-## Human learning, machine prediction, creative intention
+In a simple image classifier, a human might write explicit rules or train a model on labelled examples. Trained systems can generate new predictions without updating the model after each interaction.
 
-Machine-learning systems are trained to find patterns that support predictions or generated outputs. Generative AI can create useful text, images, sounds, or suggestions in response to prompts. Producing a response does **not** necessarily mean the deployed model has learned from that interaction.
+Humans also learn through examples and feedback, but their learning can be bodily, social, emotional, purposeful, and situated in culture. The comparison helps us ask questions; it does not by itself settle whether a machine can have experiences or intentions.
 
-Human creators may also work from patterns, examples, and feedback. But they can make decisions about purpose, audiences, relationships, expression, and responsibility. This is not a claim that human work is always fully intentional or that AI output has no creative value.
+**Question:** When you make something creative, what comes from what you have learned, and what emerges as you work?
 
-When using AI for a festival campaign, for example, consider **who sets the goals, selects outputs, edits them, and answers to the audience**. The interesting question is not only how something was generated but how it becomes meaningful in a social setting.
+## NotebookLM and further resources
 
-## Resources for optional exploration
+- **[Human Learning NotebookLM][notebook]**: ask about Pépin and inspect supporting passages.
+- [Short transcript: learning through culture and failure][short]: accessible fallback for class.
+- [Full English transcript][transcript], [English audio/video][en], and [French audio/video][fr]: longer version.
+- [NotebookLM video overview][video]: optional overview.
+- [Radio France: Charles Pépin][radio]: original programme context.
 
-| Resource | Why open it? |
-| --- | --- |
-| [Human Learning NotebookLM][notebooklm] | Ask focused questions about Pépin and the supplied sources |
-| [Short transcript: Learning Through Culture and Failure][short] | Read the core argument quickly |
-| [Full English transcript][transcript] | Follow the argument through culture, learning, and freedom |
-| [English media][en] / [French media][fr] | Listen to the discussion |
-| [NotebookLM video overview][video] | An alternative overview |
-| [Radio France source page][radio] | Find the original programme context |
+**For ideation, try:**
 
-A useful optional NotebookLM prompt:
+> Based on the sources, suggest three questions about learning, failure, freedom, and AI-assisted creativity. For each, explain which idea from Pépin inspired it. Do not write a project proposal for me.
 
-> How does Charles Pépin connect failure, culture, and freedom? Find one passage, then identify an assumption that could be questioned.
+Use the answer as a starting point and verify any source-specific claims.
 
-NotebookLM explanations are aids to reading, not substitutes for a source.
+[← Classroom page](./session01.md) · [Perception guide](./session01_03.md) · [Creativity and Society guide](./session01_creativity.md)
 
-## Further questions
-
-- Can repetition produce improvement without understanding?
-- What makes feedback meaningful to humans or useful in AI training?
-- Where does a creative intention come from: an individual, a culture, or a collaboration?
-- When does AI assist someone's intention, and when might it redirect it?
-
-[← Back to Session 01](./session01.md) · [Creativity, AI, and Society](./session01_creativity.md)
-
-[notebooklm]: https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484
+[notebook]: https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484
 [video]: https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484?artifactId=395cfd6c-68d5-454d-a70b-ff384e4e3cd8
 [short]: ../slides/static/vids/philo_en.md#learning-through-culture-and-failure
 [transcript]: ../slides/static/vids/philo_en.md
