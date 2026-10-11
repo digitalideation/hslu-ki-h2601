@@ -1,12 +1,14 @@
 # Session 01: Human Learning, Perception, and Creativity
 
+![Session 01 introduction](../assets/session01_01.png)
+
 **Central question:** What makes human learning and creativity different from what AI does, and why does it matter?
 
 We will move from learning through errors to perceiving with the body, and then to a debate about AI and creative work.
 
 **Duration:** 140 minutes, including a 10-minute break.
 
-**How to work:** Stay with the same partner until the short group activity. Keep **one set of brief working notes** (paper or a notes app). Each step says what to **do** and what to **produce**. These are thinking aids, **not graded submissions**. You do not have to upload anything or make slides. In class discussions, the teacher will invite a few contributions rather than asking every pair to present. No advance reading or special objects are required.
+**How to work:** Stay with the same partner until the short group activity. Keep **one set of brief working notes** (paper or a notes app). Each activity says what to **do** and what to **produce**. These are thinking aids, **not graded submissions**. You do not have to upload anything or make slides. In class discussions, the teacher will invite a few contributions rather than asking every pair to present. No advance reading or special objects are required.
 
 ## Session at a glance
 
@@ -100,6 +102,8 @@ Pépin suggests that human mistakes and dependence on others can open possibilit
 
 ### Berkeley: If the Sensors Go Dark (10 min)
 
+![If the sensors go dark: perception and representation](../assets/a_sensor_goes_dark.png)
+
 Imagine a robot with a camera and a saved map of a room. Its camera is disconnected, but its map is still in memory.
 
 Read the short **[Berkeley explanation in the Perception guide](./perception-guide.md#berkeley-a-map-isnt-a-world)**. He questioned the relationship between existence and perception, but did not simply claim that objects vanish when one person stops looking. The [original passage](https://celt.ucc.ie/published/E710001-001/text005.html) is available for further reading.
@@ -112,6 +116,8 @@ Read the short **[Berkeley explanation in the Perception guide](./perception-gui
 **Produce:** **Two short sentences:** your answer and the distinction that supports it. Add **one unanswered question** if you have one.
 
 ### Touch recognition and Merleau-Ponty (20 min)
+
+![Embodied or disembodied perception](../assets/embodied_or_disembodied.png)
 
 Merleau-Ponty helps us ask how perception depends on our **lived bodily involvement** in the world, not simply receiving measurements.
 
