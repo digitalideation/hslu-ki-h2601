@@ -1,120 +1,98 @@
-# Part 3: Perception - From Data to Experience
+# Perception: From Data to Experience
 
-**Guiding question:** What would count as perception in an AI system, and what is the difference between recognizing something and experiencing it?
+**A companion to [Investigation 2: What does it mean to perceive?](./session01.md#investigation-2-what-does-it-mean-to-perceive-50-min) and [Investigation 3: How does AI shape our understanding?](./session01.md#investigation-3-how-does-ai-shape-our-understanding-35-min)**
 
-This page supports [Session 01, Parts 3 and 4](./session01.md#part-3-perception) and the [perception workshop](./session01_03_04.md). **You do not need to read or listen to everything.** Use NotebookLM for a focused question during the workshop, then inspect a short original passage or compare the answer with your own observations.
+This is **optional background and further reading**, not a second workshop. Follow the experiments, prompts, and whole-class discussions on the [Session 01 classroom page](./session01.md). Use this guide if you want to understand a philosopher's idea more deeply or check an interpretation.
 
-## In class: A focused investigation
+**Two questions to explore:**
+- How are sensing and recognizing something different from *experiencing* it?
+- How might an AI-generated explanation shape the way we interpret our own experience?
 
-Use the [Perception NotebookLM notebook][notebooklm-notebook] with your partner. Begin with your own idea, then ask the relevant question when the activity calls for it. You do not need to ask all four questions.
+## Berkeley: Perception and existence
 
-| When | Ask NotebookLM | What to check |
-| --- | --- | --- |
-| **Activity 1: Data or Experience?** (3-minute check, after your first choices) | "What is the difference between recognizing a pattern in data and experiencing something? Explain using a cat as an example, in three simple sentences." | Compare the answer with the categories you chose **before** asking. Did it raise a useful distinction? Keep your original choices. |
-| **Activity 2: If the Sensors Go Dark** (5-minute resource stop) | "How does Berkeley explain what happens when one person stops perceiving an object? Does he think it disappears entirely? Point me to a source passage." | Compare one part of the answer with [section 6 of Berkeley's *Principles*][berkeley-section-6]. |
-| **Activity 3: Embodied or Disembodied?** (short conceptual stop) | "According to the sources, why does movement and bodily involvement matter for Merleau-Ponty's account of perception? Give one simple example." | Compare the explanation with **something you actually noticed** during touch recognition. If time is short, use the [introduction below](#merleau-ponty-the-lived-body). |
-| **Activity 4: AI as a Philosopher** (source-checking step) | "Find a source passage that could support or challenge this claim: [paste one claim from your LLM response]. What does the source say, and what is an interpretation about AI?" | Open the cited passage. Agreement between NotebookLM and another LLM is **not** verification. |
+In the classroom thought experiment, a robot's camera is disconnected, but its stored map remains. We can distinguish **the physical room**, **the map**, and **the robot's access to new information**. Those distinctions do not settle the philosophical question of whether the robot has experience.
 
-Keep your notes short: **your first idea, one source or observation, what you reconsidered, and one open question**. Use the [Maurice vs George board][miro-perception] or paper.
+George Berkeley questions the existence of sensible objects independently of perceiving minds. His position is not simply "the room disappears when someone stops looking": his account includes an eternal spirit, as in [section 6 of his *Principles*][berkeley-section-6]. One person's lack of perception is not the same as a lack of perception by any mind.
 
-If NotebookLM is unavailable, use the short introductions and linked passages below. The activities can still be completed.
+**Try asking:** Is a stored representation an act of perception? Does your answer depend on what you mean by "perceiving mind"?
 
-## Key ideas to explore
+Berkeley wrote long before modern AI. Applying his philosophy to a robot is **our thought experiment**, not his view on computers.
 
-These ideas help us ask better questions; neither philosopher wrote about today's AI systems.
+## Merleau-Ponty: The lived body
 
-### Berkeley: Perception and Existence
+For Maurice Merleau-Ponty, perception is grounded in our **bodily involvement in the world**. We do not merely receive sensory data and calculate conclusions: how we move, what we expect, and what we can do shape how the world appears.
 
-Berkeley questions the idea of sensible objects existing independently of any perceiving mind. His account does not imply that a room vanishes when one person leaves: [section 6][berkeley-section-6] also invokes an eternal spirit.
+Think of the touch-recognition experiment. A finger resting on an unknown object may reveal little. Moving the hand, feeling its edges, turning it, and testing expectations can make recognition possible. This is a way to explore the link between perception and action.
 
-**Use in Activity 2:** distinguish the physical room, a robot's stored map, and its current access to the room. "Not perceived by me" and "not perceived by any mind" are different claims. A stored map does not automatically count as a perceiving mind.
+**Try asking:** What did you discover through movement that the initial touch did not reveal? What would a robot need to reproduce the behavior, and what would remain unanswered about experience?
 
-### Merleau-Ponty: The Lived Body
+For more context, see the [publisher's introduction to *Phenomenology of Perception*][merleau-ponty-edition] or [Merleau-Ponty's French preface][merleau-ponty-preface]. These are reading options, not required sources for today's exercise.
 
-For Merleau-Ponty, perception is rooted in bodily involvement in the world. The body is more than an instrument delivering measurements: our situation and possibilities for action shape how things appear to us. See a [publisher's introduction to *Phenomenology of Perception*][merleau-ponty-edition] or the original [Preface in French][merleau-ponty-preface].
+## AI as an interpreter, not an authority
 
-**Use in Activity 3:** consider how moving your hand changes what you discover by touch. How might the possibilities for action change what a robot can find? Reproducing sensory behavior alone would not establish subjective experience.
+An LLM can provide a convincing description of recognizing objects by touch without itself carrying out that experience. The description might help you notice something; it might also influence the words you use afterward. Comparing the description with your observations does not by itself prove it caused those observations.
 
-## Resource library
+Similarly, an LLM can explain Berkeley or Merleau-Ponty while blending a **historical claim** with a **new interpretation about AI**. In Investigation 3, we check one claim against a passage rather than deciding whether the whole answer "sounds right."
 
-Pick the resource that helps you investigate your question. You are not expected to use them all during class.
+### A manageable source check
 
-| Resource | What it is useful for |
-| --- | --- |
-| **[NotebookLM: AI Perception][notebooklm-notebook]** | A short question for each activity, including Data or Experience? |
-| [NotebookLM podcast][notebooklm-podcast] | An alternative overview to listen to later, or a short excerpt selected in class |
-| [Berkeley: *Principles*, section 6][berkeley-section-6] | Quick original-text check about individual and continuing perception |
-| [Merleau-Ponty: Preface (French)][merleau-ponty-preface] | Original-text route for a claim about lived perception |
-| [Verification routes](#verification-routes) | Find the specific passage for Activity 4 |
-| [Maurice vs George Miro board][miro-perception] | Record observations, disagreements, and revised answers |
-| [Public course Miro board][miro-board] | Carry questions into the wider course |
+1. **Choose one claim** from the AI's explanation of Berkeley.
+2. **Read [section 6 of Berkeley's *Principles*][berkeley-section-6].** Does it support the claim, complicate it, or leave it open?
+3. **Rewrite the claim more carefully.** Separate what Berkeley actually argued from what you are suggesting about AI.
 
-## Verification routes
+The [Perception NotebookLM][notebooklm-notebook] may help locate and explain a passage, but its answer is not independent verification. If two AI systems agree, still check the underlying source.
 
-For Activity 4, check **one claim**, not an entire philosophical theory.
+**For optional deeper study:** In the [French preface to *Phenomenology of Perception*][merleau-ponty-preface], find the paragraph beginning *"La perception n'est pas une science du monde"*. Compare that passage with an AI explanation of perception as explicit knowledge or judgment. For a source check in English during class, use Berkeley rather than inventing or treating an unsourced translation as a quotation.
 
-- **Berkeley, default English route:** read [section 6 of *A Treatise Concerning the Principles of Human Knowledge*][berkeley-section-6]. Check a claim about what happens when an individual stops perceiving an object. Notice the distinction between individual minds and an eternal spirit.
-- **Merleau-Ponty, original French route:** in the [Preface to *Phenomenology of Perception*][merleau-ponty-preface], find **"La perception n'est pas une science du monde"** and read that paragraph. Check whether an AI response treats perception primarily as explicit knowledge or judgment. You can also use an English excerpt supplied in class, with its edition and page.
-- **If the original passage is inaccessible:** use the course introduction to frame your question, then use the Berkeley route for direct source verification. Do not present a course summary or an AI answer as an original quotation.
+## A comparison to think with
 
-A historical claim may be supported by a source while an application to AI remains open. Keep these separate.
+This table suggests **questions**, not fixed definitions of humans or AI.
 
-## Further exploration
-
-### Questions to return to
-
-- What can we observe about a system's behavior, and what are we inferring about its experience?
-- Does a camera classifier, a robot moving through a room, and a text-only chatbot have the same relation to the world?
-- In a virtual environment, how do stored state, rendered appearance, and someone's experience differ?
-- Can an AI description direct our attention, or make one philosophical interpretation seem more convincing?
-
-### A comparison for later use
-
-This table is a starting point for discussion, not a classification of all humans and AI systems.
-
-| Dimension | Human example | AI example | Open question |
+| Dimension | Human example | AI example | Question |
 | --- | --- | --- | --- |
-| Sensing and action | Moving a hand to explore an object | A robot moves to gather sensor data | How does action change what can be detected? |
-| Representation | Remembering and describing a room | Using a stored map without live camera input | How does a representation differ from current access? |
-| Lived experience | Describing what an encounter feels like | Producing a description of an encounter | What evidence would justify attributing experience? |
-| Context | Recognizing a cup through habits and purposes | Identifying a cup for a particular task | What is lost when recognition becomes a label? |
+| Sensing and action | Exploring an object by moving a hand | A robot moving to gather sensor data | How does action change what becomes available? |
+| Representation | Remembering a room | Using a saved map with no live camera | How is remembering different from sensing right now? |
+| Experience | Describing what touching something feels like | Generating a description of touch | What evidence would justify attributing experience? |
+| Context | Recognizing a cup through use and habit | Identifying a cup for a task | How does a purpose shape recognition? |
 
-### Additional readings
+## Resources to explore later
 
-- [How to make AI that's good for people][google-how-to-make-ai-good-for-people]
-- [George Berkeley][wikipedia-george-berkeley]
-- [Three Dialogues Between Hylas and Philonous][three-dialogues]
-- [Maurice Merleau-Ponty][wikipedia-merleau-ponty]
-- [Physiognomy's New Clothes][physiognomys-new-clothes]
-- [Our machines now have knowledge we'll never understand][wired-machines-knowledge]
-- [Can you trust AI? Here's why you shouldn't][conversation-can-you-trust-ai]
-- [The seven deadly sins of predicting the future of AI][rodneybrooks-seven-deadly-sins]
-- [Facial recognition's dirty little secret][nbcnews-facial-recognition]
-- [Yuval Harari on ChatGPT][nytimes-harari-ai-chatgpt]
-- [You can have the blue pill or the red pill...][criticalai-blue-pill]
-- [The mind-expanding ideas of Andy Clark][newyorker-andy-clark]
-- [The history of open-source LLMs][history-open-source-llms]
+- [Perception NotebookLM][notebooklm-notebook]: investigate a focused question and inspect cited material.
+- [NotebookLM podcast][notebooklm-podcast]: an optional overview.
+- [Berkeley's *Principles*, section 6][berkeley-section-6] and [*Three Dialogues Between Hylas and Philonous*][three-dialogues]: original texts.
+- [Merleau-Ponty's French preface][merleau-ponty-preface] and [publisher's English introduction][merleau-ponty-edition]: routes into embodied perception.
+- [Maurice vs George Miro board][miro-perception] and [public course board][miro-board]: optional places for questions and creative ideas.
 
-Return to the [creative application and closing](./session01_03_04.md#creative-application-and-closing) to turn an open question into a design idea.
+### Further readings and perspectives
 
-[notebooklm-notebook]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74 'NotebookLM - notebook'
-[notebooklm-podcast]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74?artifactId=4f0253fe-b5c6-4697-8177-92c4323405b0 'NotebookLM - podcast excerpt'
-[miro-perception]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904 'Miro board - Maurice vs George'
-[google-how-to-make-ai-good-for-people]: https://blog.google/technology/ai/how-make-ai-good-for-people/ "How to make AI that's good for people - Google"
-[wikipedia-george-berkeley]: https://en.m.wikipedia.org/wiki/George_Berkeley 'George Berkeley - Wikipedia'
-[three-dialogues]: https://en.wikisource.org/wiki/Three_Dialogues_Between_Hylas_and_Philonous 'Three Dialogues Between Hylas and Philonous - full text'
-[wikipedia-merleau-ponty]: https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty 'Maurice Merleau-Ponty - Wikipedia'
-[physiognomys-new-clothes]: https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a "Physiognomy's New Clothes - Medium"
-[wired-machines-knowledge]: https://www.wired.com/story/our-machines-now-have-knowledge-well-never-understand/ "Our machines now have knowledge we'll never understand - Wired"
-[conversation-can-you-trust-ai]: https://theconversation.com/can-you-trust-ai-heres-why-you-shouldnt-209283 'Can you trust AI? - The Conversation'
-[rodneybrooks-seven-deadly-sins]: https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/ 'The seven deadly sins of predicting the future of AI - Rodney Brooks'
-[nbcnews-facial-recognition]: https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921 'Facial recognition’s dirty little secret - NBC News'
-[nytimes-harari-ai-chatgpt]: https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html 'Yuval Harari on ChatGPT - NYTimes opinion'
-[criticalai-blue-pill]: https://criticalai.org/2023/04/06/noah-giansiracusa-on-you-can-have-the-blue-pill-or-the-red-pill-and-were-out-of-blue-pills-in-the-new-york-times-3-24-2023/ 'Blue pill / red pill - Critical AI'
-[newyorker-andy-clark]: https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark 'The mind‑expanding ideas of Andy Clark - The New Yorker'
-[history-open-source-llms]: https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-better 'The history of open‑source LLMs - Substack'
-[miro-board]: https://miro.com/app/board/uXjVGtZoflg=/ 'Miro Board'
+**Philosophy, knowledge, and AI**
+- [George Berkeley][wikipedia-george-berkeley] · [Maurice Merleau-Ponty][wikipedia-merleau-ponty] · [The mind-expanding ideas of Andy Clark][newyorker-andy-clark]
+- [Our machines now have knowledge we'll never understand][wired-machines-knowledge] · [The history of open-source LLMs][history-open-source-llms]
 
-[berkeley-section-6]: https://celt.ucc.ie/published/E710001-001/text005.html "Berkeley: Principles of Human Knowledge, section 6"
-[merleau-ponty-preface]: https://classiques.uqam.ca/classiques/merleau_ponty_maurice/phonomenologie_de_la_perception/phonomenologie_de_la_perception_avant_propos.html "Merleau-Ponty: Preface (French)"
-[merleau-ponty-edition]: https://www.routledge.com/Phenomenology-of-Perception/Merleau-Ponty/p/book/9780415834339 "Phenomenology of Perception: publisher's introduction"
+**Social and critical perspectives**
+- [How to make AI that's good for people][google-how-to-make-ai-good-for-people] · [Physiognomy's New Clothes][physiognomys-new-clothes] · [Can you trust AI? Here's why you shouldn't][conversation-can-you-trust-ai]
+- [The seven deadly sins of predicting the future of AI][rodneybrooks-seven-deadly-sins] · [Facial recognition's dirty little secret][nbcnews-facial-recognition]
+- [Yuval Harari on ChatGPT][nytimes-harari-ai-chatgpt] · [Blue pill / red pill][criticalai-blue-pill]
+
+[← Back to Investigation 2](./session01.md#investigation-2-what-does-it-mean-to-perceive-50-min) · [Investigation 3](./session01.md#investigation-3-how-does-ai-shape-our-understanding-35-min) · [All Session 01 resources](./session01_resources.md)
+
+[notebooklm-notebook]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74
+[notebooklm-podcast]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74?artifactId=4f0253fe-b5c6-4697-8177-92c4323405b0
+[miro-perception]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904
+[miro-board]: https://miro.com/app/board/uXjVGtZoflg=/
+[berkeley-section-6]: https://celt.ucc.ie/published/E710001-001/text005.html
+[merleau-ponty-preface]: https://classiques.uqam.ca/classiques/merleau_ponty_maurice/phonomenologie_de_la_perception/phonomenologie_de_la_perception_avant_propos.html
+[merleau-ponty-edition]: https://www.routledge.com/Phenomenology-of-Perception/Merleau-Ponty/p/book/9780415834339
+[three-dialogues]: https://en.wikisource.org/wiki/Three_Dialogues_Between_Hylas_and_Philonous
+[wikipedia-george-berkeley]: https://en.m.wikipedia.org/wiki/George_Berkeley
+[wikipedia-merleau-ponty]: https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty
+[google-how-to-make-ai-good-for-people]: https://blog.google/technology/ai/how-make-ai-good-for-people/
+[physiognomys-new-clothes]: https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a
+[wired-machines-knowledge]: https://www.wired.com/story/our-machines-now-have-knowledge-well-never-understand/
+[conversation-can-you-trust-ai]: https://theconversation.com/can-you-trust-ai-heres-why-you-shouldnt-209283
+[rodneybrooks-seven-deadly-sins]: https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/
+[nbcnews-facial-recognition]: https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921
+[nytimes-harari-ai-chatgpt]: https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html
+[criticalai-blue-pill]: https://criticalai.org/2023/04/06/noah-giansiracusa-on-you-can-have-the-blue-pill-or-the-red-pill-and-were-out-of-blue-pills-in-the-new-york-times-3-24-2023/
+[newyorker-andy-clark]: https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark
+[history-open-source-llms]: https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-better
