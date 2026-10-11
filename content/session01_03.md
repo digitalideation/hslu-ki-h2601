@@ -6,10 +6,11 @@ This page supports [Session 01, Parts 3 and 4](./session01.md#part-3-perception)
 
 ## In class: A focused investigation
 
-Use the [Perception NotebookLM notebook][notebooklm-notebook] when an activity introduces a philosopher. Choose the question that matches your current activity; you do not need to ask all three.
+Use the [Perception NotebookLM notebook][notebooklm-notebook] with your partner. Begin with your own idea, then ask the relevant question when the activity calls for it. You do not need to ask all four questions.
 
 | When | Ask NotebookLM | What to check |
 | --- | --- | --- |
+| **Activity 1: Data or Experience?** (3-minute check, after your first choices) | "What is the difference between recognizing a pattern in data and experiencing something? Explain using a cat as an example, in three simple sentences." | Compare the answer with the categories you chose **before** asking. Did it raise a useful distinction? Keep your original choices. |
 | **Activity 2: If the Sensors Go Dark** (5-minute resource stop) | "How does Berkeley explain what happens when one person stops perceiving an object? Does he think it disappears entirely? Point me to a source passage." | Compare one part of the answer with [section 6 of Berkeley's *Principles*][berkeley-section-6]. |
 | **Activity 3: Embodied or Disembodied?** (short conceptual stop) | "According to the sources, why does movement and bodily involvement matter for Merleau-Ponty's account of perception? Give one simple example." | Compare the explanation with **something you actually noticed** during touch recognition. If time is short, use the [introduction below](#merleau-ponty-the-lived-body). |
 | **Activity 4: AI as a Philosopher** (source-checking step) | "Find a source passage that could support or challenge this claim: [paste one claim from your LLM response]. What does the source say, and what is an interpretation about AI?" | Open the cited passage. Agreement between NotebookLM and another LLM is **not** verification. |
@@ -40,7 +41,7 @@ Pick the resource that helps you investigate your question. You are not expected
 
 | Resource | What it is useful for |
 | --- | --- |
-| **[NotebookLM: AI Perception][notebooklm-notebook]** | Your first stop for a focused Berkeley or Merleau-Ponty question and a source reference |
+| **[NotebookLM: AI Perception][notebooklm-notebook]** | A short question for each activity, including Data or Experience? |
 | [NotebookLM podcast][notebooklm-podcast] | An alternative overview to listen to later, or a short excerpt selected in class |
 | [Berkeley: *Principles*, section 6][berkeley-section-6] | Quick original-text check about individual and continuing perception |
 | [Merleau-Ponty: Preface (French)][merleau-ponty-preface] | Original-text route for a claim about lived perception |
