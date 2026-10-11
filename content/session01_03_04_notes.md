@@ -62,6 +62,27 @@ These are not additional mini-lectures. Draw on them if discussion naturally goe
 - *Passenger seat*: do we direct our tools, or increasingly accept directions shaped elsewhere?
 - Despentes Instagram quotation and the papal encyclical reference need confirmation before being quoted or attributed.
 
+## What students produce at each step
+
+The student page now labels **Do** and **Produce** for all twelve steps. Outputs are brief working notes or optional spoken contributions, **not deliverables to collect**. A single document or sheet per pair is sufficient, with an individual three-line note at the end.
+
+| Step | Expected output |
+| --- | --- |
+| 1. Cat rules | Two rules, one failure example, one improvement |
+| 2. ML and black box | Two short completions: rules versus training; one explanatory limit |
+| 3. Pépin | One lived example and one reasoned comparison |
+| 4. Learning discussion | One position + reason, shared orally if invited |
+| 5. Berkeley | Two sentences distinguishing existence/map/sensing, optionally a question |
+| 6. Touch | Two observations and one AI comparison; voluntary alternative |
+| 7. Embodiment discussion | One creative-practice example, shared if invited |
+| 8. Literary case | One sentence on whether AI authorship affects their evaluation |
+| 9. Lemons | One sentence connecting hidden car quality with undisclosed creative process |
+| 10. Stakeholders | Three lines: two perspectives and one disagreement |
+| 11. Society discussion | One group disagreement for optional oral sharing and an open question |
+| 12. Assignment inspiration | Individual AI use case, affected people, and a question, kept by student |
+
+Do not require Miro uploads, presentations, or reports. Circulate and ask pairs to explain one line rather than checking paperwork. The objective is clearer reasoning, not a pile of outputs.
+
 ## Pacing and fallback
 
 No formal pair presentations. Paper or notes app is enough; Miro optional. If tools fail, use the printed/teacher-projected short source and a saved sample AI explanation of touch. If behind, trim exposition, not the physical experiment or the literary discussion.
