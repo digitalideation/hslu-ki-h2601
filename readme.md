@@ -1,103 +1,61 @@
 # I.BA_PHKI.H2601
 
-## Session 01
+What does it mean to learn, perceive, and create? How do these processes differ in humans and artificial intelligence, and what do those differences mean for our creative practice?
+
+We explore these questions through technical examples, philosophical perspectives, and experiments. Philosophy gives us ways to question the tools we use; working with those tools gives us something concrete to discuss.
+
+## How to use these materials
+
+Start with the question or activity introduced in class. Use the readings, podcasts, and NotebookLM material when you need another perspective, then return to your initial answer.
+
+- **In class:** shared activities, experiments, and discussion.
+- **For investigation:** a short reading or selected media passage that helps you develop or challenge an argument.
+- **Further exploration:** full recordings, notebooks, and readings to revisit afterward or use in a project.
+
+You are not expected to read, watch, or listen to everything. The perception workshop below includes time to consult resources in class and requires no advance reading. Use Miro to keep track of examples, disagreements, and changes of mind.
+
+## Session 01 — Learning and Perception
 
 ![Session 01 image](./assets/session01_01.png)
 
-### Part 1: AI Learning - Algorithms and Experiences ([slides](/slides/session01.html))
+### Part 1: AI Learning — Algorithms and Experiences
 
-1. Brief overview of AI and its learning mechanisms.
-2. Brief introduction to machine learning algorithms.
-3. How AI learns through data, patterns, and repetition.
-4. Differences between AI learning and human experiential learning.
+**Question:** When we say that an AI system “learns,” what changes?
 
-> “AI learns from data - but does it actually **experience** the world?”
+Explore data, patterns, training, and feedback using the [Session 01 slides](./slides/session01.html). Keep a concrete example of machine learning in mind as we turn to human learning.
 
-### [Part 2: Human Learning - A Philosophical View](./content/session01_02.md)
+### Part 2: Human Learning — A Philosophical View
 
-1. Conceptual Introduction – _Unnatural Animals_
-   - Humans lack strong instincts and must learn through experience and error.
-   - This weakness becomes the foundation of creativity and freedom.
-   - Guiding question: _If humans learn through failure, how does that differ from AI’s efficiency?_
+**Question:** What do we learn through failure, and what makes a failure meaningful to us?
 
-2. The Failed Animal – From Instinct to Learning
-   - Humans are “denatured animals” (Charles Pépin): instinct too weak to guide action.
-   - A foal walks in minutes; a baby fails about 2,000 times before succeeding.
-   - _Activity link:_ “The Foal vs. the Baby” - compare instinctive success and human trial-and-error.
+[Human Learning: The Failed Animal](./content/session01_02.md) brings together Charles Pépin, philosophical discussion, and activities on error, culture, and freedom. Use an example from your own creative practice to question the comparison: both humans and machine-learning systems can learn through errors, but are they learning the same thing?
 
-3. The Methodology of Failure – Learning by Inefficiency
-   - Humans progress through trial, error, and adaptation.
-   - AI minimizes error; humans learn meaning from it.
-   - _Activity link:_ “Virtues in Failure” - identify what humans learn only through mistakes.
+The page includes the podcast, an English transcript, and NotebookLM resources. Choose a relevant passage to investigate a question; the full collection remains available for further exploration.
 
-4. Compensation and Culture – Learning from Others
-   - Weak instinct drives reliance on culture, education, and empathy.
-   - AI processes data but lacks relational and emotional context.
-   - _Activity link:_ “The Compensation Audit” - compare informational vs. social learning.
+### Parts 3 and 4: Perception — Investigate Through Practice
 
-5. Freedom and Invention – The Outcome of Failure
-   - Human deficiency enables freedom: _existence precedes essence_.
-   - Unlike AI, humans can redefine themselves and their goals.
-   - _Activity link:_ “Freedom Inventory” - reflect on freedom as a product of imperfection.
+**Question:** What would count as perception in an AI system?
 
-6. Synthesis – _AI vs. Human Learning_
-   - Humans learn _because_ they fail; AI learns _to avoid_ failure.
-   - Weakness creates adaptability and freedom.
+**[Start the perception workshop](./content/session01_03_04.md)** — a proposed 70-minute sequence for this part of the session:
 
-> “If humans learn through embodied experience and error, how does **perception** shape that learning - and how does AI compare?”
+| Activity | What we investigate |
+| --- | --- |
+| Data or Experience? | Where our definitions of perception agree or differ |
+| If the Sensors Go Dark | The difference between a world, a representation, and access to it |
+| Embodied or Disembodied? | How movement, touch, and context shape perception |
+| AI as a Philosopher | How an LLM interprets philosophical ideas, checked against a source |
+| Collective reflection | What changed in our thinking, and what it suggests for design |
 
-### [Part 3: Perception - From Data to Experience](./content/session01_03.md)
+The activities and theory belong together. Consult the [perception resource guide](./content/session01_03.md) during the workshop for short philosophical introductions, NotebookLM links, and readings.
 
-1. Conceptual Introduction – _Perceiving Machines?_
-   - Can AI truly experience what it perceives?
-   - Introduces **George Berkeley** (“to be is to be perceived”) and **Maurice Merleau-Ponty** (the perceiving body and world are inseparable).
-   - Guiding question: _Does AI perceive the world, or merely compute it?_
-
-2. Application Topics – Connecting Philosophy and AI
-   - **AI vs. Human Perception:** data processing vs. lived experience.
-   - **Virtual Reality and Simulation:** Berkeley’s idealism and digital worlds.
-   - **Embodied AI and Robotics:** Merleau-Ponty and perception through movement and sensors.
-   - **AI–Human Interaction:** perception as feedback and shared experience.
-
-3. Philosophical Lenses – Berkeley and Merleau-Ponty
-   - **Berkeley:** perception defines existence; relates to virtual environments and AI “worlds.”
-     - _Key idea:_ Objects exist only insofar as they are perceived (“esse est percipi”).
-     - _Connection to AI:_ Virtual reality and data-driven “worlds” as digital idealism.
-
-   - **Merleau-Ponty:** perception is embodied; links to robotics and interactive AI systems.
-     - _Key idea:_ The perceiver and the perceived world are intertwined.
-     - _Connection to AI:_ AI without a body may “see” but not _feel_ the world - can it ever achieve phenomenological perception?
-
-4. Discussion and Reflection – _Thinking Like a Philosopher_
-   - Key questions on AI experience, embodiment, and the nature of perception.
-
-5. Synthesis – _AI, Perception, and Reality_
-   - Comparison of human vs. AI perception (embodied vs. computational).
-   - Takeaway: AI can simulate perception but does not _live_ it.
-
-6. Transition to Practice
-   - Reflect or debate.
-   - Design an AI inspired by Berkeley or Merleau-Ponty.
-   - Prepare for Part 4: practical application.
-
-> “Is AI perception an imitation or a fundamentally new kind of perception?”
-
-### Part 4: Practice
+By the end, be ready to explain one distinction you find useful, support it with an observation or source, and describe one implication for an AI artwork or interaction.
 
 ## Session 02
 
 TBA
 
-## Resources
+## Shared workspace
 
-1. [Public Miro board][miro-board]
+[Public Miro board][miro-board] — collect questions and examples across the course. The perception workshop also has a dedicated [Maurice vs George board](https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904).
 
-[alinejad-x]: https://x.com/AlinejadMasih/status/1979867926162280534
-[openai-shopping]: https://help.openai.com/en/articles/11128490-shopping-with-chatgpt-search "Shopping with ChatGPT Search"
-[pluralistic-jackpot]: https://pluralistic.net/2025/08/16/jackpot/?utm_source=chatgpt.com "Pluralistic: LLMs are slot-machines (16 Aug 2025)"
-[ft-ads-x]: https://www.ft.com/content/3bc3a76a-8639-4dbe-8754-3053270e4605 "Elon Musk to introduce ads to X's AI chatbot"
-[arte-ki-doc]: https://www.arte.tv/de/videos/122187-000-A/ki-der-tod-des-internets/ "KI: Der Tod des Internets"
 [miro-board]: https://miro.com/app/board/uXjVGtZoflg=/
-[declaration-text]: https://www.eff.org/cyberspace-independence
-[declaration-video]: https://www.youtube.com/watch?v=3WS9DhSIWR0
-[declaration-tracks]: https://www.youtube.com/watch?v=lNqUztWdZvQ

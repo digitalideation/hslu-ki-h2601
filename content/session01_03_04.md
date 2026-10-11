@@ -1,159 +1,181 @@
-# 3.4 Discussion and Reflection - Thinking Like a Philosopher
+# Perception Workshop — Thinking Like a Philosopher
 
-Explore how _perception_ differs between humans and AI systems - not through theory alone, but through short, practical and creative exercises.
-Each activity helps translate abstract ideas from **George Berkeley** and **Maurice Merleau-Ponty** into experiences or examples relevant to computing, robotics, and interaction design.
+What would count as perception in an AI system? Begin with your own examples, try an experiment, and use Berkeley and Merleau-Ponty to reconsider your answers.
 
-## Activity 1 - Data or Experience?
+**No advance reading required.** Work in pairs or small groups. You will use short resources during the activities; the full podcasts and readings are available for later exploration.
+
+## Workshop at a glance
+
+This is a proposed **70-minute block for perception and practice**, not a timetable for the whole of Session 01. The timings include resource use and discussion.
+
+| Time | Activity | Resource to use |
+| --- | --- | --- |
+| 10 min | Data or Experience? | Your examples and the shared board |
+| 15 min | If the Sensors Go Dark | Berkeley introduction, then one short source passage |
+| 15 min | Embodied or Disembodied? | An experiment, then the Merleau-Ponty introduction |
+| 20 min | AI as a Philosopher | An LLM and a source you can inspect |
+| 10 min | Collective reflection | Return to the opening examples |
+
+Open the [Maurice vs George Miro board][miro-perception] and the [perception resource guide](./session01_03.md). Keep a small working area for your group: **initial idea → observation or source → revised idea → open question**. Paper works too.
+
+## Activity 1 — Data or Experience?
 
 ![Data or experience](../assets/data_or_experience.png)
 
-**Goal:** Differentiate between _processing information_ and _perceiving experience._.  
-**Duration:** 5–10 minutes.  
+**Goal:** Find out what you mean by perception.
+
+**Duration:** 10 minutes.
+
 **Format:** Pairs or small groups.
 
-### Steps
+### Try it
 
-1. Read the following list of examples.
-2. Decide whether each is closer to **AI perception** (data, computation) or **human perception** (embodied, experiential).
-3. Add to the list
-
-**Examples:**
+Consider these examples:
 
 - Recognizing a cat in an image
 - Feeling the cat’s fur
 - Detecting sadness in a voice recording
-- Feeling sad because of the tone
+- Feeling sad because of someone’s tone
 - Navigating a dark room
 - A robot mapping a room with lidar
-- ...
 
-### Debrief
+For each, decide whether you associate it mainly with **human perception**, **AI perception**, or **both / uncertain**. Add a reason, especially where you disagree. These are starting positions, not an answer key.
 
-Reflect on
+Add one example from art, design, or everyday interaction. Choose the example that caused the most disagreement and record it on the board.
 
-> “Where do you draw the line between perception and data processing?”
+### Discuss
 
-Then on to:
+What are you using as your criterion: successful recognition, bodily interaction, subjective feeling, or something else? Would more information about the system change your answer?
 
-- **Berkeley’s view:** perception _creates_ the world.
-- **Merleau-Ponty’s view:** perception _happens through the body._
+Keep your choices visible. We will return to them at the end.
 
-## Activity 2 - If the Sensors Go Dark
+## Activity 2 — If the Sensors Go Dark
 
 ![A sensor goes dark](../assets/a_sensor_goes_dark.png)
 
-**Goal:** Apply **Berkeley’s** idea that _“to be is to be perceived.”_.  
-**Duration:** 5–8 minutes.  
+**Goal:** Separate questions about existence from questions about access and representation.
+
+**Duration:** 15 minutes: 4 to respond, 5 with a resource, 6 to reconsider and discuss.
+
 **Format:** Small groups.
 
-### Setup
+### Try it
 
-Consider this scenario:
+Imagine a robot with a camera and a stored map of a room. Its camera is disconnected, but its computer keeps running and the map is retained.
 
-> “Imagine an AI vision system trained on millions of images.  
-> One day, it’s turned off - all sensors disconnected, no data coming in.  
-> Does its world still exist?”
+**Does its world still exist?**
 
-### Steps
+Write a two-sentence answer. Say what you mean by “its world”: the physical room, its stored representation, its current input, or a possible experience.
 
-1. In group write a **two-sentence response**:
-   - “Yes, because…” or “No, because…”
+Now change one condition: the computer is switched off, but its storage remains intact. Does that change your answer? What does technical reasoning settle, and what does it leave open?
 
-2. Use technical reasoning if possible (data storage, model memory, computation).
-   - Example: “Yes, its parameters still encode a version of the world.”
-   - Example: “No, without active perception, there is no world at all.”
+### Bring in Berkeley
 
-### Debrief
+Read the [short Berkeley introduction](./session01_03.md#berkeley-perception-and-existence), then [section 6 of his *Principles of Human Knowledge*][berkeley-section-6]. Focus only on that section. You can use NotebookLM to help unpack the passage, but check its explanation against the text.
 
-Discuss a few answers. Then connect to **Berkeley**:
+Berkeley's account includes perception by an eternal spirit; it is not simply the claim that objects disappear when an individual stops looking.
 
-> “He believed that when perception stops, the world disappears.
-> For AI - does data storage count as ongoing perception?”
+### Reconsider
 
-## Activity 3 - Embodied or Disembodied?
+Revise your answer, or defend it more precisely. Does a stored map count as perception? What would justify treating a computer as a perceiving mind in Berkeley's sense?
+
+Record one distinction the resource helped you make. Applying Berkeley to AI is our thought experiment, not a claim he made about computers.
+
+## Activity 3 — Embodied or Disembodied?
 
 ![Embodied or disembodied](../assets/embodied_or_disembodied.png)
 
-**Goal:** Experience **Merleau-Ponty’s** idea that perception is _embodied and situated._.  
-**Duration:** 7–10 minutes.  
-**Format:** Whole class or small groups.
+**Goal:** Investigate how bodily action and context shape perception.
 
-Choose one of the following formats depending on your space and time.
+**Duration:** 15 minutes: 7 for one experiment, 3 with a resource, 5 to discuss.
 
-### Option A – Blind Navigation
+**Format:** Pairs or small groups. Choose one option.
 
-1. One student closes their eyes while a partner guides them 3–4 meters using only voice instructions.
-2. Swap roles.
+### Option A — Blind Navigation
 
-**Discuss:**
+In a clear, level space, one volunteer closes their eyes while a partner guides them 3–4 meters with voice instructions. The partner stays within reach; stop whenever either person wants to. Swap roles if both want to participate. Choose touch recognition or the design option if you prefer.
 
-- How did you perceive distance or direction without vision?
-- What replaced your usual sensory information?
+What helped you judge distance or direction? How did trust, movement, and your memory of the room affect the experience? This brief exercise explores your own perception; it does not reproduce the experience of living with blindness.
 
-### Option B – Touch Recognition
+### Option B — Touch Recognition
 
-1. Place small objects (USB drive, apple, coin, marker, etc.) inside an opaque bag.
-2. Students identify them by touch.
+Place a few familiar, safe objects in an opaque bag: a USB drive, coin, marker, or similar item. Identify one by touch. Notice how you move your hand to investigate it.
 
-**Discuss:**
+What did movement reveal that a single touch did not? What did you recognize before you could put it into words?
 
-- What kind of knowledge did your body provide?
-- Could an AI replicate that form of understanding through sensors?
+### Option C — Design Analogy
 
-### Option C – Design Analogy
+Sketch a robot that must find and pick up a coffee cup in a real room. Describe its sensors, possible movements, and how it would check whether it succeeded. Then change its body: make it unable to move around the cup.
 
-1. Pose the challenge: “Design a robot that must find and pick up a coffee cup in a real room.”
+What becomes harder to distinguish? What would it need to do differently?
 
-2. Outline (verbally or on paper):
-   - What sensors it needs
-   - How it would move
-   - How it would know it succeeded
+### Bring in Merleau-Ponty
 
-**Discuss:**
+Read the [short Merleau-Ponty introduction](./session01_03.md#merleau-ponty-the-lived-body). Connect it to one specific observation from your experiment or design.
 
-- “Would this robot _see_ the cup, or would it _feel_ its way to it?”
+What would a robot need to reproduce the behavior you observed? Would reproducing that behavior also establish that it has a lived experience?
 
-## Activity 4 - AI as a Philosopher (LLM Integration)
+Record an observation and an interpretation separately. The exercise can help us ask about machine experience; it cannot settle that question.
 
-![AI as a Philosopher](../assets/ai_%20as_%20a_philosopher.png)
+## Activity 4 — AI as a Philosopher
 
-**Goal:** Use an AI language model (e.g., ChatGPT, Perplexity, Claude) to explore how machines interpret philosophical ideas.  
-**Duration:** 10–15 minutes.  
-**Format:** Individual or pairs.
+![AI as a philosopher](../assets/ai_%20as_%20a_philosopher.png)
 
-### Steps
+**Goal:** Investigate how an LLM explains philosophy and how that shapes your understanding.
 
-1. Open an AI chatbot.
+**Duration:** 20 minutes: 4 to generate, 8 to check, 5 to revise, 3 to share.
 
-2. Give it one of these prompts:
-   - “You are **George Berkeley**. Explain AI perception in your own words.”
-   - “You are **Maurice Merleau-Ponty**. What do you think of robots that can feel touch?”
-   - “You are an AI philosopher combining both ideas - define _perception_ in one sentence.”
+**Format:** Pairs, with one device per pair or a shared class response.
 
-3. Copy or paraphrase 2–3 interesting responses.
+### Ask
 
-4. Then answer these short questions:
-   - What does the AI assume about perception?
-   - Does it _understand_ or just _recombine_ ideas?
-   - Which answer sounds most “human”?
+Choose a philosopher and ask an LLM:
 
-### Debrief
+> Explain how Berkeley's account of perception might help us question the robot whose camera is disconnected. Keep it under 150 words. Distinguish his historical claims from your application to AI.
 
-Invite a few to share their favorite “AI philosopher quote.”
-Then ask:
+Or:
 
-> “Did the LLM truly _perceive_ the philosophers’ ideas, or did it just simulate them?”
+> Explain how Merleau-Ponty's account of embodied perception might help us think about a robot picking up a cup. Keep it under 150 words. Distinguish his historical claims from your application to AI.
 
-→ **Does AI perceive, or does it merely process?**
+You can try a philosopher role-play afterward, but treat its output as generated interpretation, not a quotation from the philosopher.
 
-## Recommended Flow (30–35 minutes total)
+### Check
 
-| Time    | Activity                  | Focus                  |
-| ------- | ------------------------- | ---------------------- |
-| 5–7 min | Data or Experience?       | Warm-up comparison     |
-| 8 min   | If the Sensors Go Dark    | Apply Berkeley         |
-| 10 min  | Embodied or Disembodied?  | Apply Merleau-Ponty    |
-| 10 min  | AI as a Philosopher (LLM) | Synthesis + reflection |
+Choose **one claim** from the response and compare it with a source in the [verification routes](./session01_03.md#verification-routes). Berkeley's section 6 is the default short, English-language route. For Merleau-Ponty, use the specified passage or an excerpt supplied in class.
 
-> **Optional closing question:**
-> “If perception is what makes a world _real_, what kind of world does AI live in?”
+NotebookLM can help locate and explain a passage. Open the cited source and inspect it: agreement between two AI responses is not verification.
+
+Record:
+
+| LLM claim | Source and passage | Your assessment |
+| --- | --- | --- |
+| Quote or paraphrase one claim | Title and section, page, or paragraph | Supported, oversimplified, contradicted, or not settled by this passage — and why |
+
+Also note something useful in the explanation and something it leaves out. If the source does not address the application to AI, mark that limit rather than treating it as evidence for or against the application.
+
+### Revise and share
+
+Rewrite the claim in your own words using what you found. Share one correction or unresolved difficulty, with the passage that led you to it.
+
+Did the model help you understand an idea, or make one interpretation feel more obvious than it should? What could you establish from the text, and what remains your own argument?
+
+## Collective Reflection — What Changed?
+
+**Duration:** 10 minutes.
+
+Return to the examples from Activity 1. Move or annotate one of your original choices, or explain why you still defend it. Point to an experience, argument, or source that informed your position.
+
+Add a short closing note:
+
+- **I first thought…**
+- **I now think / still think… because…**
+- **I am still unsure about…**
+
+Then sketch or describe one implication for creative practice: an artwork, interface, or robot that makes a difference between sensing, interpreting, and experiencing visible. What would a participant do, and what question would the interaction raise?
+
+Disagreement can remain on the board. The aim is a more precise question and a better-supported position.
+
+[Back to the resource guide](./session01_03.md) · [Course overview](../readme.md)
+
+[miro-perception]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904
+[berkeley-section-6]: https://celt.ucc.ie/published/E710001-001/text005.html

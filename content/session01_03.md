@@ -1,132 +1,74 @@
-# Part 3 - Perception: From Data to Experience
+# Part 3 — Perception: From Data to Experience
 
-## Learning materials
+**What would count as perception in an AI system?**
 
-- 📘 NotebookLM: _AI Perception: Berkeley and Merleau-Ponty_
-  - [Notebook][notebooklm-notebook]
-  - [Podcast][notebooklm-podcast]
-- ⚔️ Miro Board: _Maurice vs George_
-  - [Board][miro-board]
-- ✏️ Board:
-  - [Public Miro board][miro-board]
+Start with the [perception workshop](./session01_03_04.md). This page supports the activities: consult a short introduction when it becomes useful, and return to the longer materials when you want to explore further.
 
-## 3.1 Conceptual Introduction - _Perceiving Machines?_
+By the end, you should be able to distinguish sensing, representation, and lived experience; use a philosophical idea to question an AI example; and check an AI-generated explanation against a source.
 
-Artificial Intelligence “perceives” the world through sensors and data inputs - it processes information, recognizes patterns, and makes predictions.
-But can it truly **experience** what it perceives?
+## Resources during the workshop
 
-Philosophers have long debated whether perception creates reality, or merely interprets it.
-Two thinkers, **George Berkeley** and **Maurice Merleau-Ponty**, offer powerful frameworks to question AI perception:
+You do not need to consume all these materials. The short introductions below are the core reading; the workshop specifies when to use them.
 
-- **Berkeley:** To be is to be perceived.
-- **Merleau-Ponty:** The perceiving body and the perceived world cannot be separated.
+| Resource | When and why to use it |
+| --- | --- |
+| [Maurice vs George Miro board][miro-perception] | Record initial positions, observations, disagreements, and revisions throughout the workshop |
+| [Berkeley introduction](#berkeley-perception-and-existence) and [section 6][berkeley-section-6] | Activity 2: distinguish existence from an individual observer's access |
+| [Merleau-Ponty introduction](#merleau-ponty-the-lived-body) | Activity 3: interpret an observation about movement, touch, or bodily context |
+| [NotebookLM notebook][notebooklm-notebook] | Ask a focused question, find a relevant source, or unpack a difficult passage |
+| [NotebookLM podcast][notebooklm-podcast] | An alternative explanation; use a short passage selected in class, or listen afterward |
+| [Verification routes](#verification-routes) | Activity 4: check one claim in an LLM response against an identifiable passage |
+| [Public course Miro board][miro-board] | Carry a question or design idea into the wider course |
 
-> **Guiding question:**
-> Does AI _perceive_ the world, or does it merely _compute_ it?
+NotebookLM explanations and audio are generated interpretations. When using them as evidence, follow their references to the underlying material. You can use the short introductions and linked text without access to NotebookLM.
 
-## 3.2 Application Topics - Connecting Philosophy and AI
+## Philosophical lenses
 
-### 1. AI Perception vs. Human Perception
+These perspectives help us formulate questions. Applying them to AI is a contemporary interpretation, not something either philosopher wrote about today's systems.
 
-- **Idea:** Compare AI’s pattern recognition with human sensory experience.
-- **Key point:** AI collects data; humans interpret meaning through lived experience.
-- **Prompt:** _If AI has no body or consciousness, can it truly perceive?_
+### Berkeley: Perception and Existence
 
-### 2. Virtual Reality and Simulation
+Berkeley questions the idea of sensible objects existing independently of any perceiving mind. His account does not imply that a room vanishes when one person leaves: section 6 also invokes an eternal spirit. Read [that section][berkeley-section-6] to see why “not perceived by me” and “not perceived by any mind” are different claims.
 
-- **Idea:** Explore digital “worlds” and how they parallel philosophical idealism.
-- **Berkeley’s link:** Objects exist only when perceived - so what happens in a simulated world?
-- **Application:**
-  Discuss how AI perceives “objects” in virtual environments that only exist when rendered or computed.
+**Use in Activity 2:** distinguish the room, the robot's stored map, and its current access to the room. Which of these are we calling its “world”? Treating a stored representation as a perceiving mind would require a further argument.
 
-### 3. Embodied AI and Robotics
+### Merleau-Ponty: The Lived Body
 
-- **Idea:** Connect Merleau-Ponty’s phenomenology to embodied AI.
-- **Key point:** A robot’s sensors, movement, and feedback create a form of situated perception.
-- **Application:**
-  Examine how the body (shape, mobility, sensors) changes what and how AI perceives.
+For Merleau-Ponty, perception is rooted in our bodily involvement in the world. The body is more than an instrument delivering measurements: our situation and possibilities for action shape how things appear to us. See the [publisher's introduction to *Phenomenology of Perception*][merleau-ponty-edition] and the original text's [Preface, in French][merleau-ponty-preface].
 
-### 4. AI–Human Interaction
+**Use in Activity 3:** consider how moving your hand changes what you can discover by touch, or how a robot's possible movements affect its access to a cup. This is a way into the question of embodiment; successful sensing and action alone do not settle whether a machine has subjective experience.
 
-- **Idea:** Human–AI feedback loops blur the line between perceiver and perceived.
-- **Merleau-Ponty’s link:** Our perception arises through interaction with the world.
-- **Application:**
-  Explore how AI learns from human input - gestures, speech, emotions - and what this means for “shared perception.”
+## Verification routes
 
-## 3.3 Philosophical Lenses - Berkeley and Merleau-Ponty
+Choose one route for Activity 4. Check a small claim carefully rather than trying to summarize an entire philosophy.
 
-### George Berkeley – Idealism and AI Perception
+- **Berkeley — default route in English:** read **section 6** of [*A Treatise Concerning the Principles of Human Knowledge*][berkeley-section-6]. Test a claim about what happens when an individual stops perceiving an object. Look for the distinction between individual minds and an eternal spirit.
+- **Merleau-Ponty — original text in French:** in the [Preface to *Phenomenology of Perception*][merleau-ponty-preface], find **“La perception n'est pas une science du monde”** and read that paragraph. Test whether the LLM treats perception primarily as explicit knowledge or judgment. An English excerpt supplied in class can serve the same purpose; record the edition and page.
+- **If the original text is inaccessible:** use the short course introduction to identify a question to check, then switch to the Berkeley route for source verification. A course summary or another AI answer should not be presented as the philosopher's original text.
 
-**Key Idea:**
+A source may support the historical claim while leaving its application to AI undecided. Keep that distinction in your assessment.
 
-> “To be is to be perceived.” Objects exist only insofar as they are perceived by a mind.
+## Questions to return to
 
-**Applications:**
+- What does a system's behavior let us observe, and what are we inferring about its experience?
+- Does a camera classifier, a robot moving through a room, and a text-only chatbot each have the same relation to the world?
+- In a virtual environment, how do we distinguish stored state, rendered appearance, and someone's experience?
+- How does an AI explanation influence which philosophical interpretation we find convincing?
 
-1. **AI Perception vs. Human Perception:**
-   If AI does not process data, does that data “exist” for it?
-   Compare to Berkeley’s idea that objects cease to exist when unperceived.
+## Synthesis — Make the Comparison Specific
 
-2. **Virtual Reality and AI:**
-   Explore how virtual environments challenge Berkeley’s immaterialism.
-   When AI operates in simulation, does it “create” or “discover” its world?
+Use this table to question an example after the workshop. It is a guide for discussion, not a classification of all humans and all AI systems.
 
-**Discussion Cue:**
+| Dimension | Human example | AI example | Open question |
+| --- | --- | --- | --- |
+| Sensing and action | Moving a hand to explore an object | A robot changes position to gather sensor data | How does action change what can be detected? |
+| Representation | Describing a familiar room from memory | Using a stored map without live camera input | How does a representation differ from current access? |
+| Lived experience | Describing how an encounter feels | Producing a description of an encounter | What evidence would justify attributing experience? |
+| Context | Recognizing a cup through habits and purposes | Identifying a cup for a specified task | What gets lost when we reduce recognition to a label? |
 
-> Is AI’s “world” real, or only real _within_ its data stream?
+Keep one distinction that helps your design practice and one question you cannot yet settle. Return to the [closing reflection](./session01_03_04.md#collective-reflection--what-changed) to turn them into an interaction or artwork idea.
 
-### Maurice Merleau-Ponty – The Embodied Mind
-
-**Key Idea:**
-
-> The perceiver and the perceived world cannot be disentangled.
-> Perception is _embodied_ - rooted in physical, lived experience.
-
-**Applications:**
-
-1. **Embodied AI and Robotics:**
-   Apply Merleau-Ponty’s view to robotic perception.
-   How does a robot’s body shape its understanding of space, form, and movement?
-
-2. **AI and Human Interaction:**
-   Perception happens _between_ perceivers - not just inside one.
-   Examine AI systems that adapt through interaction with humans (voice assistants, adaptive robots).
-
-**Discussion Cue:**
-
-> Can AI achieve a kind of “embodied perception” through interaction, even without human-like consciousness?
-
-## [3.4 Discussion and Reflection - _Thinking Like a Philosopher_](./session01_03_04.md)
-
-Before moving to the practical activities reflect and debate these questions:
-
-1. Can an AI have an _experience_ of the world, or only data about it?
-2. If an AI stops receiving input, does its “world” disappear - like Berkeley’s unperceived object?
-3. Would giving AI a body (robotic, sensory) make it closer to Merleau-Ponty’s embodied subject?
-4. What does this comparison reveal about human consciousness and perception?
-
-## 3.5 Synthesis - _AI, Perception, and Reality_
-
-| Aspect                | Human Perception                  | AI Perception                         |
-| --------------------- | --------------------------------- | ------------------------------------- |
-| **Nature**            | Embodied, sensory, subjective     | Data-driven, computational            |
-| **Relation to World** | Interdependent - shaped by action | One-directional - world as data input |
-| **Continuity**        | Continuous and experiential       | Discrete and episodic                 |
-| **Awareness**         | Conscious and interpretive        | Non-conscious and procedural          |
-
-> **Takeaway:**
-> AI can simulate perception, but it does not _live_ perception.  
-> Berkeley and Merleau-Ponty invite us to question whether “perception” without experience is perception at all.
-
-🧠 _Mini-activity idea:_ Map out “what AI perceives” vs. “what humans perceive” in a diagram - and discuss what’s missing in each.
-
-## 3.6 Transition to Practice
-
-- Reflect on AI perception.
-- Design an AI inspired by philosophical principles (Berkeley’s idealism or Merleau-Ponty’s embodiment).
-- Discuss ethical implications of perception and “reality” in AI.
-
-## 3.7 Readings
+## Further exploration
 
 - [How to make AI that's good for people][google-how-to-make-ai-good-for-people]
 - [George Berkeley][wikipedia-george-berkeley]
@@ -144,7 +86,7 @@ Before moving to the practical activities reflect and debate these questions:
 
 [notebooklm-notebook]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74 'NotebookLM - notebook'
 [notebooklm-podcast]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74?artifactId=4f0253fe-b5c6-4697-8177-92c4323405b0 'NotebookLM - podcast excerpt'
-[miro-board]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904 'Miro board - Maurice vs George'
+[miro-perception]: https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904 'Miro board - Maurice vs George'
 [google-how-to-make-ai-good-for-people]: https://blog.google/technology/ai/how-make-ai-good-for-people/ "How to make AI that's good for people - Google"
 [wikipedia-george-berkeley]: https://en.m.wikipedia.org/wiki/George_Berkeley 'George Berkeley - Wikipedia'
 [three-dialogues]: https://en.wikisource.org/wiki/Three_Dialogues_Between_Hylas_and_Philonous 'Three Dialogues Between Hylas and Philonous - full text'
@@ -159,3 +101,7 @@ Before moving to the practical activities reflect and debate these questions:
 [newyorker-andy-clark]: https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark 'The mind‑expanding ideas of Andy Clark - The New Yorker'
 [history-open-source-llms]: https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-better 'The history of open‑source LLMs - Substack'
 [miro-board]: https://miro.com/app/board/uXjVGtZoflg=/ 'Miro Board'
+
+[berkeley-section-6]: https://celt.ucc.ie/published/E710001-001/text005.html "Berkeley — Principles of Human Knowledge, section 6"
+[merleau-ponty-preface]: https://classiques.uqam.ca/classiques/merleau_ponty_maurice/phonomenologie_de_la_perception/phonomenologie_de_la_perception_avant_propos.html "Merleau-Ponty — Preface (French)"
+[merleau-ponty-edition]: https://www.routledge.com/Phenomenology-of-Perception/Merleau-Ponty/p/book/9780415834339 "Phenomenology of Perception — publisher's introduction"
