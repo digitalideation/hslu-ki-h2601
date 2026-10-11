@@ -1,76 +1,85 @@
-# Creativity, AI, and Society
+# Creativity and Society: Who Creates, Who Benefits?
 
-**Optional guide for [Session 01: Human Learning and Creativity](./session01.md)**
+**Optional guide for [Session 01: Human Learning, Perception, and Creativity](./session01.md)**
 
-**Guiding question:** When AI participates in creative work, who has control, who benefits, and who is responsible?
+**Question:** When AI can generate creative work, what happens to human intention, trust, value, and participation in culture?
 
-This guide offers ideas to explore after the classroom activities. You do not need to read it before class.
+This page provides the context and materials behind the last part of the session. The classroom activity is on [Session 01](./session01.md). **No need to listen to the full podcast before class.**
 
-## 1. The black-box problem
+## Starting point: the Orélien literary controversy
 
-A generative model learns statistical patterns through training and produces an output in response to its inputs. We can investigate some aspects of its design, inputs, and observed behavior, but explaining the precise contribution of different internal processes to a particular output may be difficult.
+A controversy around French-language writer **Thélyson Orélien** raised questions about the possible use of generative AI in the creation of a novel. The author disputed allegations about his work. For our purposes, the allegations are **not established facts** and the classroom is **not asked to determine whether AI was used**.
 
-Three different questions are often confused:
+Our question is larger: **If readers admire a work, why might their judgment change when they believe AI participated in its creation?**
 
-- **What does the system do?** Compare its actual outputs under different conditions.
-- **How does it work?** Look at the model, architecture, training method, data, and documentation when available.
-- **Why this output?** Seek evidence for the particular response rather than assuming a generated explanation reveals the internal computation.
+Listen, if you wish, to the [France Culture debate on the Orélien affair][radiofrance]. The broadcast is in French. The classroom page gives all the context needed to take part without listening to it.
 
-An LLM's explanation of "why I chose these words" is generated text. It can be useful as an interpretation or debugging clue, but is not guaranteed to report its actual internal decision process. Black-box behavior varies across models and products: opacity isn't a single universal property.
+## The used-car "lemons" analogy
 
-**Try later:** Repeat the same creative prompt, then vary only one condition. Which differences can you observe? Which conclusions would require evidence you do not have?
+In economist George Akerlof's classic example, a buyer may be unable to tell a good used car from a bad one. When buyers cannot assess quality reliably, trust and prices can suffer.
 
-## 2. Six lenses for creative practice
+The analogy prompts a question, not a conclusion: if readers or clients are uncertain how creative work was produced, might that affect trust and how work is valued? Different audiences may care differently about authorship, quality, honesty, and process.
 
-The same AI-assisted artwork, campaign, game, or design may appear very different depending on whose position you take.
+**What does someone value in a creative work: the result alone, or also who made it, why, and how?**
 
-| Lens | Key question | Example tension |
-| --- | --- | --- |
-| **Agency** | Who sets goals and can change decisions? | A designer curates outputs, but client expectations constrain the choices |
-| **Creativity** | What counts as a contribution? | Prompting, composing, selecting, editing, and making original material |
-| **Value** | Who is paid, credited, or replaced? | Faster production may help a studio but reduce some commissions |
-| **Risk** | Who absorbs mistakes or harms? | A convincing output may misrepresent people or cultures |
-| **Ownership** | Who can use, reuse, or control the work? | Contract terms, rights, source material, and local rules may differ |
-| **Success** | Who defines a good result? | A successful advertisement may still be ethically or artistically contested |
+## Six questions, one situation
 
-These are **questions**, not legal advice or universal answers. Ownership and copyright questions depend on jurisdiction, facts, agreements, and how the work was made.
+You don't need to learn six theories. Use these as prompts when considering a particular book, image, recording, game, or creative commission.
 
-## 3. Creative industries and stakeholders
+| Lens | Question |
+| --- | --- |
+| Agency | Who can make or change decisions? |
+| Creativity | Whose ideas, experience, and choices shape the work? |
+| Value | Who receives recognition, payment, or attention? |
+| Risk | Who might be harmed by mistakes, misrepresentation, or accusations? |
+| Ownership | Who claims rights or control, and what remains unclear? |
+| Success | What counts as successful work, and for whom? |
 
-AI affects more than the person typing a prompt. Consider a creative agency producing a campaign with generative AI.
+The answers differ for the writer, readers, publishers, editors, critics, other creative workers, and AI providers. Legal rights depend on the specific jurisdiction and circumstances.
 
-- **Creative workers:** illustrators, designers, writers, performers, and editors may gain new workflows while facing pressure on fees, skills, credit, and creative control.
-- **Clients and organizations:** may value speed, lower costs, or rapid testing, while carrying responsibilities for claims, permissions, and public reception.
-- **Audiences and communities:** may benefit from accessibility and new forms of expression, or face stereotyping, deception, and changes in trust.
-- **Technology providers and data contributors:** shape access, policies, model capabilities, and the conditions under which creative material is used.
+## Connections to earlier questions
 
-These effects differ across contexts and should be investigated with specific examples rather than treated as inevitable.
+**Pépin:** Learning involves failure, relationships, culture, and the possibility of inventing ourselves. Does this process matter when we judge creative work?
 
-**A useful method:** Name the AI system, the affected people, what changes in their experience, and who gains or loses decision-making power.
+**Merleau-Ponty:** We perceive and understand through bodily engagement with the world. What role do materials, effort, experimentation, and experience play in making art?
 
-## 4. Turning a tension into a creative question
+**The black box:** Observing an output does not necessarily reveal the processes behind it. Claims of AI use and claims of detecting it also require careful evidence.
 
-Instead of starting with a format ("I want to make a video"), start with a situation:
+The discussion is not simply "AI makes good art" versus "AI makes bad art". AI can widen some people's access to expression while also changing work, bargaining power, recognition, and trust.
 
-1. **System or use case:** e.g., an AI writing assistant in an educational setting.
-2. **Stakeholder:** e.g., students who use it to revise their work.
-3. **Tension:** e.g., help with expression versus uncertainty about authorship.
-4. **Question:** e.g., when does assistance begin to reshape someone's voice?
+## Further philosophical threads (optional)
 
-A later creative response might use an image, story, recording, interface, or other format to make that question tangible. Consider what **human choices and non-AI contributions** give the work its meaning.
+The following are **discussion prompts**, not claims verified from a podcast transcript.
 
-The official Assignment 1 brief, not this guide, defines the requirements and deadlines. In Session 01 you are only finding a possible starting point.
+- **Automatisation du symbolique:** If we automate words, images, and other symbols, what happens to the shared meanings and relationships they carry?
+- **Imperfection:** Can difficulty, hesitation, and mistakes have artistic value even when an output looks less polished?
+- **Universel abstrait:** Does a statistically familiar output risk erasing situated, particular experiences?
+- **Écoute, patience, effort:** What do we learn by listening, waiting, practising, and working with people who can disagree or resist?
+- **Faire monde:** Can creative expression be a way of belonging to and influencing a shared social or political world?
+- **Passenger seat:** When do AI tools increase people's creative agency, and when do they leave people merely selecting from ready-made options?
 
-## Further exploration
+Other references from the lecturer's initial notes, including a Despentes quotation and a papal text, are not included here as verified sources.
 
-- [Human Learning: Failure, Feedback, and Culture](./session01_02.md)
+## NotebookLM for creative ideation
+
+You have access to the existing [Human Learning NotebookLM][human-nlm] and [Perception NotebookLM][perception-nlm]. They contain different sources. You can use them to find questions rather than asking for completed project ideas.
+
+> Suggest three specific questions inspired by the available sources about AI, creativity, and human experience. For each, identify a stakeholder, a tension, and the passage or idea that inspired it.
+
+The [France Culture podcast][radiofrance] is **a separate reference**. Don't assume its content is in the notebooks.
+
+## Optional resources
+
+- [France Culture: debate on the Orélien affair][radiofrance]
+- [Human Learning and Failure guide](./session01_02.md)
+- [Perception and the Body guide](./session01_03.md)
 - [How to make AI that's good for people](https://blog.google/technology/ai/how-make-ai-good-for-people/)
-- [Physiognomy's New Clothes](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a)
 - [The seven deadly sins of predicting the future of AI](https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/)
-- [Facial recognition's dirty little secret](https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921)
-- [Our machines now have knowledge we'll never understand](https://www.wired.com/story/our-machines-now-have-knowledge-well-never-understand/)
+- [Physiognomy's New Clothes](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a)
 - [The mind-expanding ideas of Andy Clark](https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark)
 
-These are diverse starting points, not required readings or statements of course consensus.
+[← Classroom page](./session01.md)
 
-[← Back to Session 01](./session01.md)
+[radiofrance]: https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314
+[human-nlm]: https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484
+[perception-nlm]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74
