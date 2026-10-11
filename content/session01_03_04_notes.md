@@ -1,6 +1,6 @@
 # Lecturer's Notes: Session 01
 
-[Student session outline](../readme.md#session-01-learning-failure-and-perception) · [Student workshop](./session01_03_04.md) · [Resource guide](./session01_03.md)
+[Student session outline](./session01.md) · [Student workshop](./session01_03_04.md) · [Resource guide](./session01_03.md)
 
 ## Purpose and Timing
 
@@ -12,7 +12,7 @@ Look for students who can make a useful distinction, support it with an observat
 
 ## Prepare
 
-- For Part 1, select just the [Session 01 slides](../slides/session01.html) contrasting classical programming with machine learning and outlining the steps of ML. Use the homepage's **real-cat vs. plush-toy classifier** as the shared example. The mistake is hypothetical, not the output of a tested model. Explain the task labels precisely ("real cat" / "not a real cat"); introduce training examples, predictions, feedback, and testing with unseen images. Keep neural networks and deep learning as optional context rather than trying to cover them in this short block. A sketch or description is sufficient; no live demo or student accounts are needed.
+- For Part 1, select just the [Session 01 slides](../slides/session01.html) contrasting classical programming with machine learning and outlining the steps of ML. Use **Part 1 of the Session 01 page** and its real-cat vs. plush-toy classifier as the shared example. The mistake is hypothetical, not the output of a tested model. Explain the task labels precisely ("real cat" / "not a real cat"); introduce training examples, predictions, feedback, and testing with unseen images. Keep neural networks and deep learning as optional context rather than trying to cover them in this short block. A sketch or description is sufficient; no live demo or student accounts are needed.
 - For human learning, use the [English Pépin transcript](../slides/static/vids/philo_en.md), from “Well, because we don't know how to do things instinctively” through “So there are virtues in failure.” If playing audio instead, locate the corresponding passage in advance. The selected passage concerns culture and trial and error; there is no need to cover the entire human-learning resource page.
 - Treat Pépin's argument as a philosophical proposal to question, not a biological account students must accept. The longer material's numerical claim about walking is not needed for this activity.
 - Open the [public course board][miro-board] for the opening work and the [Maurice vs George board][miro-perception] for perception. Provide a small area per group for initial ideas, observations or sources, revised ideas, and open questions. Paper is a fallback.
