@@ -115,9 +115,15 @@ The [France Culture discussion](https://www.radiofrance.fr/franceculture/podcast
 
 ### Trust and the "lemons" analogy (5 min)
 
-In the classic used-car example, buyers cannot always distinguish good-quality cars from bad ones. Uncertainty affects **trust** and can affect what people are willing to pay. It's an analogy, not a claim that books are cars.
+**First, imagine buying a used car.** Two cars look equally good. One is reliable; the other has hidden problems (a "lemon"). The sellers know more about their cars than you do. Because you cannot tell which car is reliable, you may offer less money for **either** car. The owner of the good car might refuse to sell at that price. Over time, buyers may become even more suspicious of the cars still available.
 
-**Discuss:** If readers cannot easily tell how a book was made, what changes for writers, publishers, reviewers, and readers? Are they valuing only the final text?
+**The problem isn't only bad cars. It's that buyers can't check information that matters to them.**
+
+**Now think about books.** A writer or publisher usually knows more about how a novel was produced than its readers. Some readers judge only the story; others also value the human effort, experience, or intention behind it. If readers cannot tell whether or how AI was involved, they may start doubting authors, **including writers who didn't use AI**. Such doubts can affect trust, reputation, prizes, and what people are willing to pay.
+
+**The important difference:** AI-assisted writing is **not** the same as a defective car. The analogy is about **missing information and trust**, not a claim that AI-made writing is necessarily worse.
+
+**Discuss:** Imagine you loved a novel. Would learning that AI helped write it change your opinion? What would you want the author or publisher to tell you?
 
 ### Group investigation (8 min)
 
