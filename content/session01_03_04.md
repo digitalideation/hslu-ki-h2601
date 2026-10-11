@@ -99,17 +99,18 @@ Record one distinction the resource helped you make. Applying Berkeley to AI is 
 
 Ask an LLM:
 
-> Describe how someone might identify an unfamiliar object in an opaque bag using touch. What would they notice, and how would they investigate it? Keep your answer under 100 words.
+> Describe how someone might recognize an everyday object using only touch, without seeing it. What sensations and hand movements would help them identify it? Keep your answer under 100 words.
 
 Read the response together. Keep it so you can compare it with your own observations.
 
 ### 2. Try Touch Recognition (6 min)
 
-Use the bag and safe objects provided in class. Take turns identifying one object by touch without looking. Notice how you move your hand, what you expect to find, and when you feel certain about the object.
+**Use something you already have**, such as a pen, eraser, keyring, or charging cable. One partner chooses a safe object and keeps it out of sight. The other closes their eyes, explores it by touch, and tries to identify it. Then swap roles using a different object. No special materials are needed.
+
+Notice how you move your hand, what you expect to find, and when you feel certain about the object. Choose only objects you are comfortable sharing and touching. If touch recognition is not suitable for you, use the alternative introduced in class.
 
 Before discussing, each write two or three observations in your own words. What did movement reveal that a single touch did not? Was there something you recognized before you could describe it?
 
-If this activity is not suitable for you, use the alternative introduced in class.
 
 ### 3. Compare the Accounts (4 min)
 
