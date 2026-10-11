@@ -2,21 +2,21 @@
 
 What would count as perception in an AI system? Begin with your own examples, try an experiment, and use Berkeley and Merleau-Ponty to reconsider your answers.
 
-**No advance reading required.** Keep the same partner, joining another pair when an activity calls for a group of four. You will use short resources during the activities; the full podcasts and readings are available for later exploration.
+**No advance reading required.** Stay with the **same partner throughout**. No switching groups or formal presentations. You will use short resources during the activities; full podcasts and readings are available for later exploration.
 
 ## Workshop at a glance
 
-This **85-minute workshop** starts after the break in [Session 01](./session01.md). The timings include resource use, peer exchanges, and class discussion.
+This **85-minute workshop** starts after the break in [Session 01](./session01.md). The timings include short resource checks, pair reflection, and closing.
 
 | Time | Activity | Resource to use |
 | --- | --- | --- |
-| 10 min | Data or Experience? | Your examples and the shared board |
+| 10 min | Data or Experience? | Your examples, a NotebookLM question, and the shared board |
 | 15 min | If the Sensors Go Dark | Berkeley introduction, then one short source passage |
 | 20 min | Embodied or Disembodied? | An AI description, your experience, then Merleau-Ponty |
 | 20 min | AI as a Philosopher | An LLM and a source you can inspect |
-| 20 min | Creative application and closing | A design idea, peer feedback, and a return to the opening examples |
+| 20 min | Creative application and closing | A pair sketch, critique together, and a return to opening ideas |
 
-Open the [Maurice vs George Miro board][miro-perception] and the [perception resource guide](./session01_03.md). Keep a small working area for your group: **initial idea → observation or source → revised idea → open question**. Paper works too. Keep notes brief: an example, a reason, and what changed are enough. You will share work with peers; selected examples will also be discussed with the class.
+Open the [Maurice vs George Miro board][miro-perception] and the [perception resource guide](./session01_03.md). Keep a small working area for your pair: **initial idea → observation or source → revised idea → open question**. Paper works too. Keep notes brief. Your discussion stays within your pair; the teacher may highlight a few examples, but there are no presentations.
 
 ## Activity 1: Data or Experience?
 
@@ -24,7 +24,7 @@ Open the [Maurice vs George Miro board][miro-perception] and the [perception res
 
 **Goal:** Find out what you mean by perception.
 
-**Duration:** 10 minutes.
+**Duration:** 10 minutes: 5 to choose, 3 with NotebookLM, 2 to compare.
 
 **Format:** Pairs.
 
@@ -39,15 +39,19 @@ Consider these examples:
 - Navigating a dark room
 - A robot mapping a room with lidar
 
-For each, decide whether you associate it mainly with **human perception**, **AI perception**, or **both / uncertain**. Add a reason, especially where you disagree. These are starting positions, not an answer key.
+**First (5 min):** For each example, decide whether you associate it mainly with **human perception**, **AI perception**, or **both / uncertain**. Give a short reason. These are initial ideas, not an answer key.
 
-Add one example from art, design, or everyday interaction. Choose the example that caused the most disagreement and record it on the board.
+### Ask NotebookLM (3 min)
 
-### Discuss
+Only after making your choices, open the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) and ask the [Activity 1 question](./session01_03.md#in-class-a-focused-investigation):
 
-What are you using as your criterion: successful recognition, bodily interaction, subjective feeling, or something else? Would more information about the system change your answer?
+> What is the difference between recognizing a pattern in data and experiencing something? Explain using a cat as an example, in three simple sentences.
 
-Be ready to explain one disagreement briefly if invited. Keep your choices visible; we will return to them at the end.
+If NotebookLM is slow or unavailable, discuss the question without the tool.
+
+### Compare (2 min)
+
+Did NotebookLM introduce a distinction that makes you reconsider one choice? **You do not have to agree with it.** Note one disagreement or change of mind on the board or paper, and keep your initial choices for the closing reflection.
 
 ## Activity 2: If the Sensors Go Dark
 
@@ -57,7 +61,7 @@ Be ready to explain one disagreement briefly if invited. Keep your choices visib
 
 **Duration:** 15 minutes: 4 to respond, 5 with a resource, 6 to reconsider and discuss.
 
-**Format:** Groups of four.
+**Format:** Pairs.
 
 ### Try it
 
@@ -89,7 +93,7 @@ Record one distinction the resource helped you make. Applying Berkeley to AI is 
 
 **Duration:** 20 minutes.
 
-**Format:** Pairs, then join another pair.
+**Format:** Pairs throughout.
 
 ### 1. Ask AI to Describe the Experience (3 min)
 
@@ -123,13 +127,13 @@ Use the [short Merleau-Ponty introduction](./session01_03.md#merleau-ponty-the-l
 
 What would a robot need to reproduce the behavior you observed? Would reproducing that behavior also establish that it has a lived experience?
 
-### 5. Compare with Another Pair (4 min)
+### 5. Reflect with Your Partner (4 min)
 
-Each pair shares one match or mismatch between the AI account and their experience. Then discuss:
+Compare what **each of you noticed** during the experiment. Discuss:
 
 > Did the AI help us notice something, or lead us to describe the experience in its terms?
 
-Different reports can raise useful questions, but they do not by themselves establish that the AI description caused a difference. Record one question to carry into the next activity.
+Differences between your experiences can raise questions, but they do not prove that the AI description caused them. Together, note one question for the next activity.
 
 ## Activity 4: AI as a Philosopher
 
@@ -137,7 +141,7 @@ Different reports can raise useful questions, but they do not by themselves esta
 
 **Goal:** Investigate how an LLM explains philosophy and how that shapes your understanding.
 
-**Duration:** 20 minutes: 4 to generate, 8 to check, 5 to revise, 3 to share.
+**Duration:** 20 minutes: 4 to generate, 8 to check, 5 to revise, 3 to discuss.
 
 **Format:** Pairs, with one device per pair or a shared class response. Swap the tool and note-taking roles from Activity 3.
 
@@ -169,7 +173,7 @@ Also note something useful in the explanation and something it leaves out. If th
 
 ### Revise and share
 
-Rewrite the claim in your own words using what you found. Join another pair and each share one correction or unresolved difficulty, with the passage that led you to it.
+Rewrite the claim in your own words using what you found. Take turns explaining your correction or remaining doubt **to your partner**, pointing to the passage that led you to it.
 
 Did the model help you understand an idea, or make one interpretation feel more obvious than it should? What could you establish from the text, and what remains your own argument?
 
@@ -177,7 +181,7 @@ Did the model help you understand an idea, or make one interpretation feel more 
 
 **Duration:** 20 minutes.
 
-**Format:** Groups of four, then exchange with another group and finish individually.
+**Format:** Same pairs, then finish individually.
 
 ### Develop an Idea (7 min)
 
@@ -191,17 +195,15 @@ Specify:
 
 Use one observation or source from the session to explain a design choice. A rough sketch with a few notes is enough.
 
-### Exchange with Another Group (6 min)
+### Challenge and Improve Your Idea (6 min)
 
-Each group has **two minutes to explain its idea**, followed by **one minute for a question or response** from the other group. Then swap.
-
-Ask whether the interaction would let a participant investigate the question. What might they notice or interpret differently from what the designers expect?
+Stay with your partner. One person explains the sketch while the other imagines being a participant: **What would I do? What might confuse me? What could I learn?** After three minutes, switch roles. Make one small improvement to the sketch.
 
 ### Return to the Opening Questions (5 min)
 
-In the class discussion, revisit the examples from Data or Experience? and the opening question about learning through failure. Move or annotate one of your choices, or explain why you still defend it. Point to an experience, argument, or source that informed your position.
+With your partner, revisit one choice from Data or Experience? and the question about learning through failure. Would you answer differently now? Update your note on the board or paper with **one reason** from an experience, argument, or source.
 
-Be ready to share one changed position or design question briefly if invited. Disagreement can remain on the board.
+The teacher will briefly highlight a few different answers. No pair needs to present its work.
 
 ### Individual Closing Note (2 min)
 
@@ -211,7 +213,7 @@ Write:
 - **I now think / still think… because…**
 - **I am still unsure about…**
 
-Keep your note with your group's work. The aim is a more precise question and a better-supported position.
+Keep your note with your pair's work. The aim is a more precise question and a better-supported position.
 
 [Back to the resource guide](./session01_03.md) · [Session 01 outline](./session01.md)
 
