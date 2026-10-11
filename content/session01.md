@@ -79,7 +79,7 @@ Pépin suggests that human mistakes and dependence on others can open possibilit
 
 **Do (pairs):**
 1. Each think of something you learned by making mistakes. What actually helped you improve?
-2. Read the short **[Pépin explanation in the Human Learning guide](./human-learning.md#pepins-failed-animal)**.
+2. Read the short **[Pépin explanation in the Human Learning guide](./human-learning.md#why-failure-matters)**.
 3. Open the [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and ask:
 
    > Why does Charles Pépin connect failure with learning, culture, and the possibility of inventing ourselves? Give one example from the sources.
@@ -142,7 +142,7 @@ Merleau-Ponty helps us ask how perception depends on our **lived bodily involvem
 ### The Orélien case (5 min)
 
 **Do (pairs):**
-1. **Read the [case file](./creativity-and-society.md#case-file-the-orelien-controversy) (2 min).** Notice which statements are confirmed events and which are disputed allegations. Do not try to determine whether the author used AI.
+1. **Read the [case file](./creativity-and-society.md#case-file-a-literary-controversy) (2 min).** Notice which statements are confirmed events and which are disputed allegations. Do not try to determine whether the author used AI.
 2. **Discuss (3 min):** Imagine reading and loving a novel, then hearing that AI may have helped write it. Would your opinion change? What would you want to know?
 
 **Produce:** **One sentence** explaining whether your opinion would change and why. There is no expected answer.
