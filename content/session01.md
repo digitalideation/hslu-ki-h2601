@@ -28,7 +28,7 @@ The session lasts **140 minutes, including a 10-minute break**. Times are minute
 | --- | --- | --- |
 | 0–5 | Opening: learning through failure | Reflect individually, then discuss in pairs |
 | 5–25 | Part 1: AI Learning | Slides first, three opening questions in pairs, short class discussion |
-| 25–45 | Part 2: Human Learning | Groups of four, short Pépin passage, contrasting positions |
+| 25–45 | Part 2: Human Learning | Groups of four, focused NotebookLM question, source check, discussion |
 | 45–55 | **Break** | |
 | 55–65 | Data or Experience? | Pairs, then discuss a disagreement |
 | 65–80 | If the Sensors Go Dark | Groups of four, using Berkeley |
@@ -78,13 +78,11 @@ Keep that question in mind as we move to Part 2 and explore what failure means i
 
 ## Part 2: Human Learning (20 min)
 
-**What do we learn through failure, and what makes a failure meaningful to us?** Join another pair and choose one example to discuss.
+**What makes failure meaningful to us?** Join another pair, choose one example of learning through difficulty, and open the **[Human Learning resource page](./session01_02.md#in-class-a-focused-investigation-20-min)**.
 
-Read the short passage in the [English Pépin transcript](../slides/static/vids/philo_en.md) beginning "Well, because we don't know how to do things instinctively" and ending "So there are virtues in failure." Alternatively, listen to the excerpt played in class.
+Use the [Human Learning NotebookLM notebook](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) to investigate what Charles Pépin means by "failed animals" and how failure might lead to learning or culture. The resource page gives you a short prompt and explains how to check one claim against the transcript.
 
-What does Pépin's argument help explain, and where would you challenge it? Compare your example with machine learning. What roles do other people, emotions, and purposes play?
-
-Record **one claim you can defend** and **one open question**. The full [Human Learning resources](./session01_02.md) are there if you want to investigate further.
+Compare the explanation with your own example and the cat-classifier exercise from Part 1. Record **one supported claim** and **one open question**. You do not have to listen to or read the full material in class.
 
 ## Part 3: Perception
 
