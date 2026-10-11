@@ -1,23 +1,21 @@
 # Part 2: Human Learning - The Failed Animal
 
-**Guiding question:** What makes failure meaningful to us, and how is human learning different from machine learning?
+**Guiding question: Does failure actually help us learn?**
 
-This is a resource page for [Session 01, Part 2](./session01.md#part-2-human-learning-20-min). **You do not need to read or watch everything.** In class, use NotebookLM to explore one question, check a small part of the source, and return to your own example.
+You don't need to read or listen to everything. Use [NotebookLM][notebooklm-notebook] to explore Charles Pépin's ideas and see whether you agree with him.
 
 ## In class: A focused investigation (20 min)
 
-Work in groups of four. Keep the personal example of learning through difficulty that you discussed at the beginning of Session 01.
+Work with the **same partner as in Part 1**.
 
-1. **Choose an example (4 min).** Pick one person's example. What was difficult? What changed after the mistake?
-2. **Ask NotebookLM (5 min).** Open the [Human Learning notebook][notebooklm-notebook] and ask:
+1. **Remember an experience (3 min).** Think back to the example you shared at the start of class. Did making a mistake help you learn something? Or did the learning come afterward?
+2. **Ask NotebookLM (9 min).** Open the [Human Learning notebook][notebooklm-notebook] and ask:
 
-   > According to the sources in this notebook, why does Charles Pépin describe humans as "failed animals"? Explain in three short sentences how failure might lead to learning or culture. Point me to a passage that supports your explanation.
+   > Why does Charles Pépin think failure can be useful for learning? Explain simply and give one example from the sources.
 
-   Look at a source reference, if NotebookLM provides one. If the notebook is unavailable, read the short **[Learning Through Culture and Failure](../slides/static/vids/philo_en.md#learning-through-culture-and-failure)** section of the English transcript instead.
-3. **Challenge and compare (7 min).** Does the explanation help you understand your group's example? What does it leave out? How is this similar to, or different from, the cat-classifier discussion in Part 1? Check **one claim** against the cited source or the transcript rather than accepting the AI summary by itself.
-4. **Share (4 min).** Prepare **one claim you can defend**, supported by an example or a passage, and **one question you have not settled**. We will hear two different positions in class.
-
-NotebookLM is a shortcut into the sources, not a substitute for checking what the source actually says.
+   Read the answer together. If NotebookLM points to a passage, take a quick look. If you cannot access it, use the [short English transcript section on learning through culture and failure](../slides/static/vids/philo_en.md#learning-through-culture-and-failure).
+3. **Talk with your partner (6 min).** Does Pépin's explanation fit what happened to you? **Is failure always useful, or can it sometimes teach us nothing?**
+4. **Wrap up (2 min).** We'll finish with a short question from the teacher. No presentations or reports are needed.
 
 ## Key ideas to explore
 
