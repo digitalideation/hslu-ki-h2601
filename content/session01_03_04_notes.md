@@ -1,6 +1,6 @@
 # Lecturer's Notes: Session 01
 
-[Student session outline](../readme.md#session-01-learning-and-perception) · [Student workshop](./session01_03_04.md) · [Resource guide](./session01_03.md)
+[Student session outline](../readme.md#session-01-learning-failure-and-perception) · [Student workshop](./session01_03_04.md) · [Resource guide](./session01_03.md)
 
 ## Purpose and Timing
 
@@ -12,7 +12,7 @@ Look for students who can make a useful distinction, support it with an observat
 
 ## Prepare
 
-- Choose a small set of [Session 01 slides](../slides/session01.html) and one concrete training example. Aim for a 10-minute explanation within the 20-minute AI-learning block. Distinguish parameter changes during training from responding to new instructions in a conversation.
+- For Part 1, select just the [Session 01 slides](../slides/session01.html) contrasting classical programming with machine learning and outlining the steps of ML. Use the homepage's **real-cat vs. plush-toy classifier** as the shared example. The mistake is hypothetical, not the output of a tested model. Explain the task labels precisely ("real cat" / "not a real cat"); introduce training examples, predictions, feedback, and testing with unseen images. Keep neural networks and deep learning as optional context rather than trying to cover them in this short block. A sketch or description is sufficient; no live demo or student accounts are needed.
 - For human learning, use the [English Pépin transcript](../slides/static/vids/philo_en.md), from “Well, because we don't know how to do things instinctively” through “So there are virtues in failure.” If playing audio instead, locate the corresponding passage in advance. The selected passage concerns culture and trial and error; there is no need to cover the entire human-learning resource page.
 - Treat Pépin's argument as a philosophical proposal to question, not a biological account students must accept. The longer material's numerical claim about walking is not needed for this activity.
 - Open the [public course board][miro-board] for the opening work and the [Maurice vs George board][miro-perception] for perception. Provide a small area per group for initial ideas, observations or sources, revised ideas, and open questions. Paper is a fallback.
@@ -29,7 +29,7 @@ Times are minutes from the start and include transitions and sharing.
 | Time | Facilitation | Focus |
 | --- | --- | --- |
 | 0–5 | 1 minute individual reflection, then 4 in pairs | A concrete learning experience to return to |
-| 5–25 | 10 minutes explaining one AI example, 7 in pairs, 3 with the class | What changes during training and how we assess it |
+| 5–25 | 7 minutes introducing the cat classifier with selected slides, 9 investigating in pairs, 4 sharing with the class | Training vs. inference, labeled data, error, generalization to new photos |
 | 25–45 | 4 minutes on a group's failure example, 4 with Pépin, 8 comparing, 4 hearing two contrasting positions | What failure means in a human context |
 | 45–55 | Break | |
 | 55–65 | 7 minutes classifying in pairs, 3 discussing one disagreement | Different criteria for perception |
@@ -37,6 +37,14 @@ Times are minutes from the start and include transitions and sharing.
 | 80–100 | 3 minutes with an AI description, 6 experimenting, 4 comparing accounts, 3 with Merleau-Ponty, 4 exchanging with another pair | How AI might influence attention and interpretation |
 | 100–120 | 4 minutes generating, 8 checking one claim, 5 revising, 3 exchanging between pairs | A source-based correction or a clearly stated limit |
 | 120–140 | 7 minutes sketching, 6 exchanging between groups, 5 in class discussion, 2 writing individually | Connect an investigation to creative practice and revisit initial positions |
+
+## Part 1: Cat Classifier Discussion
+
+The two labels refer to a **real cat being present in the photo**, not whether an object merely resembles a cat. The plush-toy example invites students to propose possible reasons for an error, not to infer an actual model's internals from a fictional prediction.
+
+Listen for the distinction between **training**, where a learning procedure updates a model using data and feedback, and **inference**, where an already-trained model makes a prediction. A wrong prediction does not automatically retrain the model. Ask how students would evaluate any proposed change using unfamiliar photos, not just the original toy image. This supervised image classifier is one example of machine learning, not a description of every kind of AI.
+
+For the four-minute share-out, ask one pair how the error might arise and another how they would test an improvement. Carry the question of what "learning from failure" means into Part 2; avoid resolving the human comparison here.
 
 ## Groups and Sharing
 
