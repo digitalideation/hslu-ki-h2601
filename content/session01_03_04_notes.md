@@ -13,11 +13,11 @@ Look for students who can make a useful distinction, support it with an observat
 ## Prepare
 
 - For Part 1, show a few [Session 01 slides](../slides/session01.html) first (9 min), especially the contrast between classical programming and machine learning. Then have students use the two cat images on the [Session 01 page](./session01.md#part-1-ai-learning-20-min) to discuss three simple questions in pairs (7 min), followed by a short class comparison (4 min). Focus on the idea of **programming explicit rules vs. learning patterns from examples**, not technical vocabulary or model evaluation. There is no need for coding or a live demo; leave neural networks and deep learning as optional context.
-- For human learning, use the [English Pépin transcript](../slides/static/vids/philo_en.md), from “Well, because we don't know how to do things instinctively” through “So there are virtues in failure.” If playing audio instead, locate the corresponding passage in advance. The selected passage concerns culture and trial and error; there is no need to cover the entire human-learning resource page.
+- For human learning, check access to the [Human Learning NotebookLM notebook](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and the focused prompt on the [Part 2 resource page](./session01_02.md). Prepare the [English Pépin transcript](../slides/static/vids/philo_en.md), especially the section on culture and failure, as a quick source check or fallback. Students are not expected to read or listen to the entire source.
 - Treat Pépin's argument as a philosophical proposal to question, not a biological account students must accept. The longer material's numerical claim about walking is not needed for this activity.
 - Open the [public course board][miro-board] for the opening work and the [Maurice vs George board][miro-perception] for perception. Provide a small area per group for initial ideas, observations or sources, revised ideas, and open questions. Paper is a fallback.
 - Prepare an opaque bag and a few safe objects per pair, or enough sets to share without a long queue. Use objects students cannot already see. Check whether the touch activity is suitable for everyone and prepare an alternative.
-- Make [Berkeley's section 6][berkeley-section-6] available on screen or as a short handout. This is the default verification route because it is brief and available in English.
+- Check access to the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74). Make [Berkeley's section 6][berkeley-section-6] available on screen or as a short handout for source checks. Students should not need to read the full philosophical texts.
 - If using Merleau-Ponty for source verification, prepare the specified [French Preface paragraph][merleau-ponty-preface] or a corresponding English excerpt with edition and page. Otherwise use the short course introduction in Activity 3 and Berkeley for Activity 4.
 - If using the NotebookLM podcast, select a 2–3-minute passage beforehand. Use it within the resource time as an alternative explanation, not an additional listening task. Retain the original-source check in Activity 4.
 - Check access to the notebooks, boards, and an LLM. Save a short response to each student prompt as a fallback. A shared screen can replace individual accounts.
@@ -30,7 +30,7 @@ Times are minutes from the start and include transitions and sharing.
 | --- | --- | --- |
 | 0–5 | 1 minute individual reflection, then 4 in pairs | A concrete learning experience to return to |
 | 5–25 | 9 minutes presenting selected slides, 7 discussing three cat-recognition questions in pairs, 4 sharing with the class | Why explicit rules are difficult; how machine learning uses examples; what a mistake means |
-| 25–45 | 4 minutes on a group's failure example, 4 with Pépin, 8 comparing, 4 hearing two contrasting positions | What failure means in a human context |
+| 25–45 | 4 minutes selecting an example, 5 investigating with NotebookLM, 7 checking and comparing, 4 hearing contrasting positions | What failure means in a human context, and how to check a generated explanation |
 | 45–55 | Break | |
 | 55–65 | 7 minutes classifying in pairs, 3 discussing one disagreement | Different criteria for perception |
 | 65–80 | 4 minutes responding, 5 with Berkeley, 6 reconsidering and discussing | Room, representation, input, and possible experience |
