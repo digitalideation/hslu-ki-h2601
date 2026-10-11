@@ -35,7 +35,7 @@ Use familiar content to move from human and machine learning, through embodied p
 
 Students should **open and use** the guides during the corresponding activity; they are not optional prerequisites or extra homework.
 
-- **Pépin (15 min):** [Human Learning](./human-learning.md#pepins-failed-animal) contains the short explanation; NotebookLM remains the investigative tool.
+- **Pépin (15 min):** [Human Learning](./human-learning.md#why-failure-matters) contains the short explanation; NotebookLM remains the investigative tool.
 - **Berkeley (10 min) and touch (20 min):** [Perception guide](./perception-guide.md) contains the Berkeley and Merleau-Ponty passages to read at the relevant step. The full [Perception Workshop](./perception-workshop.md) is a separate optional activity, not part of this session.
 - **Literary controversy (25 min):** [Creativity and Society](./creativity-and-society.md) is the **working resource**, not optional reading. Students read the case file (2 min), car analogy (2 min), and stakeholder table during the activities. The France Culture podcast itself is optional listening; all essential information for English-speaking students is in the guide.
 
