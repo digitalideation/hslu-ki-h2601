@@ -1,5 +1,7 @@
 # Perception: From Data to Experience
 
+![Perception: Session 01 illustration](../assets/session01_03.png)
+
 **Use this guide in class during [Part 2: Perception, the body, and creativity](./session01.md#2-perception-the-body-and-creativity-40-min).** Read **Berkeley** for the robot question, and **Merleau-Ponty** after the touch experiment. The further resources below are optional.
 
 **Question:** What is the difference between recognizing something and experiencing it, and how might bodily experience shape creativity?
