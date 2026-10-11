@@ -1,5 +1,7 @@
 # Human Learning: Failure, Culture, and Creativity
 
+![Human learning: Session 01 illustration](../assets/session01_02.png)
+
 **Use this guide in class during [Part 1: How do we learn?](./session01.md#1-how-do-we-learn-50-min), especially the 15-minute Charles Pépin activity.** Read the short explanation of his argument, then use the linked NotebookLM. The full media and further reflection are optional.
 
 **Question:** How do failure, other people, and culture contribute to what humans learn and create?
