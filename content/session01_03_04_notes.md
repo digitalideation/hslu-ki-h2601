@@ -1,52 +1,71 @@
-# Lecturer's Notes: Session 01 — Human Learning and Creativity
+# Lecturer's Notes: Session 01 — Learning, Perception, and Creativity
 
-[Student classroom page](./session01.md) · [Human Learning guide](./session01_02.md) · [Creativity and Society guide](./session01_creativity.md)
+[Student session](./session01.md) · [Pépin guide](./session01_02.md) · [Perception guide](./session01_03.md) · [Creativity guide](./session01_creativity.md)
 
-## Teaching purpose
+## Intent
 
-This session addresses **human learning versus machine prediction versus creative intention**, the **black-box problem**, AI's effects on **agency, creativity, value, risk, ownership, and success**, impacts on **creative industries and stakeholders**, and a **starting point** for Assignment 1.
+Use familiar content to move from human and machine learning, through embodied perception, into questions about intention, culture, value, trust, and creative work. The **Thélyson Orélien literary controversy** makes the social implications concrete. A final 15-minute invitation offers possible starting points for Assignment 1, **not an assignment workshop**. Assessment remains the responsibility of the module coordinator.
 
-The lecturer is **not** supervising Assignment 1. The final 25-minute investigation gives students a possible question to develop later, not a required project proposal. Defer assessed formats, submission requirements, and detailed feedback to the module coordinator and official brief.
+**Duration:** 140 minutes including a 10-minute break. About 30 students: stable pairs and temporary groups of four. No supplied objects; the Miro board is optional.
 
-**Total duration:** 140 minutes, including a 10-minute break. The core session uses one student page; the two guides are optional.
+## Facilitation schedule
 
-## Facilitator schedule
-
-| Duration | Focus | Format / preparation |
+| Duration | Activity | Key facilitation point |
 | --- | --- | --- |
-| 10 min | Who is the creator? | Festival campaign scenario; pairs articulate an initial view |
-| 15 min | Human learning, prediction, intention | Select only relevant AI/ML slides; brief Pépin connection; one human versus model example |
-| 20 min | Black-box experiment | 2 prompts, one controlled change in goal; compare outputs and limits of self-explanation |
-| **10 min** | **Discussion 1** | **Contrast generating, selecting, editing, intending; gather 2–3 views** |
+| 10 min | Cat rules | Real-versus-plush cat classification, rule failures |
+| 15 min | AI learning / black box | Programming, training, inference; limits of interpreting output |
+| 15 min | Pépin / NotebookLM | Failure, feedback, culture, freedom |
+| **10 min** | **Discussion 1** | **What actually makes learning happen?** |
 | 10 min | Break | |
-| 15 min | Six lenses | Agency, creativity, value, risk, ownership, success; short scenario-based explanation |
-| 25 min | Stakeholder mapping | Join pairs into groups of four; map stakeholders and three lenses; one tension |
-| **10 min** | **Discussion 2** | **Compare consequences and competing interests** |
-| 15 min | A question to explore | Individual system + group + tension; brief peer challenge; no formal proposal |
-| **10 min** | **Discussion 3** | **A few questions and return to opening view; no presentations** |
+| 10 min | Berkeley / robot | Distinguish room, stored representation, access; Berkeley's eternal spirit |
+| 20 min | Touch / Merleau-Ponty | 3 min AI description, 7 min touch, 5 min compare, 5 min concept |
+| **10 min** | **Discussion 2** | **Bodily exploration as a part of creating** |
+| 25 min | Orélien and society | 5 case, 5 lemons analogy, 8 stakeholder groups, 7 class discussion |
+| 15 min | Assignment inspiration | 5 individual, 5 pair, 5 closing; no formal presentation |
 
-## Facilitation details
+## Transitions and guiding questions
 
-**Opening and concepts.** Keep the festival poster scenario throughout the first two investigations to reduce cognitive load. Do not equate statistical prediction with human creative intention, but do not present them as exhaustive opposites either. Machine learning involves training and model adaptation; ordinary inference from a prompt does not automatically update model parameters. Pépin's "failed animal" argument is a philosophical provocation, not a scientific claim that must be accepted. Reference the [short transcript](../slides/static/vids/philo_en.md#learning-through-culture-and-failure) only if useful.
+**Learning to body:** Pépin says humans learn through error, others, and culture. But what does it mean to learn through *doing* rather than merely representing? Berkeley lets us ask what perception means; the touch experiment makes it tangible.
 
-**Black-box activity.** Use a text-based concept/tagline task so students need no image generation accounts or new materials. Both prompts keep the audience constant and change the **goal**. In 20 minutes: 3 min setup; 7 min generations; 6 min comparisons; 4 min limits and editorial choice. Outputs will vary independently of the prompt change; do not attribute every difference causally to the changed wording without repeated controlled comparisons. Ask what the students infer, know, and cannot inspect. Model statements about its own reasons are not privileged evidence about its computation. Some system mechanisms and documentation *are* knowable.
+**Body to creativity:** Ask after touch: "When you make something, how often do you discover the work by manipulating materials instead of executing a completed plan?" Refer to students' own practices: music, drawing, video, physical prototyping, editing. Merleau-Ponty's situated bodily activity is a lens, not a test for machine consciousness.
 
-**Discussion 1.** Ask: "Where was creative intention in the experiment?" Give 1 min to pairs, hear a few contrasting examples, probe who made the choices, then connect generated output with purpose, audience, selection, revision, and responsibility. Avoid trying to settle whether AI is 'really creative.'
+**Creativity to society:** What people value in art may include the finished object, the process, intention, effort, honesty, social recognition, and cultural participation. The Orélien controversy reveals how a disputed claim about process can change public perceptions of value.
 
-**Six lenses and group work.** Put the same six lenses on screen. Groups of four list stakeholders, select only three lenses to avoid overload, and formulate one grounded tension. Encourage a plurality of stakeholders: designers, freelance contributors, clients, audiences, technology providers, people represented by outputs. Do not treat legal ownership or copyright as a settled cross-jurisdictional fact.
+## Essential preparation
 
-**Discussion 2.** Hear two or three contrasting tensions, ask whose perspective was missing, and clarify that industry impacts differ by role and use case. Do not force conclusions that all AI adoption is harmful or beneficial.
+- Preselect a few slides from [AI Learning](../slides/session01.html), not the full deck. Training with feedback and producing a new response are different things; a deployed model does not necessarily retrain when it makes an error. The "black box" is a question about explanatory limits, not total unknowability.
+- Open the [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and prepare the [short Pépin transcript](../slides/static/vids/philo_en.md#learning-through-culture-and-failure) as fallback.
+- For Berkeley have [section 6](https://celt.ucc.ie/published/E710001-001/text005.html) available. The claim that objects vanish when *one person* stops perceiving them would misrepresent Berkeley's position; he invokes an eternal spirit. A robot's stored map is not by itself the same as a perceiving mind.
+- For touch recognition, students use safe everyday objects already in their possession; nothing needs distribution. Participation and sharing are voluntary. Alternative: reason through how a robot picks up a cup with and without movement.
+- Keep a short [Merleau-Ponty introduction](./session01_03.md) available. Do not require French reading or source verification during the 20-minute experiment.
+- Prepare a concise **neutral** factual description of the [France Culture debate](https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314). The allegations of AI authorship are **disputed**. Do not ask the class to assess guilt or rely on purported AI-text detection as proof.
+- The "lemons" analogy concerns uncertainty and how lack of information can affect trust and value. It is a way to start a discussion, not a claim that literary or artistic value is identical to market value. Akerlof's example is best kept short.
+- **NotebookLM for ideation:** The existing [Human Learning](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and [Perception](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) notebooks are linked in the student page. They have distinct source sets. Do not imply that the Orélien podcast is present in either notebook unless you actually add it.
 
-**Final 25 minutes.** The assessment has an **individual digital project** and requires an AI-assisted element and a meaningful non-AI contribution. Your role is to introduce one possible direction: AI use case, affected people, human experience or consequence. Students need not pick a medium or commit to an idea. The next 10-minute whole-class discussion shares a few interesting questions, not project pitches or evaluations.
+## Whole-class discussions
 
-## Access and pacing
+**1. Learning (10 min).** Ask whether mistakes automatically lead to learning, compare training and inference to human feedback, and return to the role of relationships and culture. Invite 2–3 contrasting pairs, not a full roll call.
 
-- Use selected [AI slides](../slides/session01.html) rather than the full deck, which also contains older perception material.
-- Prepare two example LLM responses as an offline or access fallback. Never require a paid image tool for the black-box activity.
-- Paper is sufficient for stakeholder notes. The [course board](https://miro.com/app/board/uXjVGtZoflg=/) is optional.
-- Keep the three plenary conversations by shortening exposition or the number of speakers if needed. No formal presentations or pair-by-pair reporting.
-- The previous perception and embodiment material remains available in [the earlier guide](./session01_03.md) and [workshop](./session01_03_04.md), but is **not** part of this class.
+**2. Body and creativity (10 min).** Start with touch observations, then ask how making something can change what one perceives, intends, and chooses. Tie to real creative practice, not a binary declaration that AI is incapable of creativity.
 
-## After teaching
+**3. Literary case (7 min within the 25 min block).** Ask whether people value only a finished piece or also experiences, intention, effort, authorship, and trust. Invite a few perspectives from temporary groups of four, including those who benefit and those who face costs.
 
-Could students distinguish a generated prediction from a human intention without relying on a simple machine-versus-human slogan? Could they explain one black-box limitation without assuming total ignorance? Did they identify a concrete stakeholder tension, and did any student leave with a specific question they might want to investigate?
+## Optional further threads from the lecturer's notes
+
+These are not additional mini-lectures. Draw on them if discussion naturally goes there; they are **interpretations to explore**, not verified quotations from the audio programme.
+
+- *Automatisation du symbolique*: what happens when generation of words and images, which contribute to shared meaning, is automated?
+- *Imperfection*: can struggle, hesitation, and failure be part of artistic meaning?
+- *Universel abstrait*: what gets lost when expression is averaged or made generic?
+- *Écoute, patience, effort*: what do we learn through working with people who disagree, resist, and require patience?
+- *Faire monde*: to create can be to participate in a shared world, with civic or political agency.
+- *Passenger seat*: do we direct our tools, or increasingly accept directions shaped elsewhere?
+- Despentes Instagram quotation and the papal encyclical reference need confirmation before being quoted or attributed.
+
+## Pacing and fallback
+
+No formal pair presentations. Paper or notes app is enough; Miro optional. If tools fail, use the printed/teacher-projected short source and a saved sample AI explanation of touch. If behind, trim exposition, not the physical experiment or the literary discussion.
+
+Students are **not** expected to develop a full Assignment 1 idea. The final exercise invites a specific system/use case, an affected group, and a human tension, with optional NotebookLM exploration after class.
+
+[← Student classroom page](./session01.md)
