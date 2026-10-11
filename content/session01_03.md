@@ -1,74 +1,84 @@
-# Part 3: Perception: From Data to Experience
+# Part 3: Perception - From Data to Experience
 
-**What would count as perception in an AI system?**
+**Guiding question:** What would count as perception in an AI system, and what is the difference between recognizing something and experiencing it?
 
-Start with the [perception workshop](./session01_03_04.md). This page supports the activities: consult a short introduction when it becomes useful, and return to the longer materials when you want to explore further.
+This page supports [Session 01, Parts 3 and 4](./session01.md#part-3-perception) and the [perception workshop](./session01_03_04.md). **You do not need to read or listen to everything.** Use NotebookLM for a focused question during the workshop, then inspect a short original passage or compare the answer with your own observations.
 
-By the end, you should be able to distinguish sensing, representation, and lived experience; use a philosophical idea to question an AI example; compare an AI description with your own observations; and check an AI-generated explanation against a source.
+## In class: A focused investigation
 
-## Resources during the workshop
+Use the [Perception NotebookLM notebook][notebooklm-notebook] when an activity introduces a philosopher. Choose the question that matches your current activity; you do not need to ask all three.
 
-You do not need to consume all these materials. The short introductions below are the core reading; the workshop specifies when to use them.
+| When | Ask NotebookLM | What to check |
+| --- | --- | --- |
+| **Activity 2: If the Sensors Go Dark** (5-minute resource stop) | "How does Berkeley explain what happens when one person stops perceiving an object? Does he think it disappears entirely? Point me to a source passage." | Compare one part of the answer with [section 6 of Berkeley's *Principles*][berkeley-section-6]. |
+| **Activity 3: Embodied or Disembodied?** (short conceptual stop) | "According to the sources, why does movement and bodily involvement matter for Merleau-Ponty's account of perception? Give one simple example." | Compare the explanation with **something you actually noticed** during touch recognition. If time is short, use the [introduction below](#merleau-ponty-the-lived-body). |
+| **Activity 4: AI as a Philosopher** (source-checking step) | "Find a source passage that could support or challenge this claim: [paste one claim from your LLM response]. What does the source say, and what is an interpretation about AI?" | Open the cited passage. Agreement between NotebookLM and another LLM is **not** verification. |
 
-| Resource | When and why to use it |
-| --- | --- |
-| [Maurice vs George Miro board][miro-perception] | Record initial positions, observations, disagreements, and revisions throughout the workshop |
-| [Berkeley introduction](#berkeley-perception-and-existence) and [section 6][berkeley-section-6] | Activity 2: distinguish existence from an individual observer's access |
-| [Merleau-Ponty introduction](#merleau-ponty-the-lived-body) | Activity 3: compare an AI description with bodily experience, then interpret an observation |
-| [NotebookLM notebook][notebooklm-notebook] | Ask a focused question, find a relevant source, or unpack a difficult passage |
-| [NotebookLM podcast][notebooklm-podcast] | An alternative explanation; use a short passage selected in class, or listen afterward |
-| [Verification routes](#verification-routes) | Activity 4: check one claim in an LLM response against an identifiable passage |
-| [Public course Miro board][miro-board] | Carry a question or design idea into the wider course |
+Keep your notes short: **your first idea, one source or observation, what you reconsidered, and one open question**. Use the [Maurice vs George board][miro-perception] or paper.
 
-NotebookLM explanations and audio are generated interpretations. When using them as evidence, follow their references to the underlying material. You can use the short introductions and linked text without access to NotebookLM.
+If NotebookLM is unavailable, use the short introductions and linked passages below. The activities can still be completed.
 
-## Philosophical lenses
+## Key ideas to explore
 
-These perspectives help us formulate questions. Applying them to AI is a contemporary interpretation, not something either philosopher wrote about today's systems.
+These ideas help us ask better questions; neither philosopher wrote about today's AI systems.
 
 ### Berkeley: Perception and Existence
 
-Berkeley questions the idea of sensible objects existing independently of any perceiving mind. His account does not imply that a room vanishes when one person leaves: section 6 also invokes an eternal spirit. Read [that section][berkeley-section-6] to see why “not perceived by me” and “not perceived by any mind” are different claims.
+Berkeley questions the idea of sensible objects existing independently of any perceiving mind. His account does not imply that a room vanishes when one person leaves: [section 6][berkeley-section-6] also invokes an eternal spirit.
 
-**Use in Activity 2:** distinguish the room, the robot's stored map, and its current access to the room. Which of these are we calling its “world”? Treating a stored representation as a perceiving mind would require a further argument.
+**Use in Activity 2:** distinguish the physical room, a robot's stored map, and its current access to the room. "Not perceived by me" and "not perceived by any mind" are different claims. A stored map does not automatically count as a perceiving mind.
 
 ### Merleau-Ponty: The Lived Body
 
-For Merleau-Ponty, perception is rooted in our bodily involvement in the world. The body is more than an instrument delivering measurements: our situation and possibilities for action shape how things appear to us. See the [publisher's introduction to *Phenomenology of Perception*][merleau-ponty-edition] and the original text's [Preface, in French][merleau-ponty-preface].
+For Merleau-Ponty, perception is rooted in bodily involvement in the world. The body is more than an instrument delivering measurements: our situation and possibilities for action shape how things appear to us. See a [publisher's introduction to *Phenomenology of Perception*][merleau-ponty-edition] or the original [Preface in French][merleau-ponty-preface].
 
-**Use in Activity 3:** consider how moving your hand changes what you can discover by touch, or how a robot's possible movements affect its access to a cup. This is a way into the question of embodiment; successful sensing and action alone do not settle whether a machine has subjective experience.
+**Use in Activity 3:** consider how moving your hand changes what you discover by touch. How might the possibilities for action change what a robot can find? Reproducing sensory behavior alone would not establish subjective experience.
+
+## Resource library
+
+Pick the resource that helps you investigate your question. You are not expected to use them all during class.
+
+| Resource | What it is useful for |
+| --- | --- |
+| **[NotebookLM: AI Perception][notebooklm-notebook]** | Your first stop for a focused Berkeley or Merleau-Ponty question and a source reference |
+| [NotebookLM podcast][notebooklm-podcast] | An alternative overview to listen to later, or a short excerpt selected in class |
+| [Berkeley: *Principles*, section 6][berkeley-section-6] | Quick original-text check about individual and continuing perception |
+| [Merleau-Ponty: Preface (French)][merleau-ponty-preface] | Original-text route for a claim about lived perception |
+| [Verification routes](#verification-routes) | Find the specific passage for Activity 4 |
+| [Maurice vs George Miro board][miro-perception] | Record observations, disagreements, and revised answers |
+| [Public course Miro board][miro-board] | Carry questions into the wider course |
 
 ## Verification routes
 
-Choose one route for Activity 4. Check a small claim carefully rather than trying to summarize an entire philosophy.
+For Activity 4, check **one claim**, not an entire philosophical theory.
 
-- **Berkeley: default route in English:** read **section 6** of [*A Treatise Concerning the Principles of Human Knowledge*][berkeley-section-6]. Test a claim about what happens when an individual stops perceiving an object. Look for the distinction between individual minds and an eternal spirit.
-- **Merleau-Ponty: original text in French:** in the [Preface to *Phenomenology of Perception*][merleau-ponty-preface], find **“La perception n'est pas une science du monde”** and read that paragraph. Test whether the LLM treats perception primarily as explicit knowledge or judgment. An English excerpt supplied in class can serve the same purpose; record the edition and page.
-- **If the original text is inaccessible:** use the short course introduction to identify a question to check, then switch to the Berkeley route for source verification. A course summary or another AI answer should not be presented as the philosopher's original text.
+- **Berkeley, default English route:** read [section 6 of *A Treatise Concerning the Principles of Human Knowledge*][berkeley-section-6]. Check a claim about what happens when an individual stops perceiving an object. Notice the distinction between individual minds and an eternal spirit.
+- **Merleau-Ponty, original French route:** in the [Preface to *Phenomenology of Perception*][merleau-ponty-preface], find **"La perception n'est pas une science du monde"** and read that paragraph. Check whether an AI response treats perception primarily as explicit knowledge or judgment. You can also use an English excerpt supplied in class, with its edition and page.
+- **If the original passage is inaccessible:** use the course introduction to frame your question, then use the Berkeley route for direct source verification. Do not present a course summary or an AI answer as an original quotation.
 
-A source may support the historical claim while leaving its application to AI undecided. Keep that distinction in your assessment.
+A historical claim may be supported by a source while an application to AI remains open. Keep these separate.
 
-## Questions to return to
+## Further exploration
 
-- What does a system's behavior let us observe, and what are we inferring about its experience?
-- Does a camera classifier, a robot moving through a room, and a text-only chatbot each have the same relation to the world?
-- In a virtual environment, how do we distinguish stored state, rendered appearance, and someone's experience?
-- How might an AI description direct our attention during an experience? How does an AI explanation influence which philosophical interpretation we find convincing?
+### Questions to return to
 
-## Synthesis: Make the Comparison Specific
+- What can we observe about a system's behavior, and what are we inferring about its experience?
+- Does a camera classifier, a robot moving through a room, and a text-only chatbot have the same relation to the world?
+- In a virtual environment, how do stored state, rendered appearance, and someone's experience differ?
+- Can an AI description direct our attention, or make one philosophical interpretation seem more convincing?
 
-Use this table to question an example after the workshop. It is a guide for discussion, not a classification of all humans and all AI systems.
+### A comparison for later use
+
+This table is a starting point for discussion, not a classification of all humans and AI systems.
 
 | Dimension | Human example | AI example | Open question |
 | --- | --- | --- | --- |
-| Sensing and action | Moving a hand to explore an object | A robot changes position to gather sensor data | How does action change what can be detected? |
-| Representation | Describing a familiar room from memory | Using a stored map without live camera input | How does a representation differ from current access? |
-| Lived experience | Describing how an encounter feels | Producing a description of an encounter | What evidence would justify attributing experience? |
-| Context | Recognizing a cup through habits and purposes | Identifying a cup for a specified task | What gets lost when we reduce recognition to a label? |
+| Sensing and action | Moving a hand to explore an object | A robot moves to gather sensor data | How does action change what can be detected? |
+| Representation | Remembering and describing a room | Using a stored map without live camera input | How does a representation differ from current access? |
+| Lived experience | Describing what an encounter feels like | Producing a description of an encounter | What evidence would justify attributing experience? |
+| Context | Recognizing a cup through habits and purposes | Identifying a cup for a particular task | What is lost when recognition becomes a label? |
 
-Keep one distinction that helps your design practice and one question you cannot yet settle. Return to the [creative application and closing](./session01_03_04.md#creative-application-and-closing) to turn them into an interaction or artwork idea.
-
-## Further exploration
+### Additional readings
 
 - [How to make AI that's good for people][google-how-to-make-ai-good-for-people]
 - [George Berkeley][wikipedia-george-berkeley]
@@ -78,11 +88,13 @@ Keep one distinction that helps your design practice and one question you cannot
 - [Our machines now have knowledge we'll never understand][wired-machines-knowledge]
 - [Can you trust AI? Here's why you shouldn't][conversation-can-you-trust-ai]
 - [The seven deadly sins of predicting the future of AI][rodneybrooks-seven-deadly-sins]
-- [Facial recognition’s dirty little secret][nbcnews-facial-recognition]
+- [Facial recognition's dirty little secret][nbcnews-facial-recognition]
 - [Yuval Harari on ChatGPT][nytimes-harari-ai-chatgpt]
 - [You can have the blue pill or the red pill...][criticalai-blue-pill]
-- [The mind‑expanding ideas of Andy Clark][newyorker-andy-clark]
-- [The history of open‑source LLMs][history-open-source-llms]
+- [The mind-expanding ideas of Andy Clark][newyorker-andy-clark]
+- [The history of open-source LLMs][history-open-source-llms]
+
+Return to the [creative application and closing](./session01_03_04.md#creative-application-and-closing) to turn an open question into a design idea.
 
 [notebooklm-notebook]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74 'NotebookLM - notebook'
 [notebooklm-podcast]: https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74?artifactId=4f0253fe-b5c6-4697-8177-92c4323405b0 'NotebookLM - podcast excerpt'
