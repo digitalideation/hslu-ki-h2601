@@ -1,32 +1,25 @@
 # I.BA_PHKI.H2601
 
-What does it mean to learn, perceive, and create? How do these processes differ between humans and AI, and how does using AI shape our own understanding?
+What does it mean to learn, perceive, and create? How does working with AI change creative practice and its consequences for people?
 
-We explore these questions through short introductions, philosophy, conversation, and experiments. **The readings, podcasts, notebooks, and boards are a resource library, not a checklist.**
+The course explores these questions through accessible technical introductions, philosophy, conversation, and hands-on experiments. **Podcasts, NotebookLM, and readings are resources to explore, not a checklist to complete.**
 
 ## Sessions
 
-### [Session 01: Learning, Failure, and Perception](./content/session01.md)
+### [Session 01: Human Learning and Creativity](./content/session01.md)
 
-![Session 01 image](./assets/session01_01.png)
+**140 minutes including a 10-minute break.** Compare human learning, machine prediction, and creative intention. Investigate the black-box problem and the changing roles of creators, audiences, clients, and other stakeholders. Finish with a possible question to explore further.
 
-**140 minutes including a 10-minute break.** Follow one classroom page through three questions:
+**[Open the Session 01 classroom page](./content/session01.md)**
 
-1. How do we learn?
-2. What does it mean to perceive?
-3. How does AI shape our understanding?
-
-Each investigation includes activities in pairs, with three short whole-class discussions. No advance reading or supplied objects are required.
-
-**[Open the Session 01 classroom page](./content/session01.md)** · [Optional resources](./content/session01_resources.md)
+Optional guides: [Human Learning and Failure](./content/session01_02.md) · [Creativity, AI, and Society](./content/session01_creativity.md)
 
 ### [Session 02: Trial and Error, Learning to Learn](./content/session02.md)
 
-Explore trial and error, attention, memory, inhibition, metacognition, motivation, and emotions. The classroom schedule is not yet finalized.
+Explore trial and error, attention, memory, inhibition, metacognition, motivation, and emotions. Its detailed classroom schedule is not yet finalized.
 
 [Open Session 02](./content/session02.md)
 
-## Shared boards
+## Shared resource
 
-- [Public course Miro board](https://miro.com/app/board/uXjVGtZoflg=/)
-- [Maurice vs George Miro board](https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904)
+[Public course Miro board](https://miro.com/app/board/uXjVGtZoflg=/): an optional place to collect questions and insights.
