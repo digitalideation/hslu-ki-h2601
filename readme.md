@@ -8,6 +8,8 @@ The course uses experiments, philosophy, conversation, and questions about socie
 
 ### [Session 01: Human Learning, Perception, and Creativity](./content/session01.md)
 
+![Session 01 course illustration](./assets/session01_00.png)
+
 **140 minutes including a 10-minute break.** Compare human and machine learning; explore Berkeley and Merleau-Ponty through perception and touch; discuss creative value, authorship, and society through the Thélyson Orélien controversy. Finish with a possible question to investigate later.
 
 **[Open the Session 01 classroom page](./content/session01.md)**
@@ -23,12 +25,6 @@ The course uses experiments, philosophy, conversation, and questions about socie
 The [extended Perception Workshop](./content/perception-workshop.md) is preserved for optional further activities.
 
 **NotebookLM:** [Human Learning](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) · [Perception](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74)
-
-### [Session 02: Trial and Error, Learning to Learn](./content/session02.md)
-
-Explore trial and error, attention, memory, inhibition, metacognition, motivation, and emotions. Its detailed classroom schedule is not yet finalized.
-
-[Open Session 02](./content/session02.md)
 
 ## Shared board
 
