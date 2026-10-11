@@ -1,88 +1,53 @@
 # I.BA_PHKI.H2601
 
-## Session 01
+## About this course
+
+What does it mean to learn, perceive, and create? How do these processes differ between humans and artificial intelligence, and what can experimenting with AI reveal about our own ways of thinking?
+
+We will approach these questions through short technical introductions, philosophy, discussion, and hands-on experiments. The aim is not to arrive at a definitive answer to whether AI "really" learns or perceives, but to examine the assumptions behind those claims and connect them to creative practice.
+
+**How to use these materials:** The podcasts, NotebookLM notebooks, readings, and boards form a resource library, **not a checklist to complete**. During class we will work through shared activities and consult selected excerpts or resources when they help us investigate a question. The longer materials remain available for independent exploration.
+
+## Session 01 — Learning, failure, and perception
 
 ![Session 01 image](./assets/session01_01.png)
 
-### Part 1: AI Learning - Algorithms and Experiences ([slides](/slides/session01.html))
+**Guiding questions**
 
-1. Brief overview of AI and its learning mechanisms.
-2. Brief introduction to machine learning algorithms.
-3. How AI learns through data, patterns, and repetition.
-4. Differences between AI learning and human experiential learning.
+- How do AI systems learn from examples and errors, and how does that compare with human learning?
+- Can failure be productive rather than merely something to minimize?
+- Is recognizing patterns the same as perceiving or experiencing the world?
+- How do our bodies, contexts, and interactions shape what we know?
 
-> “AI learns from data - but does it actually **experience** the world?”
+### Session map
 
-### [Part 2: Human Learning - A Philosophical View](./content/session01_02.md)
+| Part | Focus | Materials |
+| --- | --- | --- |
+| **1. AI learning** | A technical introduction to algorithms, training, feedback, and error. | [Slides](./slides/session01.html) |
+| **2. Human learning** | Charles Pépin's "failed animal": instinct, trial and error, culture, and freedom. | [Concepts, activities, and listening](./content/session01_02.md) |
+| **3. Perception** | Berkeley, Merleau-Ponty, and the distinction between computation and lived experience. | [Concepts, readings, and NotebookLM resources](./content/session01_03.md) |
+| **4. Practice** | Explore and challenge these ideas through short, shared activities. | **[Perception workshop — activities and facilitation guide](./content/session01_03_04.md)** |
 
-1. Conceptual Introduction – _Unnatural Animals_
-   - Humans lack strong instincts and must learn through experience and error.
-   - This weakness becomes the foundation of creativity and freedom.
-   - Guiding question: _If humans learn through failure, how does that differ from AI’s efficiency?_
+### Proposed activity-led workshop: perception
 
-2. The Failed Animal – From Instinct to Learning
-   - Humans are “denatured animals” (Charles Pépin): instinct too weak to guide action.
-   - A foal walks in minutes; a baby fails about 2,000 times before succeeding.
-   - _Activity link:_ “The Foal vs. the Baby” - compare instinctive success and human trial-and-error.
+The four activities from Part 4 provide the backbone of a **suggested 70-minute block**. Students begin with their own intuitions, encounter a philosophical perspective or experiment, test their assumptions, and reflect together. The times can be adapted to the available class period.
 
-3. The Methodology of Failure – Learning by Inefficiency
-   - Humans progress through trial, error, and adaptation.
-   - AI minimizes error; humans learn meaning from it.
-   - _Activity link:_ “Virtues in Failure” - identify what humans learn only through mistakes.
+| Time | Activity | What students do | Supporting resource |
+| --- | --- | --- | --- |
+| 10 min | **Data or Experience?** | Sort examples, debate ambiguous cases, and record initial ideas. | Miro |
+| 15 min | **If the Sensors Go Dark** | Take a position, encounter Berkeley, and reconsider the argument. | Selected reading or NotebookLM excerpt |
+| 15 min | **Embodied or Disembodied?** | Try a physical perception exercise and connect it to Merleau-Ponty. | Short conceptual introduction |
+| 20 min | **AI as a Philosopher** | Ask an LLM to interpret a philosopher, then check its account against sources. | LLM, reading, and/or NotebookLM |
+| 10 min | **Revisit the question** | Return to the initial Miro board: what changed, and what remains uncertain? | Miro |
 
-4. Compensation and Culture – Learning from Others
-   - Weak instinct drives reliance on culture, education, and empathy.
-   - AI processes data but lacks relational and emotional context.
-   - _Activity link:_ “The Compensation Audit” - compare informational vs. social learning.
+**No full reading or podcast is required before this workshop.** The linked activity guide specifies what to prepare, when to introduce a short resource, and how to run each discussion.
 
-5. Freedom and Invention – The Outcome of Failure
-   - Human deficiency enables freedom: _existence precedes essence_.
-   - Unlike AI, humans can redefine themselves and their goals.
-   - _Activity link:_ “Freedom Inventory” - reflect on freedom as a product of imperfection.
+### Explore further
 
-6. Synthesis – _AI vs. Human Learning_
-   - Humans learn _because_ they fail; AI learns _to avoid_ failure.
-   - Weakness creates adaptability and freedom.
-
-> “If humans learn through embodied experience and error, how does **perception** shape that learning - and how does AI compare?”
-
-### [Part 3: Perception - From Data to Experience](./content/session01_03.md)
-
-1. Conceptual Introduction – _Perceiving Machines?_
-   - Can AI truly experience what it perceives?
-   - Introduces **George Berkeley** (“to be is to be perceived”) and **Maurice Merleau-Ponty** (the perceiving body and world are inseparable).
-   - Guiding question: _Does AI perceive the world, or merely compute it?_
-
-2. Application Topics – Connecting Philosophy and AI
-   - **AI vs. Human Perception:** data processing vs. lived experience.
-   - **Virtual Reality and Simulation:** Berkeley’s idealism and digital worlds.
-   - **Embodied AI and Robotics:** Merleau-Ponty and perception through movement and sensors.
-   - **AI–Human Interaction:** perception as feedback and shared experience.
-
-3. Philosophical Lenses – Berkeley and Merleau-Ponty
-   - **Berkeley:** perception defines existence; relates to virtual environments and AI “worlds.”
-     - _Key idea:_ Objects exist only insofar as they are perceived (“esse est percipi”).
-     - _Connection to AI:_ Virtual reality and data-driven “worlds” as digital idealism.
-
-   - **Merleau-Ponty:** perception is embodied; links to robotics and interactive AI systems.
-     - _Key idea:_ The perceiver and the perceived world are intertwined.
-     - _Connection to AI:_ AI without a body may “see” but not _feel_ the world - can it ever achieve phenomenological perception?
-
-4. Discussion and Reflection – _Thinking Like a Philosopher_
-   - Key questions on AI experience, embodiment, and the nature of perception.
-
-5. Synthesis – _AI, Perception, and Reality_
-   - Comparison of human vs. AI perception (embodied vs. computational).
-   - Takeaway: AI can simulate perception but does not _live_ it.
-
-6. Transition to Practice
-   - Reflect or debate.
-   - Design an AI inspired by Berkeley or Merleau-Ponty.
-   - Prepare for Part 4: practical application.
-
-> “Is AI perception an imitation or a fundamentally new kind of perception?”
-
-### Part 4: Practice
+- **[Human Learning — The Failed Animal](./content/session01_02.md):** Pépin podcast, audio, transcript, and NotebookLM resources.
+- **[Perception — From Data to Experience](./content/session01_03.md):** philosophical framing, primary readings, NotebookLM notebook/podcast, and further references.
+- **[Perception workshop](./content/session01_03_04.md):** prompts, alternatives for different classrooms, and a collective synthesis.
+- **[Public course Miro board][miro-board]:** a place to collect and revisit questions.
 
 ## Session 02
 
