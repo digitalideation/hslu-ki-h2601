@@ -30,13 +30,13 @@ The session lasts **140 minutes, including a 10-minute break**. Times are minute
 | 5–25 | Part 1: AI Learning | Slides first, three opening questions in pairs, short class discussion |
 | 25–45 | Part 2: Human Learning | Individual reflection, NotebookLM in pairs, short pair exchange, teacher wrap-up |
 | 45–55 | **Break** | |
-| 55–65 | Data or Experience? | Pairs, then discuss a disagreement |
-| 65–80 | If the Sensors Go Dark | Groups of four, using Berkeley |
+| 55–65 | Data or Experience? | Pairs: initial choices, NotebookLM question, quick comparison |
+| 65–80 | If the Sensors Go Dark | Pairs, using Berkeley and NotebookLM |
 | 80–100 | Embodied or Disembodied? | Experiment in pairs, compare an AI account with experience |
-| 100–120 | AI as a Philosopher | Check an LLM claim against a source, then compare findings |
-| 120–140 | Creative application and closing | Design in groups, exchange ideas, reflect individually |
+| 100–120 | AI as a Philosopher | Pairs, checking one LLM claim against a source |
+| 120–140 | Creative application and closing | Sketch and critique in pairs, then reflect individually |
 
-Keep the same partner through the session. When needed, two pairs join into a group of four. In AI activities, share a device and alternate between operating the tool and recording observations or checking sources. Everyone will explain something to peers, but there are no formal slide presentations. We will hear a few contrasting examples in whole-class discussions.
+Keep the same partner throughout. Share one device for AI activities and take turns operating the tool and noting observations or checking sources. No switching groups or formal presentations; most discussions stay in pairs.
 
 ## Opening: Learning through failure (5 min)
 
@@ -96,13 +96,13 @@ During the workshop, investigate the difference between sensing, recognizing, re
 
 Work through the **[four perception activities and creative closing](./session01_03_04.md)**:
 
-1. **Data or Experience?** (10 min): classify examples, compare criteria, and record a disagreement.
+1. **Data or Experience?** (10 min): make initial choices, ask NotebookLM one question, and reconsider a distinction.
 2. **If the Sensors Go Dark** (15 min): test a thought experiment, then examine Berkeley's perspective.
 3. **Embodied or Disembodied?** (20 min): compare an AI description with what you observe during a physical experiment.
 4. **AI as a Philosopher** (20 min): check one LLM-generated philosophical claim against a source.
-5. **Creative application and closing** (20 min): turn a question into an artwork or interaction idea, exchange feedback, and revisit your initial answers.
+5. **Creative application and closing** (20 min): sketch and critique an idea with your partner, then revisit your initial answers.
 
-The workshop page contains the prompts, group instructions, and resources for each activity. By the end, be ready to explain one useful distinction, support it with an observation or source, and identify a question worth exploring through creative practice.
+The workshop page contains the prompts, pair instructions, and resources for each activity. By the end, be ready to explain one useful distinction, support it with an observation or source, and identify a question worth exploring through creative practice.
 
 ## Resources and further exploration
 
