@@ -4,7 +4,7 @@
 
 Start with the [perception workshop](./session01_03_04.md). This page supports the activities: consult a short introduction when it becomes useful, and return to the longer materials when you want to explore further.
 
-By the end, you should be able to distinguish sensing, representation, and lived experience; use a philosophical idea to question an AI example; and check an AI-generated explanation against a source.
+By the end, you should be able to distinguish sensing, representation, and lived experience; use a philosophical idea to question an AI example; compare an AI description with your own observations; and check an AI-generated explanation against a source.
 
 ## Resources during the workshop
 
@@ -14,7 +14,7 @@ You do not need to consume all these materials. The short introductions below ar
 | --- | --- |
 | [Maurice vs George Miro board][miro-perception] | Record initial positions, observations, disagreements, and revisions throughout the workshop |
 | [Berkeley introduction](#berkeley-perception-and-existence) and [section 6][berkeley-section-6] | Activity 2: distinguish existence from an individual observer's access |
-| [Merleau-Ponty introduction](#merleau-ponty-the-lived-body) | Activity 3: interpret an observation about movement, touch, or bodily context |
+| [Merleau-Ponty introduction](#merleau-ponty-the-lived-body) | Activity 3: compare an AI description with bodily experience, then interpret an observation |
 | [NotebookLM notebook][notebooklm-notebook] | Ask a focused question, find a relevant source, or unpack a difficult passage |
 | [NotebookLM podcast][notebooklm-podcast] | An alternative explanation; use a short passage selected in class, or listen afterward |
 | [Verification routes](#verification-routes) | Activity 4: check one claim in an LLM response against an identifiable passage |
@@ -53,7 +53,7 @@ A source may support the historical claim while leaving its application to AI un
 - What does a system's behavior let us observe, and what are we inferring about its experience?
 - Does a camera classifier, a robot moving through a room, and a text-only chatbot each have the same relation to the world?
 - In a virtual environment, how do we distinguish stored state, rendered appearance, and someone's experience?
-- How does an AI explanation influence which philosophical interpretation we find convincing?
+- How might an AI description direct our attention during an experience? How does an AI explanation influence which philosophical interpretation we find convincing?
 
 ## Synthesis: Make the Comparison Specific
 
@@ -66,7 +66,7 @@ Use this table to question an example after the workshop. It is a guide for disc
 | Lived experience | Describing how an encounter feels | Producing a description of an encounter | What evidence would justify attributing experience? |
 | Context | Recognizing a cup through habits and purposes | Identifying a cup for a specified task | What gets lost when we reduce recognition to a label? |
 
-Keep one distinction that helps your design practice and one question you cannot yet settle. Return to the [closing reflection](./session01_03_04.md#collective-reflection-what-changed) to turn them into an interaction or artwork idea.
+Keep one distinction that helps your design practice and one question you cannot yet settle. Return to the [creative application and closing](./session01_03_04.md#creative-application-and-closing) to turn them into an interaction or artwork idea.
 
 ## Further exploration
 

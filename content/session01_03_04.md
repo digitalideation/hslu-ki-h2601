@@ -2,21 +2,21 @@
 
 What would count as perception in an AI system? Begin with your own examples, try an experiment, and use Berkeley and Merleau-Ponty to reconsider your answers.
 
-**No advance reading required.** Work in pairs or small groups. You will use short resources during the activities; the full podcasts and readings are available for later exploration.
+**No advance reading required.** Keep the same partner, joining another pair when an activity calls for a group of four. You will use short resources during the activities; the full podcasts and readings are available for later exploration.
 
 ## Workshop at a glance
 
-This is a proposed **70-minute block for perception and practice**, not a timetable for the whole of Session 01. The timings include resource use and discussion.
+This **85-minute workshop** starts after the break in [Session 01](../readme.md#session-01-learning-and-perception). The timings include resource use, peer exchanges, and class discussion.
 
 | Time | Activity | Resource to use |
 | --- | --- | --- |
 | 10 min | Data or Experience? | Your examples and the shared board |
 | 15 min | If the Sensors Go Dark | Berkeley introduction, then one short source passage |
-| 15 min | Embodied or Disembodied? | An experiment, then the Merleau-Ponty introduction |
+| 20 min | Embodied or Disembodied? | An AI description, your experience, then Merleau-Ponty |
 | 20 min | AI as a Philosopher | An LLM and a source you can inspect |
-| 10 min | Collective reflection | Return to the opening examples |
+| 20 min | Creative application and closing | A design idea, peer feedback, and a return to the opening examples |
 
-Open the [Maurice vs George Miro board][miro-perception] and the [perception resource guide](./session01_03.md). Keep a small working area for your group: **initial idea → observation or source → revised idea → open question**. Paper works too.
+Open the [Maurice vs George Miro board][miro-perception] and the [perception resource guide](./session01_03.md). Keep a small working area for your group: **initial idea → observation or source → revised idea → open question**. Paper works too. Keep notes brief: an example, a reason, and what changed are enough. You will share work with peers; selected examples will also be discussed with the class.
 
 ## Activity 1: Data or Experience?
 
@@ -26,7 +26,7 @@ Open the [Maurice vs George Miro board][miro-perception] and the [perception res
 
 **Duration:** 10 minutes.
 
-**Format:** Pairs or small groups.
+**Format:** Pairs.
 
 ### Try it
 
@@ -47,7 +47,7 @@ Add one example from art, design, or everyday interaction. Choose the example th
 
 What are you using as your criterion: successful recognition, bodily interaction, subjective feeling, or something else? Would more information about the system change your answer?
 
-Keep your choices visible. We will return to them at the end.
+Be ready to explain one disagreement briefly if invited. Keep your choices visible; we will return to them at the end.
 
 ## Activity 2: If the Sensors Go Dark
 
@@ -57,7 +57,7 @@ Keep your choices visible. We will return to them at the end.
 
 **Duration:** 15 minutes: 4 to respond, 5 with a resource, 6 to reconsider and discuss.
 
-**Format:** Small groups.
+**Format:** Groups of four.
 
 ### Try it
 
@@ -85,37 +85,51 @@ Record one distinction the resource helped you make. Applying Berkeley to AI is 
 
 ![Embodied or disembodied](../assets/embodied_or_disembodied.png)
 
-**Goal:** Investigate how bodily action and context shape perception.
+**Goal:** Investigate how bodily action shapes perception and how an AI description might influence what you notice.
 
-**Duration:** 15 minutes: 7 for one experiment, 3 with a resource, 5 to discuss.
+**Duration:** 20 minutes.
 
-**Format:** Pairs or small groups. Choose one option.
+**Format:** Pairs, then join another pair.
 
-### Option A: Blind Navigation
+### 1. Ask AI to Describe the Experience (3 min)
 
-In a clear, level space, one volunteer closes their eyes while a partner guides them 3–4 meters with voice instructions. The partner stays within reach; stop whenever either person wants to. Swap roles if both want to participate. Choose touch recognition or the design option if you prefer.
+Ask an LLM:
 
-What helped you judge distance or direction? How did trust, movement, and your memory of the room affect the experience? This brief exercise explores your own perception; it does not reproduce the experience of living with blindness.
+> Describe how someone might identify an unfamiliar object in an opaque bag using touch. What would they notice, and how would they investigate it? Keep your answer under 100 words.
 
-### Option B: Touch Recognition
+Read the response together. Keep it so you can compare it with your own observations.
 
-Place a few familiar, safe objects in an opaque bag: a USB drive, coin, marker, or similar item. Identify one by touch. Notice how you move your hand to investigate it.
+### 2. Try Touch Recognition (6 min)
 
-What did movement reveal that a single touch did not? What did you recognize before you could put it into words?
+Use the bag and safe objects provided in class. Take turns identifying one object by touch without looking. Notice how you move your hand, what you expect to find, and when you feel certain about the object.
 
-### Option C: Design Analogy
+Before discussing, each write two or three observations in your own words. What did movement reveal that a single touch did not? Was there something you recognized before you could describe it?
 
-Sketch a robot that must find and pick up a coffee cup in a real room. Describe its sensors, possible movements, and how it would check whether it succeeded. Then change its body: make it unable to move around the cup.
+If this activity is not suitable for you, use the alternative introduced in class.
 
-What becomes harder to distinguish? What would it need to do differently?
+### 3. Compare the Accounts (4 min)
 
-### Bring in Merleau-Ponty
+Return to the AI description:
 
-Read the [short Merleau-Ponty introduction](./session01_03.md#merleau-ponty-the-lived-body). Connect it to one specific observation from your experiment or design.
+- What did it describe well?
+- What did you notice that it left out or described differently?
+- Did its wording give you something to pay attention to, or influence how you described the experience?
+
+Keep one observation separate from your interpretation. For example, what you actually did with your hand is different from an explanation of why you did it.
+
+### 4. Bring in Merleau-Ponty (3 min)
+
+Read the [short Merleau-Ponty introduction](./session01_03.md#merleau-ponty-the-lived-body). Use it to reconsider one observation.
 
 What would a robot need to reproduce the behavior you observed? Would reproducing that behavior also establish that it has a lived experience?
 
-Record an observation and an interpretation separately. The exercise can help us ask about machine experience; it cannot settle that question.
+### 5. Compare with Another Pair (4 min)
+
+Each pair shares one match or mismatch between the AI account and their experience. Then discuss:
+
+> Did the AI help us notice something, or lead us to describe the experience in its terms?
+
+Different reports can raise useful questions, but they do not by themselves establish that the AI description caused a difference. Record one question to carry into the next activity.
 
 ## Activity 4: AI as a Philosopher
 
@@ -125,7 +139,7 @@ Record an observation and an interpretation separately. The exercise can help us
 
 **Duration:** 20 minutes: 4 to generate, 8 to check, 5 to revise, 3 to share.
 
-**Format:** Pairs, with one device per pair or a shared class response.
+**Format:** Pairs, with one device per pair or a shared class response. Swap the tool and note-taking roles from Activity 3.
 
 ### Ask
 
@@ -155,25 +169,49 @@ Also note something useful in the explanation and something it leaves out. If th
 
 ### Revise and share
 
-Rewrite the claim in your own words using what you found. Share one correction or unresolved difficulty, with the passage that led you to it.
+Rewrite the claim in your own words using what you found. Join another pair and each share one correction or unresolved difficulty, with the passage that led you to it.
 
 Did the model help you understand an idea, or make one interpretation feel more obvious than it should? What could you establish from the text, and what remains your own argument?
 
-## Collective Reflection: What Changed?
+## Creative Application and Closing
 
-**Duration:** 10 minutes.
+**Duration:** 20 minutes.
 
-Return to the examples from Activity 1. Move or annotate one of your original choices, or explain why you still defend it. Point to an experience, argument, or source that informed your position.
+**Format:** Groups of four, then exchange with another group and finish individually.
 
-Add a short closing note:
+### Develop an Idea (7 min)
+
+Choose one question from the workshop. Sketch or describe an artwork, interface, or robot that lets someone explore it.
+
+Specify:
+
+- What the participant encounters and does
+- What the system senses or responds to
+- Which question about learning, perception, or AI interpretation the interaction raises
+
+Use one observation or source from the session to explain a design choice. A rough sketch with a few notes is enough.
+
+### Exchange with Another Group (6 min)
+
+Each group has **two minutes to explain its idea**, followed by **one minute for a question or response** from the other group. Then swap.
+
+Ask whether the interaction would let a participant investigate the question. What might they notice or interpret differently from what the designers expect?
+
+### Return to the Opening Questions (5 min)
+
+In the class discussion, revisit the examples from Data or Experience? and the opening question about learning through failure. Move or annotate one of your choices, or explain why you still defend it. Point to an experience, argument, or source that informed your position.
+
+Be ready to share one changed position or design question briefly if invited. Disagreement can remain on the board.
+
+### Individual Closing Note (2 min)
+
+Write:
 
 - **I first thought…**
 - **I now think / still think… because…**
 - **I am still unsure about…**
 
-Then sketch or describe one implication for creative practice: an artwork, interface, or robot that makes a difference between sensing, interpreting, and experiencing visible. What would a participant do, and what question would the interaction raise?
-
-Disagreement can remain on the board. The aim is a more precise question and a better-supported position.
+Keep your note with your group's work. The aim is a more precise question and a better-supported position.
 
 [Back to the resource guide](./session01_03.md) · [Course overview](../readme.md)
 

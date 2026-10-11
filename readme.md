@@ -12,43 +12,73 @@ Start with the question or activity introduced in class. Use the readings, podca
 - **For investigation:** a short reading or selected media passage that helps you develop or challenge an argument.
 - **Further exploration:** full recordings, notebooks, and readings to revisit afterward or use in a project.
 
-You are not expected to read, watch, or listen to everything. The perception workshop below includes time to consult resources in class and requires no advance reading. Use Miro to keep track of examples, disagreements, and changes of mind.
+You are not expected to read, watch, or listen to everything. Session 01 includes time to consult resources in class and requires no advance reading.
 
 ## Session 01: Learning and Perception
 
 ![Session 01 image](./assets/session01_01.png)
 
-### Part 1: AI Learning: Algorithms and Experiences
+**When we say that humans and AI “learn” or “perceive,” are we talking about the same thing?**
 
-**Question:** When we say that an AI system “learns,” what changes?
+The session lasts **140 minutes, including a 10-minute break**. Times below are minutes from the start.
 
-Explore data, patterns, training, and feedback using the [Session 01 slides](./slides/session01.html). Keep a concrete example of machine learning in mind as we turn to human learning.
+| Time | Activity | Working together |
+| --- | --- | --- |
+| 0–5 | Opening: learning through failure | Think individually, then discuss in pairs |
+| 5–25 | AI learning | Short introduction, pair investigation, class discussion |
+| 25–45 | Human learning | Groups of four, a short Pépin passage, contrasting positions |
+| 45–55 | Break | |
+| 55–65 | Data or Experience? | Pairs, then discuss a disagreement |
+| 65–80 | If the Sensors Go Dark | Groups of four |
+| 80–100 | Embodied or Disembodied? | Experiment in pairs, then compare with another pair |
+| 100–120 | AI as a Philosopher | Check a claim in pairs, then compare findings |
+| 120–140 | Creative application and closing | Groups of four, exchange with another group, individual reflection |
 
-### Part 2: Human Learning: A Philosophical View
+Keep the same partner through the session. Join another pair when a task calls for a group of four. When using AI, share one device: one person operates the tool while the other records observations or checks a source. Swap roles for the next AI activity.
 
-**Question:** What do we learn through failure, and what makes a failure meaningful to us?
+Everyone will share work with peers. In whole-class discussions, a few pairs or groups will contribute a short example, disagreement, or change of mind. No slide presentation is needed.
 
-[Human Learning: The Failed Animal](./content/session01_02.md) brings together Charles Pépin, philosophical discussion, and activities on error, culture, and freedom. Use an example from your own creative practice to question the comparison: both humans and machine-learning systems can learn through errors, but are they learning the same thing?
+### Opening: Learning Through Failure
 
-The page includes the podcast, an English transcript, and NotebookLM resources. Choose a relevant passage to investigate a question; the full collection remains available for further exploration.
+Think of something you learned through difficulty, perhaps in a creative project or an everyday task. What changed: your knowledge, behavior, confidence, or understanding?
 
-### Parts 3 and 4: Perception: Investigate Through Practice
+Take a minute to note your example, then compare with your partner. Keep it for the next activities; share only what you are comfortable discussing.
 
-**Question:** What would count as perception in an AI system?
+### Part 1: AI Learning
 
-**[Start the perception workshop](./content/session01_03_04.md)**: a proposed 70-minute sequence for this part of the session:
+**When we say that an AI system “learns,” what changes?**
 
-| Activity | What we investigate |
-| --- | --- |
-| Data or Experience? | Where our definitions of perception agree or differ |
-| If the Sensors Go Dark | The difference between a world, a representation, and access to it |
-| Embodied or Disembodied? | How movement, touch, and context shape perception |
-| AI as a Philosopher | How an LLM interprets philosophical ideas, checked against a source |
-| Collective reflection | What changed in our thinking, and what it suggests for design |
+After the short introduction using the [Session 01 slides](./slides/session01.html), examine the machine-learning example introduced in class with your partner:
 
-The activities and theory belong together. Consult the [perception resource guide](./content/session01_03.md) during the workshop for short philosophical introductions, NotebookLM links, and readings.
+- What information does the system receive?
+- How is an error or a successful result identified?
+- What changes through training, and how could we check whether it learned something useful?
 
-By the end, be ready to explain one distinction you find useful, support it with an observation or source, and describe one implication for an AI artwork or interaction.
+Write one sentence explaining what learning means in this example. Compare it with your opening example: what is similar, and where does the comparison become difficult?
+
+### Part 2: Human Learning
+
+**What do we learn through failure, and what makes a failure meaningful to us?**
+
+Join another pair. Choose one of your examples and describe what the person learned beyond simply getting a better result.
+
+Read the short passage in the [English Pépin transcript](./slides/static/vids/philo_en.md) beginning “Well, because we don't know how to do things instinctively” and ending “So there are virtues in failure.” Alternatively, listen to the corresponding excerpt played in class.
+
+Does the passage help explain your example? Where would you challenge it? Compare with the machine-learning example: both can involve errors, but what role do other people, emotions, and purposes play?
+
+Record one claim you can defend and one question you have not settled. Be ready to explain a contrasting position briefly in the class discussion.
+
+The [Human Learning resource page](./content/session01_02.md) contains the full podcast, NotebookLM material, and further questions. Use it to pursue a question; you do not need to complete all its suggested activities today.
+
+### Parts 3 and 4: Perception and Practice
+
+**What would count as perception in an AI system, and how might AI influence our own interpretations?**
+
+After the break, **[start the perception workshop](./content/session01_03_04.md)**. The four activities and creative closing take **85 minutes**.
+
+You will compare an AI description with your own experience, check a philosophical claim against a source, and develop a question into an artwork or interaction idea. Consult the [perception resource guide](./content/session01_03.md) when each activity calls for it.
+
+By the end, be ready to explain one distinction you find useful, support it with an observation or source, and describe one implication for your creative practice.
 
 ## Session 02
 
@@ -56,6 +86,6 @@ TBA
 
 ## Shared workspace
 
-[Public Miro board][miro-board]: collect questions and examples across the course. The perception workshop also has a dedicated [Maurice vs George board](https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904).
+[Public Miro board][miro-board]: collect questions and examples across the course. Use the dedicated [Maurice vs George board](https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904) for the perception workshop. Paper notes work too.
 
 [miro-board]: https://miro.com/app/board/uXjVGtZoflg=/
