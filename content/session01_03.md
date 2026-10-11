@@ -1,5 +1,7 @@
 # Perception: From Data to Experience
 
+> **Earlier optional topic — not part of the current Session 01.** Perception, Berkeley, and Merleau-Ponty remain available for independent exploration. The current classroom sequence is [Human Learning and Creativity](./session01.md); its optional guide is [Creativity, AI, and Society](./session01_creativity.md).
+
 **A companion to [Investigation 2: What does it mean to perceive?](./session01.md#investigation-2-what-does-it-mean-to-perceive-50-min) and [Investigation 3: How does AI shape our understanding?](./session01.md#investigation-3-how-does-ai-shape-our-understanding-35-min)**
 
 This is **optional background and further reading**, not a second workshop. Follow the experiments, prompts, and whole-class discussions on the [Session 01 classroom page](./session01.md). Use this guide if you want to understand a philosopher's idea more deeply or check an interpretation.
