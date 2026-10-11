@@ -45,7 +45,7 @@ Consider these examples:
 
 ### Ask NotebookLM (3 min)
 
-Only after making your choices, open the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) and ask the [Activity 1 question](./perception-guide.md#using-ai-to-explore-not-to-decide):
+Only after making your choices, open the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) and ask the following question:
 
 > What is the difference between recognizing a pattern in data and experiencing something? Explain using a cat as an example, in three simple sentences.
 
@@ -77,7 +77,7 @@ Now change one condition: the computer is switched off, but its storage remains 
 
 ### Bring in Berkeley
 
-Open the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) and use the focused [Activity 2 question](./perception-guide.md#using-ai-to-explore-not-to-decide). Ask how Berkeley explains what happens when one person stops perceiving something. Check a key claim against [section 6 of his *Principles of Human Knowledge*][berkeley-section-6], rather than reading everything.
+Open the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74) and ask how Berkeley explains what happens when one person stops perceiving something. Check a key claim against [section 6 of his *Principles of Human Knowledge*][berkeley-section-6], rather than reading everything.
 
 Berkeley's account includes perception by an eternal spirit; it is not simply the claim that objects disappear when an individual stops looking.
 
@@ -162,7 +162,7 @@ You can try a philosopher role-play afterward, but treat its output as generated
 
 ### Check
 
-Choose **one claim** from the response and compare it with a source in the [verification routes](./perception-guide.md#using-ai-to-explore-not-to-decide). Berkeley's section 6 is the default short, English-language route. For Merleau-Ponty, use the specified passage or an excerpt supplied in class.
+Choose **one claim** from the response and compare it with a source using the [source-checking advice](./perception-guide.md#using-ai-to-explore-not-to-decide). Berkeley's section 6 is the default short, English-language route. For Merleau-Ponty, use the specified passage or an excerpt supplied in class.
 
 NotebookLM can help locate and explain a passage. Open the cited source and inspect it: agreement between two AI responses is not verification.
 
