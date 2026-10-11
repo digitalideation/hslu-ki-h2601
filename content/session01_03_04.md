@@ -1,4 +1,4 @@
-# Perception Workshop — Thinking Like a Philosopher
+# Perception Workshop: Thinking Like a Philosopher
 
 What would count as perception in an AI system? Begin with your own examples, try an experiment, and use Berkeley and Merleau-Ponty to reconsider your answers.
 
@@ -18,7 +18,7 @@ This is a proposed **70-minute block for perception and practice**, not a timeta
 
 Open the [Maurice vs George Miro board][miro-perception] and the [perception resource guide](./session01_03.md). Keep a small working area for your group: **initial idea → observation or source → revised idea → open question**. Paper works too.
 
-## Activity 1 — Data or Experience?
+## Activity 1: Data or Experience?
 
 ![Data or experience](../assets/data_or_experience.png)
 
@@ -49,7 +49,7 @@ What are you using as your criterion: successful recognition, bodily interaction
 
 Keep your choices visible. We will return to them at the end.
 
-## Activity 2 — If the Sensors Go Dark
+## Activity 2: If the Sensors Go Dark
 
 ![A sensor goes dark](../assets/a_sensor_goes_dark.png)
 
@@ -81,7 +81,7 @@ Revise your answer, or defend it more precisely. Does a stored map count as perc
 
 Record one distinction the resource helped you make. Applying Berkeley to AI is our thought experiment, not a claim he made about computers.
 
-## Activity 3 — Embodied or Disembodied?
+## Activity 3: Embodied or Disembodied?
 
 ![Embodied or disembodied](../assets/embodied_or_disembodied.png)
 
@@ -91,19 +91,19 @@ Record one distinction the resource helped you make. Applying Berkeley to AI is 
 
 **Format:** Pairs or small groups. Choose one option.
 
-### Option A — Blind Navigation
+### Option A: Blind Navigation
 
 In a clear, level space, one volunteer closes their eyes while a partner guides them 3–4 meters with voice instructions. The partner stays within reach; stop whenever either person wants to. Swap roles if both want to participate. Choose touch recognition or the design option if you prefer.
 
 What helped you judge distance or direction? How did trust, movement, and your memory of the room affect the experience? This brief exercise explores your own perception; it does not reproduce the experience of living with blindness.
 
-### Option B — Touch Recognition
+### Option B: Touch Recognition
 
 Place a few familiar, safe objects in an opaque bag: a USB drive, coin, marker, or similar item. Identify one by touch. Notice how you move your hand to investigate it.
 
 What did movement reveal that a single touch did not? What did you recognize before you could put it into words?
 
-### Option C — Design Analogy
+### Option C: Design Analogy
 
 Sketch a robot that must find and pick up a coffee cup in a real room. Describe its sensors, possible movements, and how it would check whether it succeeded. Then change its body: make it unable to move around the cup.
 
@@ -117,7 +117,7 @@ What would a robot need to reproduce the behavior you observed? Would reproducin
 
 Record an observation and an interpretation separately. The exercise can help us ask about machine experience; it cannot settle that question.
 
-## Activity 4 — AI as a Philosopher
+## Activity 4: AI as a Philosopher
 
 ![AI as a philosopher](../assets/ai_%20as_%20a_philosopher.png)
 
@@ -149,7 +149,7 @@ Record:
 
 | LLM claim | Source and passage | Your assessment |
 | --- | --- | --- |
-| Quote or paraphrase one claim | Title and section, page, or paragraph | Supported, oversimplified, contradicted, or not settled by this passage — and why |
+| Quote or paraphrase one claim | Title and section, page, or paragraph | Supported, oversimplified, contradicted, or not settled by this passage, and why |
 
 Also note something useful in the explanation and something it leaves out. If the source does not address the application to AI, mark that limit rather than treating it as evidence for or against the application.
 
@@ -159,7 +159,7 @@ Rewrite the claim in your own words using what you found. Share one correction o
 
 Did the model help you understand an idea, or make one interpretation feel more obvious than it should? What could you establish from the text, and what remains your own argument?
 
-## Collective Reflection — What Changed?
+## Collective Reflection: What Changed?
 
 **Duration:** 10 minutes.
 

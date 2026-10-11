@@ -14,17 +14,17 @@ Start with the question or activity introduced in class. Use the readings, podca
 
 You are not expected to read, watch, or listen to everything. The perception workshop below includes time to consult resources in class and requires no advance reading. Use Miro to keep track of examples, disagreements, and changes of mind.
 
-## Session 01 — Learning and Perception
+## Session 01: Learning and Perception
 
 ![Session 01 image](./assets/session01_01.png)
 
-### Part 1: AI Learning — Algorithms and Experiences
+### Part 1: AI Learning: Algorithms and Experiences
 
 **Question:** When we say that an AI system “learns,” what changes?
 
 Explore data, patterns, training, and feedback using the [Session 01 slides](./slides/session01.html). Keep a concrete example of machine learning in mind as we turn to human learning.
 
-### Part 2: Human Learning — A Philosophical View
+### Part 2: Human Learning: A Philosophical View
 
 **Question:** What do we learn through failure, and what makes a failure meaningful to us?
 
@@ -32,11 +32,11 @@ Explore data, patterns, training, and feedback using the [Session 01 slides](./s
 
 The page includes the podcast, an English transcript, and NotebookLM resources. Choose a relevant passage to investigate a question; the full collection remains available for further exploration.
 
-### Parts 3 and 4: Perception — Investigate Through Practice
+### Parts 3 and 4: Perception: Investigate Through Practice
 
 **Question:** What would count as perception in an AI system?
 
-**[Start the perception workshop](./content/session01_03_04.md)** — a proposed 70-minute sequence for this part of the session:
+**[Start the perception workshop](./content/session01_03_04.md)**: a proposed 70-minute sequence for this part of the session:
 
 | Activity | What we investigate |
 | --- | --- |
@@ -56,6 +56,6 @@ TBA
 
 ## Shared workspace
 
-[Public Miro board][miro-board] — collect questions and examples across the course. The perception workshop also has a dedicated [Maurice vs George board](https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904).
+[Public Miro board][miro-board]: collect questions and examples across the course. The perception workshop also has a dedicated [Maurice vs George board](https://miro.com/app/board/uXjVIMRGp4w=/?share_link_id=956730497904).
 
 [miro-board]: https://miro.com/app/board/uXjVGtZoflg=/

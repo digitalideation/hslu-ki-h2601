@@ -1,4 +1,4 @@
-# Lecturer's Notes — Perception Workshop
+# Lecturer's Notes: Perception Workshop
 
 [Student workshop](./session01_03_04.md) · [Resource guide](./session01_03.md)
 
