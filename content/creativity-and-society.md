@@ -6,7 +6,7 @@ For this activity, read the **case file**, **used-car analogy**, and **stakehold
 
 **Guiding question:** When AI can generate creative work, what happens to intention, trust, value, and participation in culture?
 
-## Case file: the Orélien controversy
+## Case file: a literary controversy
 
 In September 2026, **Thélyson Orélien's** novel *C'était ça ou mourir* was receiving attention and literary acclaim in France. Claims then circulated that the book had been produced using generative AI. **Orélien disputed the accusation**, and the question of authorship became a public controversy.
 
