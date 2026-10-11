@@ -14,13 +14,19 @@ Our question is larger: **If readers admire a work, why might their judgment cha
 
 Listen, if you wish, to the [France Culture debate on the Orélien affair][radiofrance]. The broadcast is in French. The classroom page gives all the context needed to take part without listening to it.
 
-## The used-car "lemons" analogy
+## Why used cars help us understand trust in literature
 
-In economist George Akerlof's classic example, a buyer may be unable to tell a good used car from a bad one. When buyers cannot assess quality reliably, trust and prices can suffer.
+Economist George Akerlof's "market for lemons" is about a situation where **the seller knows something important that the buyer cannot easily check**. Economists call this *asymmetric information*.
 
-The analogy prompts a question, not a conclusion: if readers or clients are uncertain how creative work was produced, might that affect trust and how work is valued? Different audiences may care differently about authorship, quality, honesty, and process.
+1. **The car example:** A used car may be reliable, or it may look fine but hide serious problems (a "lemon"). The seller knows more about its condition than the buyer.
+2. **What follows:** Since buyers cannot distinguish them reliably, they may offer less money for all cars. Owners of reliable cars might not want to sell at that lower price. As trustworthy offers disappear, buyers become even more cautious.
+3. **The key idea:** When important information is difficult to verify, **uncertainty can hurt even the people offering something valuable**.
 
-**What does someone value in a creative work: the result alone, or also who made it, why, and how?**
+**Now apply only that idea to creative work.** Writers and publishers generally know more about how a book was produced than readers, critics, or prize juries. Some people care only about what they read; others also value human authorship, creative intention, personal experience, or honest disclosure. If they cannot verify the process, rumors about AI involvement might influence their trust, even when the writing itself has not changed. A writer who did not use AI can also suffer from unfounded suspicion.
+
+**Where the comparison stops:** A book involving AI is **not automatically a bad book**, and creative quality is not the same as mechanical reliability. The analogy concerns a potential gap in information **about the making of the work**, not a ranking of human and AI writing.
+
+**Questions to explore:** Who knows what about how a creative work was made? What do readers, publishers, and juries need to know? Would transparency resolve their concerns, or are there different values at stake?
 
 ## Six questions, one situation
 
