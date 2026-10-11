@@ -1,52 +1,52 @@
-# Lecturer's Notes: Session 01 (Three Investigations)
+# Lecturer's Notes: Session 01 — Human Learning and Creativity
 
-[Student-facing classroom page](./session01.md) · [Optional resource library](./session01_resources.md)
+[Student classroom page](./session01.md) · [Human Learning guide](./session01_02.md) · [Creativity and Society guide](./session01_creativity.md)
 
-## Teaching intention
+## Teaching purpose
 
-A single guided page takes students from their own view to an experiment or source and then a revised view. Preserve three meaningful whole-class conversations without 15 pair presentations. AI is used three different ways: exploring Pépin, comparing a description with touch, and critiquing an interpretation.
+This session addresses **human learning versus machine prediction versus creative intention**, the **black-box problem**, AI's effects on **agency, creativity, value, risk, ownership, and success**, impacts on **creative industries and stakeholders**, and a **starting point** for Assignment 1.
 
-**Total duration:** 140 minutes, including a 10-minute break. Keep the same 15 pairs if there are 30 students. No objects or printed activity kits need to be supplied.
+The lecturer is **not** supervising Assignment 1. The final 25-minute investigation gives students a possible question to develop later, not a required project proposal. Defer assessed formats, submission requirements, and detailed feedback to the module coordinator and official brief.
 
-## Facilitation schedule
+**Total duration:** 140 minutes, including a 10-minute break. The core session uses one student page; the two guides are optional.
 
-| Duration | Activity | Facilitation notes |
+## Facilitator schedule
+
+| Duration | Focus | Format / preparation |
 | --- | --- | --- |
-| 10 min | Opening, personal mistake, and cat recognition | Start with intuitive examples; avoid technical exposition |
-| 15 min | Explicit rules versus ML | Select a few slides; emphasize feedback and the distinction between training and using a trained model |
-| 12 min | Pépin and failure | NotebookLM question; transcript fallback; ask whether feedback, repetition, people and context mattered |
-| **8 min** | **Discussion 1: Learning** | **2–3 contrasting views; connect human and machine errors** |
+| 10 min | Who is the creator? | Festival campaign scenario; pairs articulate an initial view |
+| 15 min | Human learning, prediction, intention | Select only relevant AI/ML slides; brief Pépin connection; one human versus model example |
+| 20 min | Black-box experiment | 2 prompts, one controlled change in goal; compare outputs and limits of self-explanation |
+| **10 min** | **Discussion 1** | **Contrast generating, selecting, editing, intending; gather 2–3 views** |
 | 10 min | Break | |
-| 15 min | Robot and Berkeley | Let pairs define "world" before offering the philosophical passage |
-| 20 min | Touch and Merleau-Ponty | 3 min AI description, 7 min experiment, 5 min comparison, 5 min concept and pair reflection |
-| **15 min** | **Discussion 2: Perception** | **Start from concrete observations and bring both philosophers into conversation** |
-| 15 min | LLM source check | One Berkeley claim; check section 6; prioritize accurately describing what source does not settle |
-| 10 min | Creative sketch | One question, one interaction, one observation supporting the design |
-| **10 min** | **Discussion 3: Synthesis** | **2–3 ideas and individual three-line reflection** |
+| 15 min | Six lenses | Agency, creativity, value, risk, ownership, success; short scenario-based explanation |
+| 25 min | Stakeholder mapping | Join pairs into groups of four; map stakeholders and three lenses; one tension |
+| **10 min** | **Discussion 2** | **Compare consequences and competing interests** |
+| 15 min | A question to explore | Individual system + group + tension; brief peer challenge; no formal proposal |
+| **10 min** | **Discussion 3** | **A few questions and return to opening view; no presentations** |
 
-## Three class discussions
+## Facilitation details
 
-**1. Learning (8 min).** Put up: "Is making a mistake enough to learn something, for a human or for a machine?" Give 1 minute to pairs, hear two contrasted answers (4 min), clarify training versus inference and feedback (2 min), and give the transition (1 min). A mistake does not automatically update deployed AI models; neither does a human failure guarantee meaningful learning.
+**Opening and concepts.** Keep the festival poster scenario throughout the first two investigations to reduce cognitive load. Do not equate statistical prediction with human creative intention, but do not present them as exhaustive opposites either. Machine learning involves training and model adaptation; ordinary inference from a prompt does not automatically update model parameters. Pépin's "failed animal" argument is a philosophical provocation, not a scientific claim that must be accepted. Reference the [short transcript](../slides/static/vids/philo_en.md#learning-through-culture-and-failure) only if useful.
 
-**2. Perception (15 min).** Put up: "What did the experiment reveal that a description or stored map cannot necessarily capture?" Ask for particular hand movements, expectations, and changes of certainty (4 min). Contrast the robot's stored representation, live sensing, and possible experience (4 min). Use Berkeley to raise the question of minds and existence (3 min) and Merleau-Ponty to ask what active bodily engagement adds (3 min). End with an open question (1 min). Do not claim a behavioral experiment determines consciousness.
+**Black-box activity.** Use a text-based concept/tagline task so students need no image generation accounts or new materials. Both prompts keep the audience constant and change the **goal**. In 20 minutes: 3 min setup; 7 min generations; 6 min comparisons; 4 min limits and editorial choice. Outputs will vary independently of the prompt change; do not attribute every difference causally to the changed wording without repeated controlled comparisons. Ask what the students infer, know, and cannot inspect. Model statements about its own reasons are not privileged evidence about its computation. Some system mechanisms and documentation *are* knowable.
 
-**3. Interpretation (10 min).** Put up: "Did AI help us understand the world, or also shape how we described and interpreted it?" Invite two source-checking examples or design ideas (5 min), connect to the two guiding questions (3 min), and ask for the three-line individual reflection (2 min). No formal pair presentations.
+**Discussion 1.** Ask: "Where was creative intention in the experiment?" Give 1 min to pairs, hear a few contrasting examples, probe who made the choices, then connect generated output with purpose, audience, selection, revision, and responsibility. Avoid trying to settle whether AI is 'really creative.'
 
-## Preparation and conceptual guardrails
+**Six lenses and group work.** Put the same six lenses on screen. Groups of four list stakeholders, select only three lenses to avoid overload, and formulate one grounded tension. Encourage a plurality of stakeholders: designers, freelance contributors, clients, audiences, technology providers, people represented by outputs. Do not treat legal ownership or copyright as a settled cross-jurisdictional fact.
 
-- **Slides:** The full slide deck is longer than the allocated introduction. Select only the AI / ML distinction and the role of examples and feedback; do not attempt to show everything.
-- **NotebookLM:** Check the Human Learning notebook. Keep the [short Pépin transcript](../slides/static/vids/philo_en.md#learning-through-culture-and-failure) ready. A description from Pépin is an argument to test, not established developmental biology.
-- **Berkeley:** Have [section 6](https://celt.ucc.ie/published/E710001-001/text005.html) ready on screen. Berkeley's eternal spirit matters: do not reduce his claim to "the room vanishes when no human looks." Neither a saved map nor a camera makes a machine a mind by definition.
-- **Merleau-Ponty:** Short framing suffices in the touch activity; have a small teacher-selected English excerpt with precise edition/page if planning a deeper source discussion. Bodily involvement is more than adding sensors.
-- **Touch activity:** Ask students to use their own safe everyday objects; no materials distributed. Sharing and participation are voluntary. Alternative: design a cup-grasping robot, then remove movement. This alternative investigates design assumptions, not lived touch.
-- **LLM checking:** Use a short response and only **one** claim. Berkeley is the common short English source so all pairs can actually check it. AI agreement is not independent verification.
-- **Boards:** One Miro board is optional; paper is equally valid. Do not demand a new submission per activity.
-- **Access:** Have projected LLM / NotebookLM answers ready in case of account or network problems.
+**Discussion 2.** Hear two or three contrasting tensions, ask whose perspective was missing, and clarify that industry impacts differ by role and use case. Do not force conclusions that all AI adoption is harmful or beneficial.
 
-## Flexibility
+**Final 25 minutes.** The assessment has an **individual digital project** and requires an AI-assisted element and a meaningful non-AI contribution. Your role is to introduce one possible direction: AI use case, affected people, human experience or consequence. Students need not pick a medium or commit to an idea. The next 10-minute whole-class discussion shares a few interesting questions, not project pitches or evaluations.
 
-If a task overruns, shorten teacher exposition or the number of contributions, **not the physical experiment or the source check**. Keep the three discussion moments and the closing reflection, even if they need tighter facilitation. Ask students to remain with unresolved questions rather than rush toward consensus.
+## Access and pacing
+
+- Use selected [AI slides](../slides/session01.html) rather than the full deck, which also contains older perception material.
+- Prepare two example LLM responses as an offline or access fallback. Never require a paid image tool for the black-box activity.
+- Paper is sufficient for stakeholder notes. The [course board](https://miro.com/app/board/uXjVGtZoflg=/) is optional.
+- Keep the three plenary conversations by shortening exposition or the number of speakers if needed. No formal presentations or pair-by-pair reporting.
+- The previous perception and embodiment material remains available in [the earlier guide](./session01_03.md) and [workshop](./session01_03_04.md), but is **not** part of this class.
 
 ## After teaching
 
-Notice whether students can identify an original position, a source or observation, and what they reconsidered. Did the class discussions connect the investigations? Which use of AI added something useful and which distracted?
+Could students distinguish a generated prediction from a human intention without relying on a simple machine-versus-human slogan? Could they explain one black-box limitation without assuming total ignorance? Did they identify a concrete stakeholder tension, and did any student leave with a specific question they might want to investigate?
