@@ -96,9 +96,11 @@ Two thinkers, **George Berkeley** and **Maurice Merleau-Ponty**, offer powerful 
 
 > Can AI achieve a kind of “embodied perception” through interaction, even without human-like consciousness?
 
-## [3.4 Discussion and Reflection - _Thinking Like a Philosopher_](./session01_03_04.md)
+## [3.4 In-class workshop — _Thinking Like a Philosopher_](./session01_03_04.md)
 
-Before moving to the practical activities reflect and debate these questions:
+The linked workshop turns the ideas from this page into four activities: a perception-classification debate, a Berkeley thought experiment, an embodied exercise, and a source-checked LLM experiment. **Students do not need to read or watch every resource first**; selected excerpts can be introduced during the activities.
+
+Questions to keep in mind:
 
 1. Can an AI have an _experience_ of the world, or only data about it?
 2. If an AI stops receiving input, does its “world” disappear - like Berkeley’s unperceived object?
