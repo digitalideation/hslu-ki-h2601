@@ -1,5 +1,7 @@
 # Perception Workshop: Thinking Like a Philosopher
 
+> **Earlier workshop version (optional activity variations).** The current 140-minute class follows the [simplified Session 01 classroom page](./session01.md). The timings and sequence below are **not** the current class schedule. For concepts and references, use the [Perception guide](./session01_03.md).
+
 What would count as perception in an AI system? Begin with your own examples, try an experiment, and use Berkeley and Merleau-Ponty to reconsider your answers.
 
 **No advance reading required.** Stay with the **same partner throughout**. No switching groups or formal presentations. You will use short resources during the activities; full podcasts and readings are available for later exploration.
@@ -8,7 +10,7 @@ What would count as perception in an AI system? Begin with your own examples, tr
 
 This **85-minute workshop** starts after the break in [Session 01](./session01.md). The timings include short resource checks, pair reflection, and closing.
 
-| Time | Activity | Resource to use |
+| Duration | Activity | Resource to use |
 | --- | --- | --- |
 | 10 min | Data or Experience? | Your examples, a NotebookLM question, and the shared board |
 | 15 min | If the Sensors Go Dark | Berkeley introduction, then one short source passage |
