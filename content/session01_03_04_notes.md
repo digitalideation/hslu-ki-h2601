@@ -16,7 +16,7 @@ Look for students who can make a useful distinction, support it with an observat
 - For human learning, check access to the [Human Learning NotebookLM notebook](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and its simple question on the [Part 2 resource page](./session01_02.md). Prepare the short [English Pépin transcript section](../slides/static/vids/philo_en.md#learning-through-culture-and-failure) as a fallback. Pairs only; no whole-class discussion round or written deliverable.
 - Treat Pépin's argument as a philosophical proposal to question, not a biological account students must accept. The longer material's numerical claim about walking is not needed for this activity.
 - Open the [public course board][miro-board] for the opening work and the [Maurice vs George board][miro-perception] for perception. Provide one area for each of the 15 pairs for initial ideas, observations, revisions, and questions. Paper is a fallback.
-- Prepare an opaque bag or covered object for each of the 15 pairs to avoid queues. Use objects students cannot already see. Check whether the touch activity is suitable for everyone and prepare an alternative.
+- No materials need to be supplied for touch recognition. Students use safe everyday objects they already have (such as pens, erasers, keyrings, or charging cables) and keep them out of sight while their partner explores them by touch. Ask students to choose objects they are comfortable sharing and touching; keep the design-analogy alternative available.
 - Check access to the [Perception NotebookLM notebook](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74). Make [Berkeley's section 6][berkeley-section-6] available on screen or as a short handout for source checks. Students should not need to read the full philosophical texts.
 - If using Merleau-Ponty for source verification, prepare the specified [French Preface paragraph][merleau-ponty-preface] or a corresponding English excerpt with edition and page. Otherwise use the short course introduction in Activity 3 and Berkeley for Activity 4.
 - If using the NotebookLM podcast, select a 2–3-minute passage beforehand. Use it within the resource time as an alternative explanation, not an additional listening task. Retain the original-source check in Activity 4.
@@ -60,7 +60,7 @@ With 30 students, keep the same **15 pairs** throughout the workshop. No switchi
 
 In Activity 1, have pairs make their own classifications for five minutes **before** they open NotebookLM. Use the three-minute NotebookLM question to introduce a possible new distinction, then allow two minutes to compare. Skip NotebookLM if access is slow.
 
-For touch recognition, distribute materials before the exercise so 15 pairs can work simultaneously. For the creative closing, each pair sketches, switches roles between designer and critical participant for three minutes each, and improves its own idea. A brief teacher summary replaces the former exchanges between groups.
+For touch recognition, have each of the 15 pairs use their own everyday items simultaneously, without collecting or distributing anything. For the creative closing, each pair sketches, switches roles between designer and critical participant for three minutes each, and improves its own idea. A brief teacher summary replaces the former exchanges between groups.
 
 Avoid hearing from all 15 pairs. A show of hands or one or two optional comments is enough. If attendance is odd, one trio can work without reorganizing everyone.
 
@@ -70,7 +70,7 @@ The default student sequence uses touch recognition. Students read an AI descrip
 
 Do not treat agreement with the model as a successful outcome. Ask what its account made easier to notice and whether its language shaped students' own descriptions. Separate observation, interpretation, and claims about causation.
 
-An optional variation is to have one partner read the AI description before touching an object and the other read it only afterward. Assign roles before displaying the response, keep it out of the second partner's view, and have both record observations before talking. Use separate unseen objects or reset the bag without revealing its contents. This is an exploratory comparison: differences could also reflect the objects, prior knowledge, order, or individual variation. Do not present it as proof of an AI effect.
+An optional variation is to have one partner read the AI description before touching an object and the other read it only afterward. Assign roles before displaying the response, keep it out of the second partner's view, and have both record observations before talking. Have the partners choose different objects without showing them to one another. This is an exploratory comparison: differences could also reflect the objects, prior knowledge, order, or individual variation. Do not present it as proof of an AI effect.
 
 ### Alternative: Blind Navigation
 
