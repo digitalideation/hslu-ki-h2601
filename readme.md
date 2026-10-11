@@ -54,13 +54,27 @@ Keep the same partner through the session. When needed, two pairs join into a gr
 
 **Part 1: AI Learning (20 min)**
 
-**When an AI system "learns," what changes?** After the short introduction, examine the machine-learning example introduced in class with your partner.
+**Guiding question: When an AI system "learns," what actually changes?**
 
-- What information does the system receive?
-- How is an error or a successful result identified?
-- What changes through training, and how could we check whether it learned something useful?
+**A shared example: Cat or not a cat?** Imagine an image classifier trained to answer **"Does this photo show a real cat?"** It has learned from photos labeled **"real cat"** or **"not a real cat"**. When shown a new photo of a **plush cat toy**, it predicts **"real cat"**. For this task, the prediction is wrong. This is an imagined example, not the result of testing a particular model.
 
-Write one sentence explaining learning in this example. Compare it with your opening example. What seems similar, and where does the comparison become difficult?
+**1. Short introduction (7 min)**
+
+Use the selected [Session 01 slides](./slides/session01.html) to explore the difference between writing explicit rules and training a model using examples. Consider the roles of training images, labels, predictions, and errors.
+
+**2. Investigate in pairs (9 min)**
+
+- What did the classifier receive during training, and what did it predict for the toy?
+- Why might it make this mistake? What examples or feedback could help it improve?
+- How would you test whether it improved on **new photos**, rather than just memorizing this example? Does one wrong prediction automatically change the model?
+
+Write **one sentence distinguishing training from using a trained model**, and suggest **one way to test an improvement**. No coding or model training is required.
+
+**3. Compare with the class (4 min)**
+
+Hear two different explanations. What can a mistake reveal about what the model learned? Compare this with the personal example you discussed at the start of the session: what seems similar about learning from errors, and what may be different?
+
+This question will lead into Part 2 on human learning and the meaning of failure.
 
 **Part 2: Human Learning (20 min)**
 
