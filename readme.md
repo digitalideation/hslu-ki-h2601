@@ -26,6 +26,12 @@ The [extended Perception Workshop](./content/perception-workshop.md) is preserve
 
 **NotebookLM:** [Human Learning](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) · [Perception](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74)
 
+### [Session 02: Digital Creativity Lab](./content/session02.md)
+
+**140 minutes, including a 10-minute break.** Try a shared creative experiment about AI-assisted art and artist statements, then work on your Assignment 1 project with individual support and peer testing. You can bring an idea, unfinished material, or an almost-finished project.
+
+**[Open the Session 02 classroom page](./content/session02.md)** · [Tools and resources](./content/session02-resources.md)
+
 ## Shared board
 
 [Public course Miro board](https://miro.com/app/board/uXjVGtZoflg=/) is an optional space for questions and observations.
