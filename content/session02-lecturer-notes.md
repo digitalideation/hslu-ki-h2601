@@ -12,7 +12,7 @@ The session should accommodate students with only an idea, work in progress, or 
 
 ## Tools: Replicate and alternatives
 
-**Recommendation:** Keep Replicate as a **teacher-curated option for the common experiment**, not a mandatory platform for all students. Choose a working model in advance, demonstrate one generation, and make a fallback image available. If you permit student use, explain exactly how access is granted before class, check usage costs and account permissions, and set a spending policy. **Never display, paste, distribute, or commit your personal Replicate API token.** Do not encourage students to share a personal login.
+**Recommendation:** Keep Replicate as a **lecturer-curated option for the common experiment**, not a mandatory platform for all students. Choose a working model in advance, demonstrate one generation, and make a fallback image available. If you permit student use, explain exactly how access is granted before class, check usage costs and account permissions, and set a spending policy. **Never display, paste, distribute, or commit your personal Replicate API token.** Do not encourage students to share a personal login.
 
 The open studio is **tool-agnostic**. Students may use tools they already know and that fit their project medium. Avoid new account creation where the burden exceeds the value. The fictional "hide AI" role in the experiment is a critical examination of persuasion; remind students to disclose actual AI use accurately in their assessed projects.
 
