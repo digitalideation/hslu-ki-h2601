@@ -21,7 +21,7 @@ Today is a **hands-on studio**. We begin with one shared creative experiment, th
 
 [Tools and resources for Session 02](./session02-resources.md) · [Session 01 for background](./session01.md)
 
-**Tools:** For the opening experiment we will use an available image generator, potentially [Replicate](https://replicate.com/explore), with an AI writing assistant if useful. The teacher will explain access in class. **For your own project, use the tools that fit your work:** image, text, video, audio, editing, coding, physical making, or a combination. There is **no required studio tool** and no requirement to use Replicate.
+**Tools:** For the opening experiment we will use an available image generator, potentially [Replicate](https://replicate.com/explore), with an AI writing assistant if useful. The lecturer will explain access in class. **For your own project, use the tools that fit your work:** image, text, video, audio, editing, coding, physical making, or a combination. There is **no required studio tool** and no requirement to use Replicate.
 
 **What you keep:** your experiment, useful progress on your own project, comments from a peer, and next steps. These are working materials, **not a separate submission for this session**.
 
@@ -53,7 +53,7 @@ The contradiction is deliberate. **Role B is fictional persuasion to examine tru
 **Do (pairs):**
 
 1. **Choose a role and artistic direction (3 min).** What is your fictional artwork about, and what should the viewer believe?
-2. **Make the image (8 min).** Try an image-generation tool. Change your prompt or approach at least once, then choose one image. If you cannot generate images, use an AI image shown by the teacher and focus on how to frame it.
+2. **Make the image (8 min).** Try an image-generation tool. Change your prompt or approach at least once, then choose one image. If you cannot generate images, use an AI image shown by the lecturer and focus on how to frame it.
 3. **Write the statement (6 min).** Create a **60–100-word** artist's statement. You may use an LLM to draft it, but revise it yourselves to fit the image and the assigned role.
 4. **Check the result (3 min).** Decide what you changed and why. Does the text make the image seem more personal, valuable, or credible?
 
@@ -78,8 +78,8 @@ The contradiction is deliberate. **Role B is fictional persuasion to examine tru
 
 **Do (individual):**
 
-1. **Set one concrete goal (first 5 min).** Choose the most useful thing you can realistically work on today. If you need the teacher, prepare a specific question and ask for a short consultation.
-2. **Make progress (next 45 min).** Produce, edit, combine, test, or refine your materials. Work in the tools or medium your project requires. The teacher will circulate and prioritize students who are stuck or need help making a decision.
+1. **Set one concrete goal (first 5 min).** Choose the most useful thing you can realistically work on today. If you need the lecturer, prepare a specific question and ask for a short consultation.
+2. **Make progress (next 45 min).** Produce, edit, combine, test, or refine your materials. Work in the tools or medium your project requires. The lecturer will circulate and prioritize students who are stuck or need help making a decision.
 3. **Choose what to show (last 5 min).** Select something a classmate can react to in the peer test: a sketch, short concept, draft image, written passage, sound clip, video segment, interface, or the actual work.
 
 ### Different starting points are fine
