@@ -19,6 +19,8 @@ Today is a **hands-on studio**. We begin with one shared creative experiment, th
 | 15 min | Improve something and decide next steps | Individual |
 | **140 min** | **Total** | |
 
+[Tools and resources for Session 02](./session02-resources.md) · [Session 01 for background](./session01.md)
+
 **Tools:** For the opening experiment we will use an available image generator, potentially [Replicate](https://replicate.com/explore), with an AI writing assistant if useful. The teacher will explain access in class. **For your own project, use the tools that fit your work:** image, text, video, audio, editing, coding, physical making, or a combination. There is **no required studio tool** and no requirement to use Replicate.
 
 **What you keep:** your experiment, useful progress on your own project, comments from a peer, and next steps. These are working materials, **not a separate submission for this session**.
@@ -140,4 +142,4 @@ The aim is to find out how someone else receives the work, **not** to give it a 
 
 Your official Assignment 1 brief states **29 October 2026** for the individual digital project and **15 November 2026** for the reflection. Check the module's submission instructions rather than treating this workshop page as the brief.
 
-[← Course homepage](../readme.md)
+[Tools and resources](./session02-resources.md) · [← Course homepage](../readme.md)
