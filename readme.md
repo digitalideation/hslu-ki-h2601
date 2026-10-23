@@ -1,37 +1,41 @@
 # I.BA_PHKI.H2601
 
-How do humans learn, perceive, and create? What changes when AI participates in creative work and culture?
+Human learning, perception, creativity, and their changing relationship with AI.
 
-The course uses experiments, philosophy, conversation, and questions about society. **NotebookLM notebooks, podcasts, and readings are resources to explore, not a compulsory checklist.**
+This course combines short introductions, experiments, discussion, and creative practice. **Start with the session page:** it tells you what to do, what to keep from each activity, and when to use the guides. Readings, podcasts, and NotebookLM notebooks are available as resources, not a list of required homework.
 
 ## Sessions
 
 ### [Session 01: Human Learning, Perception, and Creativity](./content/session01.md)
 
-![Session 01 course illustration](./assets/session01_00.png)
+<img src="./assets/session01_00.png" alt="Session 01 illustration" width="480">
 
-**140 minutes including a 10-minute break.** Compare human and machine learning; explore Berkeley and Merleau-Ponty through perception and touch; discuss creative value, authorship, and society through the Thélyson Orélien controversy. Finish with a possible question to investigate later.
+**140 minutes, including a 10-minute break · Pairs, experiments, and discussion**
 
-**[Open the Session 01 classroom page](./content/session01.md)**
+How do humans and machines learn? What do perception and the body contribute to creativity? Why does AI involvement change how some people value a work?
 
-**Guides used in class** (open them when you reach each topic):
+**[Open Session 01](./content/session01.md)**
 
-| Topic | Guide |
-| --- | --- |
-| **Learning and Pépin** | [Human Learning](./content/human-learning.md) |
-| **Berkeley and touch** | [Perception and the Body](./content/perception-guide.md) |
-| **Literary controversy and stakeholders** | **[Creativity and Society](./content/creativity-and-society.md)** |
+Guides used during class: [Human Learning](./content/human-learning.md) · [Perception](./content/perception-guide.md) · [Creativity and Society](./content/creativity-and-society.md)
 
-The [extended Perception Workshop](./content/perception-workshop.md) is preserved for optional further activities.
-
-**NotebookLM:** [Human Learning](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) · [Perception](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74)
+---
 
 ### [Session 02: Digital Creativity Lab](./content/session02.md)
 
-**140 minutes, including a 10-minute break.** Try a shared creative experiment about AI-assisted art and artist statements, then work on your Assignment 1 project with individual support and peer testing. You can bring an idea, unfinished material, or an almost-finished project.
+<img src="./assets/session02_00.png" alt="Session 02 illustration" width="480">
 
-**[Open the Session 02 classroom page](./content/session02.md)** · [Tools and resources](./content/session02-resources.md)
+**140 minutes, including a 10-minute break · Creative experiment, project studio, and peer testing**
 
-## Shared board
+Experiment with image and text, then work on your own Assignment 1 project. Get individual support where needed and test how someone else understands your work.
 
-[Public course Miro board](https://miro.com/app/board/uXjVGtZoflg=/) is an optional space for questions and observations.
+**[Open Session 02](./content/session02.md)**
+
+Resources: [Tools and project support](./content/session02-resources.md)
+
+## Shared resources
+
+- [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484)
+- [Perception NotebookLM](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74)
+- [Course Miro board](https://miro.com/app/board/uXjVGtZoflg=/)
+
+Use the **official Assignment 1 brief** for assessment requirements, submissions, and deadlines.
