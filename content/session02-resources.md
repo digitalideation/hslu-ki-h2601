@@ -4,7 +4,7 @@
 
 ## For the shared experiment
 
-- [Replicate Explore](https://replicate.com/explore): possible image-generation playground. Access will be explained in class; the lecturer may demonstrate or provide an image instead.
+- [Replicate Explore](https://replicate.com/explore): possible image-generation playground. Access will be explained in class.
 - Any available AI writing assistant: try generating and then editing the fictional artist's statement. The point is how you shape and frame the result, not the brand of model.
 
 ## For your own project

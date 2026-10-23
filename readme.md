@@ -8,7 +8,7 @@ This course combines short introductions, experiments, discussion, and creative 
 
 ### [Session 01: Human Learning, Perception, and Creativity](./content/session01.md)
 
-<img src="./assets/session01_00.png" alt="Session 01 illustration" width="480">
+<img src="./assets/session01_00.png" alt="Session 01 illustration" width="100%">
 
 **140 minutes, including a 10-minute break · Pairs, experiments, and discussion**
 
@@ -22,7 +22,7 @@ Guides used during class: [Human Learning](./content/human-learning.md) · [Perc
 
 ### [Session 02: Digital Creativity Lab](./content/session02.md)
 
-<img src="./assets/session02_00.png" alt="Session 02 illustration" width="480">
+<img src="./assets/session02_00.png" alt="Session 02 illustration" width="100%">
 
 **140 minutes, including a 10-minute break · Creative experiment, project studio, and peer testing**
 

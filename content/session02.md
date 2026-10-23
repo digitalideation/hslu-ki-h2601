@@ -1,6 +1,6 @@
 # Session 02: Digital Creativity Lab
 
-<img src="../assets/session02_01.png" alt="Session 02 illustration" width="640">
+<img src="../assets/session02_01.png" alt="Session 02 illustration" width="100%">
 
 **Central question:** How can we use generative AI to make intentional creative work, and how can we find out what an audience actually understands?
 
@@ -10,18 +10,18 @@ Bring **what you already have** for Assignment 1: an idea, sketches, files, work
 
 ## Session at a glance
 
-| Duration | Activity | Format |
-| --- | --- | --- |
-| 5 min | Where is your project now? | Individual |
-| 20 min | The Artist's Statement | Pairs |
-| **10 min** | **Discussion: Does the story change the artwork?** | **Class** |
-| **10 min** | **Break** | |
-| **55 min** | **Open Project Studio and individual consultations** | **Individual** |
-| 25 min | Peer testing | Pairs |
-| 15 min | Improve and decide next steps | Individual |
-| **140 min** | **Total** | |
+| Duration    | Activity                                             | Format         |
+| ----------- | ---------------------------------------------------- | -------------- |
+| 5 min       | Where is your project now?                           | Individual     |
+| 20 min      | The Artist's Statement                               | Pairs          |
+| **10 min**  | **Discussion: Does the story change the artwork?**   | **Class**      |
+| **10 min**  | **Break**                                            |                |
+| **55 min**  | **Open Project Studio and individual consultations** | **Individual** |
+| 25 min      | Peer testing                                         | Pairs          |
+| 15 min      | Improve and decide next steps                        | Individual     |
+| **140 min** | **Total**                                            |                |
 
-**Tools:** We'll use an available image generator for the opening exercise; the lecturer will explain access. [Replicate](https://replicate.com/explore) may be one option. During your project studio, use whichever tools fit your work, with or without AI. See [Tools and resources](./session02-resources.md).
+**Tools:** We'll use an available image generator for the opening exercise. [Replicate](https://replicate.com/explore) may be one option. During your project studio, use whichever tools fit your work, with or without AI. See [Tools and resources](./session02-resources.md).
 
 ## 1. Experiment: The Artist's Statement (35 min)
 
@@ -37,9 +37,9 @@ Bring **what you already have** for Assignment 1: an idea, sketches, files, work
 
 Choose one role:
 
-| Role | What your fictional artist wants |
-| --- | --- |
-| **A. Defend AI** | Convince visitors that using AI is a legitimate artistic decision; explain the artist's contribution. |
+| Role              | What your fictional artist wants                                                                                           |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **A. Defend AI**  | Convince visitors that using AI is a legitimate artistic decision; explain the artist's contribution.                      |
 | **B. Conceal AI** | Convince visitors the work was made without AI, even though it wasn't. Explore how an artist's story can manipulate trust. |
 
 **Do (pairs):**
@@ -51,7 +51,7 @@ Choose one role:
 
 **Produce:** **One image, one 60–100-word artist statement, and one sentence** explaining your revision.
 
-*Role B is a fictional exercise about credibility and deception. Do not misrepresent AI use in your actual assessed work.*
+_Role B is a fictional exercise about credibility and deception. Do not misrepresent AI use in your actual assessed work._
 
 ### Discussion: Does the story change the artwork? (10 min)
 
@@ -63,7 +63,7 @@ Choose one role:
 
 ## 2. Open Project Studio (55 min)
 
-**This is time for your existing Assignment 1 project.** The lecturer will offer short individual consultations, prioritizing people who are blocked or need help making a decision. You don't have to start over or use the tool from the opening experiment.
+**This is time for your existing Assignment 1 project.** We will have short individual consultations, prioritizing people who are blocked or need help making a decision. You don't have to start over or use the tool from the opening experiment.
 
 **Do (individual):**
 
@@ -71,11 +71,11 @@ Choose one role:
 2. **Next 45 min:** Work on your project. Make, edit, combine, test, or refine material using your preferred tools.
 3. **Last 5 min:** Select something your partner can react to during peer testing.
 
-| Where you are | What to work on | What to show later |
-| --- | --- | --- |
-| **Only an idea** | Define the AI-related question, affected people, audience experience, and possible form | A short description plus a sketch, sequence, or references |
-| **Making the project** | Improve one meaningful part | A draft image, text, sound, video segment, interface, or experiment |
-| **Nearly finished** | Check clarity, the viewing experience, and what remains to fix | The work or its closest shareable version |
+| Where you are          | What to work on                                                                         | What to show later                                                  |
+| ---------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Only an idea**       | Define the AI-related question, affected people, audience experience, and possible form | A short description plus a sketch, sequence, or references          |
+| **Making the project** | Improve one meaningful part                                                             | A draft image, text, sound, video segment, interface, or experiment |
+| **Nearly finished**    | Check clarity, the viewing experience, and what remains to fix                          | The work or its closest shareable version                           |
 
 **Produce:** **Useful progress on your project and one question for your peer.** A completed prototype is **not required**.
 

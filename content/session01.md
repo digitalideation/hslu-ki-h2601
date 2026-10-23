@@ -1,6 +1,6 @@
 # Session 01: Human Learning, Perception, and Creativity
 
-<img src="../assets/session01_01.png" alt="Session 01 illustration" width="640">
+<img src="../assets/session01_01.png" alt="Session 01 illustration" width="100%">
 
 **Central question:** What makes human learning and creativity different from what AI does, and why does that matter?
 
@@ -10,19 +10,19 @@ Work with the same partner for most activities, then join another pair for one s
 
 ## Session at a glance
 
-| Duration | Activity | Format |
-| --- | --- | --- |
-| 10 min | Cat recognition | Pairs |
-| 15 min | Machine learning and the black box | Introduction + pairs |
-| 15 min | Charles Pépin: failure and learning | Guide + NotebookLM + pairs |
-| **10 min** | **Discussion: What does it mean to learn?** | **Class** |
-| **10 min** | **Break** | |
-| 10 min | Berkeley: If the Sensors Go Dark | Guide + pairs |
-| 20 min | Touch recognition and Merleau-Ponty | Experiment + guide |
-| **10 min** | **Discussion: What does the body contribute to creativity?** | **Class** |
-| 25 min | A literary controversy: creativity and society | Guide + groups |
-| 15 min | A starting point for Assignment 1 | Individual + pairs |
-| **140 min** | **Total** | |
+| Duration    | Activity                                                     | Format                     |
+| ----------- | ------------------------------------------------------------ | -------------------------- |
+| 10 min      | Cat recognition                                              | Pairs                      |
+| 15 min      | Machine learning and the black box                           | Introduction + pairs       |
+| 15 min      | Charles Pépin: failure and learning                          | Guide + NotebookLM + pairs |
+| **10 min**  | **Discussion: What does it mean to learn?**                  | **Class**                  |
+| **10 min**  | **Break**                                                    |                            |
+| 10 min      | Berkeley: If the Sensors Go Dark                             | Guide + pairs              |
+| 20 min      | Touch recognition and Merleau-Ponty                          | Experiment + guide         |
+| **10 min**  | **Discussion: What does the body contribute to creativity?** | **Class**                  |
+| 25 min      | A literary controversy: creativity and society               | Guide + groups             |
+| 15 min      | A starting point for Assignment 1                            | Individual + pairs         |
+| **140 min** | **Total**                                                    |                            |
 
 **Guides you'll use during the workshop:** [Human Learning](./human-learning.md) · [Perception](./perception-guide.md) · **[Creativity and Society](./creativity-and-society.md)**. Open each at the activity that asks for it. You do not need to read them all in advance.
 
@@ -32,8 +32,8 @@ Work with the same partner for most activities, then join another pair for one s
 
 Imagine teaching a computer to distinguish a **real cat** from a **plush cat**.
 
-| Real cat | Plush cat |
-| :---: | :---: |
+|                                                                      Real cat                                                                      |                                                             Plush cat                                                             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tabby_cat_on_a_chair_%28Unsplash%29.jpg?width=480" alt="Real tabby cat" width="220"> | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/TCMI_Cheshire_Cat_2.jpg?width=480" alt="Plush cat toy" width="220"> |
 
 **Do (pairs):** Invent two rules for recognizing real cats. Find a possible image that would break at least one rule. Improve that rule.
@@ -56,6 +56,7 @@ Follow a short introduction using the [AI Learning slides](../slides/session01.h
 **Open the [Human Learning guide](./human-learning.md#why-failure-matters)** and read the short explanation of Pépin's idea that human dependence and failure can create opportunities for learning, culture, and freedom.
 
 **Do (pairs):**
+
 1. Recall something you learned through mistakes. What actually helped you improve?
 2. Open the [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) and ask:
 
@@ -103,7 +104,7 @@ Imagine a robot with a camera and a saved map of a room. The camera is disconnec
 
 **Produce:** **Two observations from the experiment and one comparison** with the AI's description.
 
-*Alternative:* If touching an object isn't suitable, discuss how a robot would recognize and pick it up with and without the ability to move. Note one insight.
+_Alternative:_ If touching an object isn't suitable, discuss how a robot would recognize and pick it up with and without the ability to move. Note one insight.
 
 ### Discussion: What does the body contribute to creativity? (10 min)
 
@@ -129,7 +130,7 @@ The allegations about this specific author are disputed. **Do not try to decide 
 
 **Produce:** Complete: **"Just as car buyers cannot easily know..., readers cannot easily know..., which could affect..."**
 
-*The analogy concerns missing information and trust, not a claim that AI-assisted books are inferior.*
+_The analogy concerns missing information and trust, not a claim that AI-assisted books are inferior._
 
 ### Stakeholder investigation (8 min)
 
@@ -150,6 +151,7 @@ The allegations about this specific author are disputed. **Do not try to decide 
 This is **inspiration**, not a project proposal or an additional assessment. Follow the official assignment brief for requirements and deadlines.
 
 **Do:**
+
 1. **Individual (5 min):** Choose an AI use case that interests you and a group of people it affects.
 2. **Pairs (5 min):** Explain your question to your partner. Check whether the situation and stakes are clear, then refine it.
 3. **Closing (5 min):** We'll hear a few possible questions, not project presentations.
@@ -160,10 +162,10 @@ This is **inspiration**, not a project proposal or an additional assessment. Fol
 - **People affected and what changes for them:** ...
 - **Question I might explore:** ...
 
-**For further ideation (optional):** Return to the [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) or [Perception NotebookLM](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74). Ask for *questions inspired by sources*, not finished projects. The [France Culture debate](https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314) is separate optional listening.
+**For further ideation (optional):** Return to the [Human Learning NotebookLM](https://notebooklm.google.com/notebook/f147adf8-e289-4bc4-938e-350a61e5a484) or [Perception NotebookLM](https://notebooklm.google.com/notebook/af5ed21e-57cd-4d0a-b2a1-8c96e3e75d74). Ask for _questions inspired by sources_, not finished projects. The [France Culture debate](https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314) is separate optional listening.
 
 ---
 
 [← Course home](../readme.md) · [Session 02: Digital Creativity Lab →](./session02.md) · [Extended Perception Workshop (optional)](./perception-workshop.md)
 
-*Cat images: [Sarah Dorweiler (CC0)](https://commons.wikimedia.org/wiki/File:Tabby_cat_on_a_chair_%28Unsplash%29.jpg) and [Daniel Schwen (CC BY-SA 3.0)](https://commons.wikimedia.org/wiki/File:TCMI_Cheshire_Cat_2.jpg).*
+_Cat images: [Sarah Dorweiler (CC0)](https://commons.wikimedia.org/wiki/File:Tabby_cat_on_a_chair_%28Unsplash%29.jpg) and [Daniel Schwen (CC BY-SA 3.0)](https://commons.wikimedia.org/wiki/File:TCMI_Cheshire_Cat_2.jpg)._
